@@ -1,0 +1,14 @@
+# Public domain: masuip.com.
+# Put website files in C:\Websites\masuip or update the root path below.
+
+masuip.com {
+  root * C:\Websites\masuip
+  file_server
+  encode gzip zstd
+}
+
+# Local-only testing option:
+# http://localhost:8080 {
+#   root * C:\Websites\masuip
+#   file_server
+# }
