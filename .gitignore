@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.log
+node_modules/
+dist/
+build/
+__pycache__/
+*.pyc
+deploy/*.zip
+deploy/site-root/
+deploy/verify-root/
+deploy/masuip-github-source/
+wechat-articles.docx
+assets/credentials-raw/
