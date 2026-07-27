@@ -40,11 +40,8 @@
   const rec = document.createElement("aside");
   rec.className = "related-articles";
   rec.innerHTML = '<p class="eyebrow">Related Articles</p><h2>Continue this series</h2><div class="content-grid">' + related.map((article) => '<article class="content-card"><p>' + article.category + '</p><h3>' + article.title + '</h3><span>' + article.description + '</span><a href="' + article.slug + '.html">Read article</a></article>').join("") + '</div>';
-  const subscribe = document.createElement("aside");
-  subscribe.className = "cta-newsletter article-newsletter";
-  subscribe.innerHTML = '<div><p class="eyebrow">Newsletter</p><h2>Get new IP strategy articles.</h2></div><form class="newsletter-form" action="https://app.convertkit.com/forms/0000000/subscriptions" method="post"><label><span>Email</span><input type="email" name="email_address" placeholder="you@example.com" required /></label><button type="submit">Subscribe</button><p>Replace this placeholder action with your ConvertKit form URL when ready.</p></form>';
   shell.prepend(author);
-  shell.append(share, rec, subscribe);
+  shell.append(share, rec);
   const copy = share.querySelector("[data-copy-link]");
   copy.addEventListener("click", async () => {
     await navigator.clipboard.writeText(location.href);

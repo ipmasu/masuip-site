@@ -246,17 +246,6 @@ function articleCard(article, prefix = "") {
           </article>`;
 }
 
-function newsletter() {
-  return `<form class="newsletter-form" action="https://app.convertkit.com/forms/0000000/subscriptions" method="post" data-editable="newsletter-form">
-            <label>
-              <span>Subscribe to Ma Su IP Notes</span>
-              <input type="email" name="email_address" placeholder="you@example.com" required />
-            </label>
-            <button type="submit">Subscribe</button>
-            <p>Replace this placeholder action with your ConvertKit form URL when ready.</p>
-          </form>`;
-}
-
 function pageShell(title, description, body, prefix = "") {
   return `<!doctype html>
 <html lang="en">
@@ -357,12 +346,13 @@ function homePage() {
         <p>Ma Su · ShineRed IP</p>
       </section>
 
-      <section class="cta-newsletter" data-editable="home-cta">
+      <section class="honors-band" data-editable="home-final-cta">
         <div>
-          <p class="eyebrow">Newsletter</p>
-          <h2>Get cross-border patent strategy notes and AI-era innovation articles.</h2>
+          <p class="eyebrow">Work with Ma Su</p>
+          <h2>Turn technical problems into protectable inventions.</h2>
+          <p>For China entry, overseas patent layout, enterprise invention mining, or youth science innovation coaching, start with a focused conversation about the real technical problem.</p>
         </div>
-        ${newsletter()}
+        <a class="primary-action" href="contact.html">Discuss cooperation</a>
       </section>`;
   return pageShell("Ma Su | Cross-border Patent Strategy and Innovation", "Ma Su and ShineRed IP publish examiner-grade patent strategy for Chinese innovators going overseas and overseas innovators entering China.", body);
 }
@@ -392,9 +382,13 @@ function articlesPage() {
       <section class="article-index-section">
         <div class="content-grid article-index" id="article-list">${cards}</div>
       </section>
-      <section class="cta-newsletter">
-        <div><p class="eyebrow">Newsletter</p><h2>Subscribe for new article updates.</h2></div>
-        ${newsletter()}
+      <section class="honors-band">
+        <div>
+          <p class="eyebrow">Next Step</p>
+          <h2>Use the articles as a map, then discuss the real patent problem.</h2>
+          <p>The article center is organized to help readers move from examiner logic to practical invention mining and cross-border patent layout.</p>
+        </div>
+        <a class="primary-action" href="contact.html">Contact Ma Su</a>
       </section>`;
   return pageShell("Articles and Insights | Ma Su", "Articles by Ma Su and ShineRed IP, organized by examiner insights, innovation maps, cross-border patent strategy, and youth innovation.", body);
 }
@@ -542,11 +536,8 @@ function writeDataFiles() {
   const rec = document.createElement("aside");
   rec.className = "related-articles";
   rec.innerHTML = '<p class="eyebrow">Related Articles</p><h2>Continue this series</h2><div class="content-grid">' + related.map((article) => '<article class="content-card"><p>' + article.category + '</p><h3>' + article.title + '</h3><span>' + article.description + '</span><a href="' + article.slug + '.html">Read article</a></article>').join("") + '</div>';
-  const subscribe = document.createElement("aside");
-  subscribe.className = "cta-newsletter article-newsletter";
-  subscribe.innerHTML = '<div><p class="eyebrow">Newsletter</p><h2>Get new IP strategy articles.</h2></div><form class="newsletter-form" action="https://app.convertkit.com/forms/0000000/subscriptions" method="post"><label><span>Email</span><input type="email" name="email_address" placeholder="you@example.com" required /></label><button type="submit">Subscribe</button><p>Replace this placeholder action with your ConvertKit form URL when ready.</p></form>';
   shell.prepend(author);
-  shell.append(share, rec, subscribe);
+  shell.append(share, rec);
   const copy = share.querySelector("[data-copy-link]");
   copy.addEventListener("click", async () => {
     await navigator.clipboard.writeText(location.href);
