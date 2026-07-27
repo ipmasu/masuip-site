@@ -63,6 +63,15 @@ const articles = [
     date: "2026-07-27",
   },
   {
+    slug: "ai-era-youth-science-innovation-practical-textbook",
+    title: "AI-Era Youth Science Innovation Practical Textbook",
+    description:
+      "A publication-ready youth innovation textbook by Ma Su, turning problem discovery, social survey, patent search, AI collaboration, prototyping, presentation, and IP protection into a complete practice route.",
+    category: "Book and Curriculum",
+    series: "youth-innovation",
+    date: "2026-07-27",
+  },
+  {
     slug: "ai-ip-strategy-for-global-innovators-china",
     title: "AI and IP Strategy for Global Innovators Entering China",
     description:
@@ -493,9 +502,17 @@ function aboutPage() {
         </figure>
         <div>
           <p class="eyebrow">Book and Curriculum</p>
-          <h2>Science and Technology Innovation Practical Tutorial.</h2>
-          <p>This book cover represents Ma Su's youth science innovation guide: a practical curriculum that turns observation, problem discovery, patent search, prototype testing, and IP awareness into a route students can actually follow.</p>
-          <p>The same method is also being developed into a youth innovation competition handbook, using comics and practical tasks to help students understand how science innovation works in real projects.</p>
+          <h2>AI-Era Youth Science Innovation Practical Textbook.</h2>
+          <p>Ma Su's textbook, <strong>AI-Era Youth Science Innovation Practical Textbook</strong>, turns youth innovation into a complete practice route: discover real problems, conduct social surveys, analyze data, read patents and technology news, use structured innovation methods, collaborate with AI, build prototypes, test, present, and protect results through intellectual property.</p>
+          <p>The manuscript has been developed as a publication-ready teaching system with 14 chapters and practical appendices, including a 12-session course plan, AI prompt library, 100 youth innovation topic seeds, project archives, survey question bank, IP lessons, student growth records, and mentor notes.</p>
+          <div class="method-list textbook-route">
+            <span>Problem discovery</span>
+            <span>Patent search</span>
+            <span>AI collaboration</span>
+            <span>Prototype testing</span>
+            <span>Presentation and IP protection</span>
+          </div>
+          <a class="text-action" href="articles/ai-era-youth-science-innovation-practical-textbook.html">Read the textbook introduction</a>
           <a class="text-action" href="assets/book/science-innovation-guide-cover-spread.jpg">View full cover spread</a>
         </div>
       </section>

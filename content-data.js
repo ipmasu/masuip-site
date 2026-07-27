@@ -51,6 +51,14 @@ window.MASU_CONTENT = {
       "date": "2026-07-27"
     },
     {
+      "slug": "ai-era-youth-science-innovation-practical-textbook",
+      "title": "AI-Era Youth Science Innovation Practical Textbook",
+      "description": "A publication-ready youth innovation textbook by Ma Su, turning problem discovery, social survey, patent search, AI collaboration, prototyping, presentation, and IP protection into a complete practice route.",
+      "category": "Book and Curriculum",
+      "series": "youth-innovation",
+      "date": "2026-07-27"
+    },
+    {
       "slug": "ai-ip-strategy-for-global-innovators-china",
       "title": "AI and IP Strategy for Global Innovators Entering China",
       "description": "A practical IP strategy note for AI-heavy companies, overseas innovators, and patent firms preparing China patent filings in the age of generative AI.",

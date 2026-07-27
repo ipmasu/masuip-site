@@ -1388,6 +1388,24 @@ footer p {
   color: var(--gold);
 }
 
+.textbook-route {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 22px 0;
+}
+
+.textbook-route span {
+  display: inline-flex;
+  align-items: center;
+  min-height: 38px;
+  padding: 8px 12px;
+  border: 1px solid rgba(255, 255, 255, 0.24);
+  color: var(--white);
+  font-size: 14px;
+  font-weight: 800;
+}
+
 .author-box,
 .share-box,
 .related-articles {
