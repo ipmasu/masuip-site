@@ -746,6 +746,19 @@ footer p {
   font-weight: 850;
 }
 
+.credential-gallery figcaption strong,
+.credential-gallery figcaption span {
+  display: block;
+}
+
+.credential-gallery figcaption span {
+  margin-top: 6px;
+  color: var(--muted);
+  font-size: 14px;
+  font-weight: 650;
+  line-height: 1.45;
+}
+
 .timeline-section .section-heading p:not(.eyebrow),
 .process-section .section-heading p:not(.eyebrow),
 .deliverables-section .section-heading p:not(.eyebrow) {

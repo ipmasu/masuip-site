@@ -408,6 +408,22 @@ function seriesPage(s) {
 }
 
 function aboutPage() {
+  const credentials = [
+    ["cnipa-work-id-web.jpg", "Former CNIPA Patent Examiner", "Archival credential supporting Ma Su's patent examination background."],
+    ["patent-agent-certificate-web.jpg", "Chinese Patent Agent Qualification", "Professional patent agency qualification."],
+    ["csu-mentor-web.jpg", "External Graduate Mentor", "Central South University graduate mentor appointment."],
+    ["inventions-association-web.jpg", "China Association of Inventions", "Membership connected with invention and innovation practice."],
+    ["cnki-expert-web.jpg", "CNKI Galaxy Expert Library", "Certified expert profile."],
+    ["science-communication-expert-web.jpg", "Science Communication Expert", "Appointment related to science communication and innovation education."],
+    ["icc-first-prize-web.jpg", "Youth Innovation Coaching", "Instructor record for Invention Convention China National Finals First Prize."],
+    ["ip-teacher-training-web.jpg", "IP Education Training", "Intellectual property education teacher training record."],
+  ];
+  const credentialCards = credentials
+    .map(([file, title, desc]) => `<figure>
+          <img src="assets/credentials/${file}" alt="${title}" loading="lazy" />
+          <figcaption><strong>${title}</strong><span>${desc}</span></figcaption>
+        </figure>`)
+    .join("\n");
   const body = `
       <section class="about-brief" data-editable="about-brief">
         <figure><img src="assets/credentials/ma-su-train-portrait.jpg" alt="Ma Su portrait" /></figure>
@@ -451,6 +467,16 @@ function aboutPage() {
         <div><strong>Inventor and attorney</strong><span>Understands both creation and grant procedure.</span></div>
         <div><strong>Innovation method</strong><span>Guided companies and youth science innovation projects.</span></div>
         <div><strong>Textbook author</strong><span>Youth science innovation guide and competition handbook builder.</span></div>
+      </section>
+      <section class="credentials-section" data-editable="about-credentials">
+        <div class="section-heading">
+          <p class="eyebrow">Credentials and Proof</p>
+          <h2>Documents behind the personal IP story.</h2>
+          <p>These credentials support Ma Su's combined identity as a former examiner, patent professional, invention-method practitioner, science communication contributor, and youth innovation mentor.</p>
+        </div>
+        <div class="credential-gallery">
+          ${credentialCards}
+        </div>
       </section>`;
   return pageShell("About Ma Su | ShineRed IP", "A concise profile of Ma Su, former CNIPA patent examiner and China IP strategy adviser.", body);
 }
