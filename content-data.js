@@ -27,6 +27,14 @@ window.MASU_CONTENT = {
   ],
   "articles": [
     {
+      "slug": "from-patent-examiner-to-innovation-methodology",
+      "title": "From Patent Examiner to Innovation Methodology Practitioner",
+      "description": "Ma Su's personal story: from CNIPA patent examiner to inventor, patent attorney, innovation methodology practitioner, youth science innovation educator, and cross-border patent strategist.",
+      "category": "Personal Story",
+      "series": "examiner-insights",
+      "date": "2026-07-27"
+    },
+    {
       "slug": "ai-ip-strategy-for-global-innovators-china",
       "title": "AI and IP Strategy for Global Innovators Entering China",
       "description": "A practical IP strategy note for AI-heavy companies, overseas innovators, and patent firms preparing China patent filings in the age of generative AI.",
