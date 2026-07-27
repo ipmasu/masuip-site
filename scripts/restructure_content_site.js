@@ -551,6 +551,7 @@ function main() {
   }
   injectArticleScripts(path.join(root, "articles"), "../");
   injectArticleScripts(path.join(root, "public", "articles"), "../");
+  require("./apply_multilingual_support").applyAll();
 }
 
 main();

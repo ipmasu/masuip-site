@@ -103,6 +103,36 @@ a {
   background: var(--white);
 }
 
+.language-switcher {
+  margin-left: auto;
+}
+
+.language-switcher label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.language-switcher span {
+  color: inherit;
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 0;
+  opacity: 0.72;
+  text-transform: uppercase;
+}
+
+.language-switcher select {
+  min-width: 118px;
+  border: 1px solid rgba(255, 255, 255, 0.24);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.9);
+  color: var(--ink);
+  font: inherit;
+  font-size: 14px;
+  padding: 8px 10px;
+}
+
 .hero {
   position: relative;
   min-height: 92vh;
@@ -889,6 +919,15 @@ footer p {
   color: var(--muted);
 }
 
+.content-header .language-switcher span {
+  color: var(--muted);
+}
+
+.content-header .language-switcher select {
+  border-color: var(--line);
+  background: #ffffff;
+}
+
 .content-header .brand-mark {
   color: var(--white);
   border-color: var(--teal-dark);
@@ -1281,6 +1320,16 @@ footer p {
 
   .language-switch {
     width: max-content;
+  }
+
+  .language-switcher {
+    margin-left: 0;
+    width: 100%;
+  }
+
+  .language-switcher label,
+  .language-switcher select {
+    width: 100%;
   }
 
   .hero-content {
