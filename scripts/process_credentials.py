@@ -1,4 +1,4 @@
-from pathlib import Path
+﻿from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont, ImageOps
 
 RAW = Path("assets/credentials-raw")
@@ -78,7 +78,7 @@ def draw_redactions(image, rects):
 
 def add_watermark(image):
     draw = ImageDraw.Draw(image, "RGBA")
-    text = "Ma Su / ShineRed IP - verification copy"
+    text = "Ma Su / Ma Su Team - verification copy"
     w, h = image.size
     draw.rectangle((0, h - 48, w, h), fill=(6, 63, 67, 165))
     draw.text((24, h - 34), text, fill=(255, 255, 255, 230))

@@ -232,7 +232,7 @@
       "Start with the invention, case type, and China objective.": "請從發明、案件類型與中國目標開始。",
       "For faster response, include whether your inquiry concerns China patent entry, patentability screening, claim reconstruction, patent-map guided innovation, education cooperation, or article/media cooperation.": "為了更快回覆，請說明你的需求是否涉及中國專利進入、可專利性篩選、權利要求重構、專利地圖引導創新、教育合作或文章/媒體合作。",
       "Direct contact": "直接聯絡",
-      "Ma Su and ShineRed IP welcome international cooperation inquiries.": "馬肅與 ShineRed IP 歡迎國際合作諮詢。",
+      "Ma Su Team welcomes international cooperation inquiries.": "馬肅團隊歡迎國際合作諮詢。",
       "Overseas innovator China layout": "境外創新主體中國佈局",
       "Cross-border client support for China patent protection": "跨境客戶中國專利保護支持",
       "China patent prosecution strategy": "中國專利審查策略",
@@ -306,15 +306,15 @@
       "Why China entry should be treated as a strategic examination event, not a translation task.": "為什麼進入中國應被視為一次戰略性審查事件，而不是翻譯任務。",
       "Ma Su | Cross-border Patent Strategy and Innovation": "馬肅 | 跨境專利策略與創新",
       "Articles and Insights | Ma Su": "文章與洞察 | 馬肅",
-      "About Ma Su | ShineRed IP": "關於馬肅 | ShineRed IP",
+      "About Ma Su | Ma Su Team": "關於馬肅 | 馬肅團隊",
       "Patent-Map Guided Innovation Methodology | Ma Su": "專利地圖引導創新方法論 | 馬肅",
-      "Contact | ShineRed IP": "聯絡 | ShineRed IP",
+      "Contact | Ma Su Team": "聯絡 | 馬肅團隊",
       "Cross-border patent strategy": "跨境專利策略",
       "Examiner Insights": "審查員洞察",
       "Global IP": "全球知識產權",
       "Youth Innovation": "青少年科創",
-      "Ma Su · ShineRed IP": "馬肅 · ShineRed IP",
-      "Ma Su and ShineRed IP. Overseas patent layout for Chinese innovators and China patent layout for overseas innovators.": "馬肅與 ShineRed IP。服務中國創新主體海外專利佈局，以及境外創新主體中國專利佈局。",
+      "Ma Su Team": "馬肅團隊",
+      "Overseas patent layout for Chinese innovators and China patent layout for overseas innovators.": "服務中國創新主體海外專利佈局，以及境外創新主體中國專利佈局。",
       "After 2017": "2017 年後",
       "Former CNIPA Patent Examiner": "前中國國家知識產權局專利審查員",
       "Archival credential supporting Ma Su's patent examination background.": "支持馬肅專利審查背景的歷史證明。",
@@ -334,10 +334,10 @@
       "Intellectual property education teacher training record.": "知識產權教育師資培訓記錄。",
       "AI and IP · 2026-06-20": "AI 與知識產權 · 2026-06-20",
       "Related Articles": "相關文章",
-      "Beijing Tsingkong Zhiyun IP Agency · Guangdong ShineRed IP Co., Ltd.": "北京清控智雲知識產權代理事務所 · 廣東行而知知識產權有限公司",
-      "© 2026 Guangdong ShineRed Intellectual Property Co., Ltd.": "© 2026 廣東行而知知識產權有限公司",
+      "Ma Su Team": "馬肅團隊",
+      "© 2026 Ma Su Team": "© 2026 馬肅團隊",
       "Patent-map guided innovation methodology.": "專利地圖引導創新方法論。",
-      "Contact ShineRed IP.": "聯絡 ShineRed IP。",
+      "Contact Ma Su Team.": "聯絡馬肅團隊。",
     },
     ja: {
       "Cross-border Patent Strategy": "クロスボーダー特許戦略",
@@ -417,9 +417,9 @@
     ja: {
       "Ma Su | Cross-border Patent Strategy and Innovation": "馬粛 | クロスボーダー特許戦略とイノベーション",
       "Articles and Insights | Ma Su": "記事と洞察 | 馬粛",
-      "About Ma Su | ShineRed IP": "馬粛について | ShineRed IP",
+      "About Ma Su | Ma Su Team": "馬粛について | Ma Su Team",
       "Patent-Map Guided Innovation Methodology | Ma Su": "特許マップ主導のイノベーション方法論 | 馬粛",
-      "Contact | ShineRed IP": "お問い合わせ | ShineRed IP",
+      "Contact | Ma Su Team": "お問い合わせ | Ma Su Team",
       "Cross-border patent strategy": "クロスボーダー特許戦略",
       "Ma Su helps Chinese companies and individual inventors plan overseas patent portfolios, while also helping overseas innovation teams enter China with examiner-style patentability screening, claim reconstruction, and portfolio strategy.": "馬粛は、中国企業と個人発明家の海外特許ポートフォリオ設計を支援し、海外のイノベーションチームが中国に入る際には、審査官視点の特許性スクリーニング、クレーム再構成、ポートフォリオ戦略を提供します。",
       "Examiner-style analysis for China entry and outbound patent decisions.": "中国進出と海外出願判断を、審査官の視点で分析します。",
@@ -473,14 +473,14 @@
       "Direct contact": "直接連絡",
       "China patent prosecution strategy": "中国特許審査対応戦略",
       "AI-era science innovation education": "AI時代の科学イノベーション教育",
-      "Contact ShineRed IP.": "ShineRed IP にお問い合わせください。"
+      "Contact Ma Su Team.": "Ma Su Team にお問い合わせください。"
     },
     tr: {
       "Ma Su | Cross-border Patent Strategy and Innovation": "Ma Su | Sınır Ötesi Patent Stratejisi ve İnovasyon",
       "Articles and Insights | Ma Su": "Makaleler ve İçgörüler | Ma Su",
-      "About Ma Su | ShineRed IP": "Ma Su Hakkında | ShineRed IP",
+      "About Ma Su | Ma Su Team": "Ma Su Hakkında | Ma Su Team",
       "Patent-Map Guided Innovation Methodology | Ma Su": "Patent Haritası Odaklı İnovasyon Metodolojisi | Ma Su",
-      "Contact | ShineRed IP": "İletişim | ShineRed IP",
+      "Contact | Ma Su Team": "İletişim | Ma Su Team",
       "Cross-border patent strategy": "Sınır ötesi patent stratejisi",
       "Ma Su helps Chinese companies and individual inventors plan overseas patent portfolios, while also helping overseas innovation teams enter China with examiner-style patentability screening, claim reconstruction, and portfolio strategy.": "Ma Su, Çinli şirketlerin ve bireysel mucitlerin yurt dışı patent portföylerini planlamasına; yabancı inovasyon ekiplerinin Çin'e girerken incelemeci bakışıyla patentlenebilirlik taraması, istem yeniden kurgusu ve portföy stratejisi oluşturmasına yardımcı olur.",
       "Examiner-style analysis for China entry and outbound patent decisions.": "Çin'e giriş ve yurt dışı patent kararları için incelemeci tarzı analiz.",
@@ -526,14 +526,14 @@
       "Direct contact": "Doğrudan iletişim",
       "China patent prosecution strategy": "Çin patent inceleme stratejisi",
       "AI-era science innovation education": "AI çağında bilim inovasyonu eğitimi",
-      "Contact ShineRed IP.": "ShineRed IP ile iletişime geçin."
+      "Contact Ma Su Team.": "Ma Su Team ile iletişime geçin."
     },
     vi: {
       "Ma Su | Cross-border Patent Strategy and Innovation": "Ma Su | Chiến lược sáng chế xuyên biên giới và đổi mới",
       "Articles and Insights | Ma Su": "Bài viết và góc nhìn | Ma Su",
-      "About Ma Su | ShineRed IP": "Giới thiệu Ma Su | ShineRed IP",
+      "About Ma Su | Ma Su Team": "Giới thiệu Ma Su | Ma Su Team",
       "Patent-Map Guided Innovation Methodology | Ma Su": "Phương pháp đổi mới theo bản đồ sáng chế | Ma Su",
-      "Contact | ShineRed IP": "Liên hệ | ShineRed IP",
+      "Contact | Ma Su Team": "Liên hệ | Ma Su Team",
       "Cross-border patent strategy": "Chiến lược sáng chế xuyên biên giới",
       "Ma Su helps Chinese companies and individual inventors plan overseas patent portfolios, while also helping overseas innovation teams enter China with examiner-style patentability screening, claim reconstruction, and portfolio strategy.": "Ma Su hỗ trợ doanh nghiệp Trung Quốc và nhà sáng chế cá nhân lập danh mục sáng chế ở nước ngoài; đồng thời hỗ trợ nhóm đổi mới nước ngoài vào Trung Quốc bằng sàng lọc khả năng cấp bằng theo góc nhìn thẩm định viên, tái cấu trúc yêu cầu bảo hộ và chiến lược danh mục.",
       "Examiner-style analysis for China entry and outbound patent decisions.": "Phân tích theo góc nhìn thẩm định viên cho quyết định vào Trung Quốc và ra nước ngoài.",
@@ -579,7 +579,7 @@
       "Direct contact": "Liên hệ trực tiếp",
       "China patent prosecution strategy": "Chiến lược xử lý thẩm định sáng chế Trung Quốc",
       "AI-era science innovation education": "Giáo dục khoa học đổi mới thời đại AI",
-      "Contact ShineRed IP.": "Liên hệ ShineRed IP."
+      "Contact Ma Su Team.": "Liên hệ Ma Su Team."
     }
   };
 

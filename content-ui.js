@@ -32,7 +32,7 @@
   const prefix = location.pathname.includes("/articles/") ? "../" : "";
   const author = document.createElement("aside");
   author.className = "author-box";
-  author.innerHTML = '<img src="' + prefix + 'assets/credentials/ma-su-portrait.jpg" alt="Ma Su portrait" /><div><p class="eyebrow">Author</p><h3>Ma Su</h3><p>Former CNIPA patent examiner, China IP strategy adviser, and founder of ShineRed IP knowledge center.</p></div>';
+  author.innerHTML = '<img src="' + prefix + 'assets/credentials/ma-su-portrait.jpg" alt="Ma Su portrait" /><div><p class="eyebrow">Author</p><h3>Ma Su</h3><p>Former CNIPA patent examiner, China IP strategy adviser, and founder of Ma Su Team knowledge center.</p></div>';
   const share = document.createElement("aside");
   share.className = "share-box";
   const pageUrl = encodeURIComponent(location.href);

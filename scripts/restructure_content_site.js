@@ -228,9 +228,9 @@ const articles = [
 function nav(prefix = "") {
   return `<header class="site-header content-header">
       <a class="brand" href="${prefix}index.html" aria-label="Ma Su IP Strategy">
-        <span class="brand-mark">SR</span>
+        <span class="brand-mark">MS</span>
         <span>
-          <strong>ShineRed IP</strong>
+          <strong>Ma Su Team</strong>
           <small>Cross-border Patent Strategy</small>
         </span>
       </a>
@@ -246,8 +246,8 @@ function nav(prefix = "") {
 
 function footer(prefix = "") {
   return `<footer>
-      <p>&copy; 2026 Guangdong ShineRed Intellectual Property Co., Ltd.</p>
-      <p>Ma Su and ShineRed IP. Overseas patent layout for Chinese innovators and China patent layout for overseas innovators.</p>
+      <p>&copy; 2026 Ma Su Team</p>
+      <p>Overseas patent layout for Chinese innovators and China patent layout for overseas innovators.</p>
     </footer>
     <script src="${prefix}content-data.js"></script>
     <script src="${prefix}content-ui.js"></script>`;
@@ -361,7 +361,7 @@ function homePage() {
 
       <section class="testimonial-band" data-editable="home-testimonial">
         <blockquote>Strong IP work is not only legal procedure. It is the ability to read technology, market direction, and examination logic at the same time.</blockquote>
-        <p>Ma Su · ShineRed IP</p>
+        <p>Ma Su Team</p>
       </section>
 
       <section class="honors-band" data-editable="home-final-cta">
@@ -372,7 +372,7 @@ function homePage() {
         </div>
         <a class="primary-action" href="contact.html">Discuss cooperation</a>
       </section>`;
-  return pageShell("Ma Su | Cross-border Patent Strategy and Innovation", "Ma Su and ShineRed IP publish examiner-grade patent strategy for Chinese innovators going overseas and overseas innovators entering China.", body);
+  return pageShell("Ma Su | Cross-border Patent Strategy and Innovation", "Ma Su Team publishes examiner-grade patent strategy for Chinese innovators going overseas and overseas innovators entering China.", body);
 }
 
 function articlesPage() {
@@ -408,7 +408,7 @@ function articlesPage() {
         </div>
         <a class="primary-action" href="contact.html">Contact Ma Su</a>
       </section>`;
-  return pageShell("Articles and Insights | Ma Su", "Articles by Ma Su and ShineRed IP, organized by examiner insights, innovation maps, cross-border patent strategy, and youth innovation.", body);
+  return pageShell("Articles and Insights | Ma Su", "Articles by Ma Su Team, organized by examiner insights, innovation maps, cross-border patent strategy, and youth innovation.", body);
 }
 
 function seriesPage(s) {
@@ -544,7 +544,7 @@ function aboutPage() {
           ${credentialCards}
         </div>
       </section>`;
-  return pageShell("About Ma Su | ShineRed IP", "A concise profile of Ma Su, former CNIPA patent examiner and China IP strategy adviser.", body);
+  return pageShell("About Ma Su | Ma Su Team", "A concise profile of Ma Su, former CNIPA patent examiner and China IP strategy adviser.", body);
 }
 
 function methodologyRelated(html) {
@@ -620,7 +620,7 @@ function writeDataFiles() {
   const prefix = location.pathname.includes("/articles/") ? "../" : "";
   const author = document.createElement("aside");
   author.className = "author-box";
-  author.innerHTML = '<img src="' + prefix + 'assets/credentials/ma-su-portrait.jpg" alt="Ma Su portrait" /><div><p class="eyebrow">Author</p><h3>Ma Su</h3><p>Former CNIPA patent examiner, China IP strategy adviser, and founder of ShineRed IP knowledge center.</p></div>';
+  author.innerHTML = '<img src="' + prefix + 'assets/credentials/ma-su-portrait.jpg" alt="Ma Su portrait" /><div><p class="eyebrow">Author</p><h3>Ma Su</h3><p>Former CNIPA patent examiner, China IP strategy adviser, and founder of Ma Su Team knowledge center.</p></div>';
   const share = document.createElement("aside");
   share.className = "share-box";
   const pageUrl = encodeURIComponent(location.href);

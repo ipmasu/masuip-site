@@ -1,4 +1,4 @@
-from __future__ import annotations
+﻿from __future__ import annotations
 
 import html
 import re
@@ -71,7 +71,7 @@ ARTICLE_META = [
         "category": "IP Education",
         "title_en": "Protecting Intellectual Property Means Protecting Innovation and the Future",
         "description": "A broad essay on the social, educational, and industrial meaning of intellectual property protection.",
-        "why": "The piece helps explain ShineRed IP's public education role and its long-term view of innovation culture.",
+        "why": "The piece helps explain Ma Su Team's public education role and its long-term view of innovation culture.",
     },
     {
         "slug": "reverse-thinking-as-an-innovation-method",
@@ -199,7 +199,7 @@ def render_article(meta: dict[str, str], original_title: str, body: list[str]) -
       <a class="brand article-brand" href="../index.html">
         <span class="brand-mark">SR</span>
         <span>
-          <strong>ShineRed IP</strong>
+          <strong>Ma Su Team</strong>
           <small>Global Patent Strategy</small>
         </span>
       </a>
@@ -214,7 +214,7 @@ def render_article(meta: dict[str, str], original_title: str, body: list[str]) -
         <div class="article-meta">
           <span>By Ma Su</span>
           <span>Source: Topology Science Innovation public account</span>
-          <span>Chinese original curated for ShineRed IP global website</span>
+          <span>Chinese original curated for Ma Su Team knowledge center</span>
         </div>
 
         <section class="article-section">
@@ -232,8 +232,8 @@ def render_article(meta: dict[str, str], original_title: str, body: list[str]) -
     </main>
 
     <footer>
-      <p>&copy; 2026 Guangdong ShineRed Intellectual Property Co., Ltd.</p>
-      <p>Article prepared for Ma Su and ShineRed IP global website.</p>
+      <p>&copy; 2026 Ma Su Team</p>
+      <p>Article prepared for Ma Su Team knowledge center.</p>
     </footer>
   </body>
 </html>
@@ -260,7 +260,7 @@ def render_index(new_items: list[dict[str, str]]) -> str:
     <title>Articles and Insights | Ma Su</title>
     <meta
       name="description"
-      content="Articles by Ma Su and ShineRed IP on patent-map guided innovation, China patent practice, AI-era science innovation education, and cross-border IP cooperation."
+      content="Articles by Ma Su Team on patent-map guided innovation, China patent practice, AI-era science innovation education, and cross-border IP cooperation."
     />
     <link rel="stylesheet" href="styles.css" />
   </head>
@@ -269,7 +269,7 @@ def render_index(new_items: list[dict[str, str]]) -> str:
       <a class="brand article-brand" href="index.html">
         <span class="brand-mark">SR</span>
         <span>
-          <strong>ShineRed IP</strong>
+          <strong>Ma Su Team</strong>
           <small>Global Patent Strategy</small>
         </span>
       </a>
@@ -307,8 +307,8 @@ def render_index(new_items: list[dict[str, str]]) -> str:
     </main>
 
     <footer>
-      <p>&copy; 2026 Guangdong ShineRed Intellectual Property Co., Ltd.</p>
-      <p>Articles and insights by Ma Su and ShineRed IP.</p>
+      <p>&copy; 2026 Ma Su Team</p>
+      <p>Articles and insights by Ma Su Team.</p>
     </footer>
   </body>
 </html>

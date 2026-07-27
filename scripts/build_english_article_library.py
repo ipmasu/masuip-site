@@ -1,4 +1,4 @@
-from __future__ import annotations
+﻿from __future__ import annotations
 
 import html
 import re
@@ -592,7 +592,7 @@ ARTICLE_TEXT: dict[str, list[tuple[str, list[str]]]] = {
             "What Foreign Patent Firms Need from a China Partner",
             [
                 "A strong China partner should understand both the inventor's technology and the examiner's logic. The partner should be able to explain risks early, propose claim amendments, prepare arguments before the office action arrives, and help foreign counsel communicate realistic strategy to clients.",
-                "Led by Ma Su, ShineRed IP combines senior Chinese patent attorney practice with former national patent office examiner perspectives. For technically supportable inventions, the goal is to move China prosecution as close as possible to a predictable grant path while preserving meaningful claim value.",
+                "Led by Ma Su, Ma Su Team combines senior Chinese patent attorney practice with former national patent office examiner perspectives. For technically supportable inventions, the goal is to move China prosecution as close as possible to a predictable grant path while preserving meaningful claim value.",
             ],
         ),
     ],
@@ -830,7 +830,7 @@ def render_article(meta: dict[str, str]) -> str:
       <a class="brand article-brand" href="../index.html">
         <span class="brand-mark">SR</span>
         <span>
-          <strong>ShineRed IP</strong>
+          <strong>Ma Su Team</strong>
           <small>Global Patent Strategy</small>
         </span>
       </a>
@@ -845,7 +845,7 @@ def render_article(meta: dict[str, str]) -> str:
         <div class="article-meta">
           <span>By Ma Su</span>
           <span>English edition for international readers</span>
-          <span>ShineRed IP Knowledge Center</span>
+          <span>Ma Su Team Knowledge Center</span>
         </div>
 
 {body}
@@ -854,8 +854,8 @@ def render_article(meta: dict[str, str]) -> str:
     </main>
 
     <footer>
-      <p>&copy; 2026 Guangdong ShineRed Intellectual Property Co., Ltd.</p>
-      <p>English article prepared for Ma Su and ShineRed IP global website.</p>
+      <p>&copy; 2026 Ma Su Team</p>
+      <p>Article prepared for Ma Su Team knowledge center.</p>
     </footer>
   </body>
 </html>
@@ -881,7 +881,7 @@ def render_index(items: list[dict[str, str]]) -> str:
     <title>Articles and Insights | Ma Su</title>
     <meta
       name="description"
-      content="English articles by Ma Su and ShineRed IP on patent-map guided innovation, China patent practice, AI-era science innovation education, and cross-border IP cooperation."
+      content="English articles by Ma Su Team on patent-map guided innovation, China patent practice, AI-era science innovation education, and cross-border IP cooperation."
     />
     <link rel="stylesheet" href="styles.css" />
   </head>
@@ -890,7 +890,7 @@ def render_index(items: list[dict[str, str]]) -> str:
       <a class="brand article-brand" href="index.html">
         <span class="brand-mark">SR</span>
         <span>
-          <strong>ShineRed IP</strong>
+          <strong>Ma Su Team</strong>
           <small>Global Patent Strategy</small>
         </span>
       </a>
@@ -928,8 +928,8 @@ def render_index(items: list[dict[str, str]]) -> str:
     </main>
 
     <footer>
-      <p>&copy; 2026 Guangdong ShineRed Intellectual Property Co., Ltd.</p>
-      <p>Articles and insights by Ma Su and ShineRed IP.</p>
+      <p>&copy; 2026 Ma Su Team</p>
+      <p>Articles and insights by Ma Su Team.</p>
     </footer>
   </body>
 </html>

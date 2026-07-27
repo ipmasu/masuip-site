@@ -1,4 +1,4 @@
-const translations = {
+﻿const translations = {
   en: {
     navAbout: "About",
     navExpertise: "Expertise",
@@ -10,13 +10,13 @@ const translations = {
     heroEyebrow: "China IP strategy for global innovators",
     heroTitle: "China patent strategy that improves grant probability through former examiner judgment.",
     heroCopy:
-      "Led by former CNIPA patent examiner Ma Su, ShineRed IP helps foreign innovators enter China with patentability screening, claim reconstruction, examiner-style response logic, and portfolio strategy designed to improve the probability of Chinese patent grant.",
+      "Led by former CNIPA patent examiner Ma Su, Ma Su Team helps foreign innovators enter China with patentability screening, claim reconstruction, examiner-style response logic, and portfolio strategy designed to improve the probability of Chinese patent grant.",
     heroPrimary: "Discuss cooperation",
     heroSecondary: "Read articles",
     profileEyebrow: "Profile",
     profileTitle: "Ma Su turns former examiner experience into practical China patent advantages for global innovators.",
     profileBody:
-      "Former patent examiner at CNIPA Patent Office and associate researcher at the Guangdong Patent Examination Cooperation Center. External graduate mentor of Central South University, executive partner of Beijing Tsingkong Zhiyun IP Agency, executive director of Guangdong ShineRed IP Co., Ltd., and adviser to the Hunan Intellectual Property Office.",
+      "Former patent examiner at CNIPA Patent Office, external graduate mentor of Central South University, and leader of Ma Su Team for cross-border patent strategy and innovation methodology.",
     credYears: "years in patent examination, IP education, and technology transfer",
     credCnipa: "former examiner perspective to improve China grant probability and prosecution efficiency",
     credBook: "author of Practical Science and Innovation in the AI Era",
@@ -78,8 +78,8 @@ const translations = {
     contactPromptThree: "Patent-map guided innovation workshop",
     contactPromptFour: "AI-era science innovation education cooperation",
     contactMessenger: "Phone number can be used for WeChat or WhatsApp discussion after initial contact.",
-    contactCompanies: "Beijing Tsingkong Zhiyun IP Agency · Guangdong ShineRed IP Co., Ltd.",
-    footerNote: "Global-facing site prototype for Ma Su and ShineRed IP."
+    contactCompanies: "Ma Su Team",
+    footerNote: "Global-facing site prototype for Ma Su Team."
   },
   zhHant: {
     navAbout: "關於",
@@ -98,7 +98,7 @@ const translations = {
     profileEyebrow: "個人簡介",
     profileTitle: "馬肅將專利審查、知識產權策略與科創教育整合為一套顧問能力。",
     profileBody:
-      "曾任國家知識產權局專利局審查員、審協廣東中心副研究員。現任中南大學研究生校外導師、北京清控智雲知識產權代理事務所執行合夥人、廣東 ShineRed IP 執行董事、湖南省知識產權局顧問。",
+      "曾任國家知識產權局專利局審查員、審協廣東中心副研究員。現任中南大學研究生校外導師、北京清控智雲知識產權代理事務所執行合夥人、廣東 Ma Su Team 執行董事、湖南省知識產權局顧問。",
     credYears: "年以上專利審查、知識產權科普與成果轉化經驗",
     credCnipa: "前專利審查員視角，提升答審與佈局品質",
     credBook: "《AI時代的科創實戰教程》作者",
@@ -150,8 +150,8 @@ const translations = {
     contactPromptThree: "專利地圖引導式創新工作坊",
     contactPromptFour: "AI時代科創教育合作",
     contactMessenger: "初步聯絡後，可使用此手機號進行微信或 WhatsApp 溝通。",
-    contactCompanies: "北京清控智雲知識產權代理事務所 · 廣東 ShineRed IP",
-    footerNote: "馬肅與 ShineRed IP 全球化網站原型。"
+    contactCompanies: "北京清控智雲知識產權代理事務所 · 廣東 Ma Su Team",
+    footerNote: "馬肅與 Ma Su Team 全球化網站原型。"
   },
   vi: {
     navAbout: "Giới thiệu",
@@ -170,7 +170,7 @@ const translations = {
     profileEyebrow: "Hồ sơ",
     profileTitle: "Ma Su kết hợp thẩm định sáng chế, chiến lược SHTT và giáo dục khoa học đổi mới.",
     profileBody:
-      "Cựu thẩm định viên tại CNIPA Patent Office và cựu phó nghiên cứu viên tại Guangdong Patent Examination Cooperation Center. Hiện là cố vấn đào tạo sau đại học ngoài trường của Central South University, đối tác điều hành của Beijing Tsingkong Zhiyun IP Agency, giám đốc điều hành Guangdong ShineRed IP Co., Ltd., và cố vấn cho Hunan Intellectual Property Office.",
+      "Cựu thẩm định viên tại CNIPA Patent Office, cố vấn đào tạo sau đại học ngoài trường của Central South University, và người dẫn dắt Ma Su Team về chiến lược sáng chế xuyên biên giới và phương pháp đổi mới.",
     credYears: "năm kinh nghiệm về thẩm định sáng chế, giáo dục SHTT và chuyển giao công nghệ",
     credCnipa: "góc nhìn cựu thẩm định viên cho chiến lược truy tố bằng sáng chế chất lượng hơn",
     credBook: "tác giả Practical Science and Innovation in the AI Era",
@@ -223,8 +223,8 @@ const translations = {
     contactPromptThree: "Workshop đổi mới theo bản đồ sáng chế",
     contactPromptFour: "Hợp tác giáo dục đổi mới khoa học trong kỷ nguyên AI",
     contactMessenger: "Số điện thoại có thể dùng để trao đổi qua WeChat hoặc WhatsApp sau liên hệ ban đầu.",
-    contactCompanies: "Beijing Tsingkong Zhiyun IP Agency · Guangdong ShineRed IP Co., Ltd.",
-    footerNote: "Nguyên mẫu website toàn cầu cho Ma Su và ShineRed IP."
+    contactCompanies: "Ma Su Team",
+    footerNote: "Nguyên mẫu website toàn cầu cho Ma Su và Ma Su Team."
   },
   fr: {
     navAbout: "Profil",
@@ -243,7 +243,7 @@ const translations = {
     profileEyebrow: "Profil",
     profileTitle: "Ma Su réunit examen des brevets, stratégie PI et éducation scientifique dans une même pratique.",
     profileBody:
-      "Ancien examinateur au CNIPA Patent Office et ancien chercheur associé au Guangdong Patent Examination Cooperation Center. Mentor externe de Central South University, associé exécutif de Beijing Tsingkong Zhiyun IP Agency, directeur exécutif de Guangdong ShineRed IP Co., Ltd., et conseiller du Hunan Intellectual Property Office.",
+      "Ancien examinateur au CNIPA Patent Office, mentor externe de Central South University, et responsable de Ma Su Team pour la strategie brevets transfrontaliere et la methodologie d innovation.",
     credYears: "ans d’expérience en examen de brevets, éducation PI et transfert technologique",
     credCnipa: "regard d’ancien examinateur pour une stratégie de poursuite plus solide",
     credBook: "auteur de Practical Science and Innovation in the AI Era",
@@ -296,8 +296,8 @@ const translations = {
     contactPromptThree: "Atelier d’innovation guidée par cartes brevets",
     contactPromptFour: "Coopération en éducation à l’innovation scientifique à l’ère IA",
     contactMessenger: "Le numéro peut être utilisé pour WeChat ou WhatsApp après le premier contact.",
-    contactCompanies: "Beijing Tsingkong Zhiyun IP Agency · Guangdong ShineRed IP Co., Ltd.",
-    footerNote: "Prototype de site international pour Ma Su et ShineRed IP."
+    contactCompanies: "Ma Su Team",
+    footerNote: "Prototype de site international pour Ma Su et Ma Su Team."
   },
   de: {
     navAbout: "Profil",
@@ -316,7 +316,7 @@ const translations = {
     profileEyebrow: "Profil",
     profileTitle: "Ma Su verbindet Patentprüfung, IP-Strategie und Wissenschaftsbildung in einer Beratungspraxis.",
     profileBody:
-      "Ehemaliger Patentprüfer beim CNIPA Patent Office und ehemaliger Associate Researcher am Guangdong Patent Examination Cooperation Center. Externer Graduiertenmentor der Central South University, Executive Partner der Beijing Tsingkong Zhiyun IP Agency, Executive Director von Guangdong ShineRed IP Co., Ltd. und Berater des Hunan Intellectual Property Office.",
+      "Ehemaliger Patentpruefer beim CNIPA Patent Office, externer Graduiertenmentor der Central South University und Leiter von Ma Su Team fuer grenzueberschreitende Patentstrategie und Innovationsmethodik.",
     credYears: "Jahre Erfahrung in Patentprüfung, IP-Bildung und Technologietransfer",
     credCnipa: "Perspektive eines früheren Prüfers für stärkere Prüfungsverfahren",
     credBook: "Autor von Practical Science and Innovation in the AI Era",
@@ -369,8 +369,8 @@ const translations = {
     contactPromptThree: "Workshop zu Patentkarten-geführter Innovation",
     contactPromptFour: "Kooperation in KI-gestützter Innovationsbildung",
     contactMessenger: "Die Telefonnummer kann nach Erstkontakt für WeChat oder WhatsApp genutzt werden.",
-    contactCompanies: "Beijing Tsingkong Zhiyun IP Agency · Guangdong ShineRed IP Co., Ltd.",
-    footerNote: "Globaler Website-Prototyp für Ma Su und ShineRed IP."
+    contactCompanies: "Ma Su Team",
+    footerNote: "Globaler Website-Prototyp für Ma Su und Ma Su Team."
   }
 };
 
