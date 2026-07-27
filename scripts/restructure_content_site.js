@@ -54,6 +54,15 @@ const articles = [
     date: "2026-07-27",
   },
   {
+    slug: "yafan-cup-water-cup-innovation-practical-manual",
+    title: "Yafan Cup Water Cup Innovation Practical Manual: From Real Problem to Competition Project",
+    description:
+      "An excerpt from Ma Su's practical handbook for the Yafan Cup, showing how students move from real water-cup problems to surveys, data, patent search, MVP prototypes, AI-assisted 3D expression, and IP-aware presentations.",
+    category: "Youth Innovation Manual",
+    series: "youth-innovation",
+    date: "2026-07-27",
+  },
+  {
     slug: "ai-ip-strategy-for-global-innovators-china",
     title: "AI and IP Strategy for Global Innovators Entering China",
     description:
@@ -511,6 +520,17 @@ function aboutPage() {
             <h3>From idea to patent to product</h3>
             <span>The model introduces patent literacy, patent search, expert review, product design, and selected commercialization so students can see how innovation creates value.</span>
           </article>
+        </div>
+        <div class="manual-preview">
+          <figure>
+            <img src="assets/yafan-manual/manual-cover.webp" alt="Yafan Cup water cup innovation practical manual cover" loading="lazy" />
+          </figure>
+          <div>
+            <p class="eyebrow">Practical Handbook</p>
+            <h3>From a real cup problem to a competition-ready innovation project.</h3>
+            <p>The handbook turns the competition into a step-by-step workbook: observe real use scenes, design a survey, analyze data, search patents, read product cases, build an MVP, use AI for 3D expression, test and iterate, then prepare the roadshow and IP materials.</p>
+            <a class="text-action" href="articles/yafan-cup-water-cup-innovation-practical-manual.html">Read the handbook excerpt</a>
+          </div>
         </div>
         <a class="text-action" href="articles/xiegang-yafan-cup-youth-innovation-competition.html">Read the competition case</a>
       </section>

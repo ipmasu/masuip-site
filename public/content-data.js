@@ -43,6 +43,14 @@ window.MASU_CONTENT = {
       "date": "2026-07-27"
     },
     {
+      "slug": "yafan-cup-water-cup-innovation-practical-manual",
+      "title": "Yafan Cup Water Cup Innovation Practical Manual: From Real Problem to Competition Project",
+      "description": "An excerpt from Ma Su's practical handbook for the Yafan Cup, showing how students move from real water-cup problems to surveys, data, patent search, MVP prototypes, AI-assisted 3D expression, and IP-aware presentations.",
+      "category": "Youth Innovation Manual",
+      "series": "youth-innovation",
+      "date": "2026-07-27"
+    },
+    {
       "slug": "ai-ip-strategy-for-global-innovators-china",
       "title": "AI and IP Strategy for Global Innovators Entering China",
       "description": "A practical IP strategy note for AI-heavy companies, overseas innovators, and patent firms preparing China patent filings in the age of generative AI.",
