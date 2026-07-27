@@ -1274,6 +1274,40 @@ footer p {
   font-size: 19px;
 }
 
+.book-feature {
+  display: grid;
+  grid-template-columns: minmax(260px, 0.72fr) minmax(0, 1fr);
+  gap: clamp(28px, 6vw, 76px);
+  align-items: center;
+  padding: clamp(54px, 8vw, 104px) clamp(18px, 7vw, 96px);
+  background: #10282b;
+  color: var(--white);
+}
+
+.book-feature figure {
+  margin: 0;
+}
+
+.book-feature img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 612 / 596;
+  max-height: 620px;
+  object-fit: contain;
+  background: #ffffff;
+  box-shadow: 0 30px 70px rgba(0, 0, 0, 0.32);
+}
+
+.book-feature p:not(.eyebrow) {
+  color: rgba(255, 255, 255, 0.78);
+  font-size: 18px;
+}
+
+.book-feature .text-action {
+  color: var(--gold);
+}
+
 .author-box,
 .share-box,
 .related-articles {
@@ -1382,6 +1416,7 @@ footer p {
   .series-grid,
   .honors-band,
   .cta-newsletter,
+  .book-feature,
   .about-brief {
     grid-template-columns: 1fr;
   }
