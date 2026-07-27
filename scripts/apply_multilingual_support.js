@@ -623,6 +623,155 @@ const runtime = String.raw`(() => {
     textMap[lang] = { ...(textMap[lang] || {}), ...entries };
   });
 
+  const articlePageTranslations = {
+    "ai-era-youth-science-innovation-practical-textbook": {
+      "zh-hk": {
+        docTitle: "AI 時代青少年科創實戰教程 | Ma Su",
+        eyebrow: "教材與課程 / 青少年科創",
+        title: "《AI 時代青少年科創實戰教程》：從發現問題到保護成果的一條完整創新路線",
+        deck: "這本教材把青少年科創從「想一個點子」重新組織為一套可訓練、可執行、可復盤的實踐路線。它不是讓學生背概念，而是帶學生完整走過一次真實創新閉環。",
+        meta: ["作者：馬肅", "教材與課程", "馬肅團隊知識中心"],
+        caption: "教材封面：面向青少年的實操型科創教材。",
+        sections: [
+          ["為什麼這本教材重要", [
+            "很多學生第一次做科創項目時，會被要求「想一個創新作品」。但真正困難的不是把作品做得很炫，而是發現一個真實問題，判斷它是否值得解決，再把模糊想法變成可以調查、可以檢索、可以製作、可以測試、可以表達和可以保護的成果。",
+            "《AI 時代青少年科創實戰教程》正是圍繞這件事展開。它把我的專利審查經驗、發明創造經驗、專利代理經驗和青少年科創輔導經驗融合在一起，形成一條完整路線：發現問題、分析問題、尋找資源、提出方案、製作原型、測試迭代、展示價值、保護成果。",
+            "對網站而言，這本教材是馬肅個人 IP 的核心證明之一：我的方法論不只停留在文章觀點或諮詢經驗中，而是已經轉化為學生、老師、學校和賽事組織者真正可以使用的教學系統。"
+          ]],
+          ["教材的完整路線", [
+            "教材從「未來需要會創造的人」開始，引導學生理解 AI 時代真正稀缺的能力不是等待標準答案，而是發現尚未被清楚定義的問題，並把問題推進成可驗證的解決方案。",
+            "全書主體包括 14 章：從興趣和生活中發現問題，用社會調查找到真問題，用數據把方向變成具體問題；進入專利庫、論文和科技新聞，學習已有技術；再通過組合法、逆向法、表格創意拼盤法生成方案；隨後進入 AI 協同創新、原型製作、實驗驗證、成果展示、知識產權保護和真實價值轉化。",
+            "這條路線特別強調「做出來」和「說清楚」。學生不只要有想法，還要保留調查記錄、專利檢索記錄、發明日誌、草圖、模型照片、測試數據和答辯材料。這樣，創新才不是一次臨時比賽，而是一種能夠被訓練和遷移的能力。"
+          ]],
+          ["AI 在教材中的位置", [
+            "教材沒有把 AI 當作替學生完成作品的工具，而是把 AI 設定為「科創隊友」。AI 可以幫助學生分類興趣、優化問卷、擴展關鍵詞、檢查方案風險、整理報告結構、輔助 3D 表達，但不能替代學生的觀察、判斷、測試和改進。",
+            "這也是我對 AI 時代科創教育的基本判斷：AI 會讓答案變得更容易獲得，但會讓「提出好問題」的能力更加珍貴。會使用 AI 的學生，不應只是更快完成作業，而應更善於追問真實場景、發現真實需求、形成真實證據鏈。"
+          ]],
+          ["附錄讓教材變成工具箱", [
+            "除了正文，教材還設計了多個實操附錄，包括 12 課時科創實戰課程設計、AI 提示詞庫、100 個青少年科創選題種子、完整項目檔案示範、問卷題庫、給青少年的知識產權六課簡版、學生自評與成長檔案、給學生看的十封信，以及導師批注中常見的十個坑。",
+            "這些附錄的作用，是讓老師、家長和賽事組織者可以真正把課程落地。學生可以從選題種子開始，老師可以按課時組織訓練，導師可以用檢查清單追蹤項目進展，賽事可以用項目檔案判斷學生是否真實參與了創新過程。"
+          ]],
+          ["和專利方法論的連接", [
+            "這本教材的底層邏輯，仍然來自專利和發明。專利不是課程末尾才出現的「申請動作」，而是貫穿整個創新過程的知識系統。學生在專利庫裡看到人類已經如何解決問題，也會理解自己的方案必須在已有技術基礎上找到新的技術特徵、新的應用場景或新的組合方式。",
+            "因此，青少年科創訓練並不是把孩子包裝成「小發明家」，而是讓他們學會一種嚴肅的創造方式：觀察真實世界，尊重已有技術，提出新的解決方案，用實驗驗證價值，並用知識產權意識保護自己的創造。"
+          ]],
+          ["適合怎樣使用", [
+            "這套教材可以服務三類場景：學校和科創社團的系統課程，地方青少年科創賽事的賽前訓練，以及企業、園區或教育機構發起的創新實踐營。它既可以作為學生讀本，也可以拆解為導師手冊、課程講義、比賽工作簿和項目評審標準。",
+            "後續，我會把教材中的部分內容繼續整理成文章，例如如何設計科創問卷、如何帶青少年做專利檢索、如何用 AI 生成候選方向但不替代學生思考、如何把比賽作品推進到真實產品和知識產權成果。"
+          ]]
+        ]
+      },
+      ja: {
+        docTitle: "AI時代の青少年科学イノベーション実践教材 | Ma Su",
+        eyebrow: "書籍とカリキュラム / 青少年イノベーション",
+        title: "AI時代の青少年科学イノベーション実践教材：問題発見から知財保護までの完全なルート",
+        deck: "この教材は、青少年の科学イノベーションを「アイデアを考える」ことから、訓練でき、実行でき、振り返れる実践ルートへ再構成します。概念を暗記させるのではなく、実際のイノベーションの循環を一通り歩かせます。",
+        meta: ["馬粛 著", "書籍とカリキュラム", "Ma Su Team ナレッジセンター"],
+        caption: "教材表紙：青少年向けの実践型科学イノベーション教材。",
+        sections: [
+          ["なぜこの教材が重要か", [
+            "多くの学生は科学イノベーションを始めるとき、「革新的な作品を考えて」と求められます。しかし本当に難しいのは、見栄えのよいものを作ることではありません。現実の問題を見つけ、それが解く価値のある問題かを判断し、あいまいな発想を調査、検索、制作、検証、説明、保護できる成果に変えることです。",
+            "この教材はその課題を中心に構成されています。特許審査、発明、特許代理、青少年イノベーション指導の経験を一つにまとめ、問題発見、分析、資源探索、解決案、プロトタイプ、検証と反復、価値提示、成果保護というルートを作ります。",
+            "このウェブサイトにとって、この教材は馬粛の個人ブランドを支える重要な証拠です。方法論は記事やコンサルティング経験だけでなく、学生、教師、学校、競技運営者が使える教育システムへ変換されています。"
+          ]],
+          ["完全な学習ルート", [
+            "教材は、未来には創造できる人が必要だという考えから始まります。AI時代に希少なのは標準回答を待つ力ではなく、まだ定義されていない問題を発見し、検証可能な解決策へ進める力です。",
+            "全体は14章で、興味と生活からの問題発見、社会調査、データ分析、特許データベース、論文と技術ニュース、組合法、逆向き思考、表による再構成、AI協働、プロトタイプ、実験検証、発表、知財保護、実社会での価値創出を扱います。",
+            "このルートは「作ること」と「明確に説明すること」を重視します。学生は調査記録、特許検索ノート、発明日誌、スケッチ、模型写真、テストデータ、発表資料を残します。イノベーションは一回限りの競技ではなく、訓練し移転できる能力になります。"
+          ]],
+          ["教材におけるAIの役割", [
+            "この教材では、AIは学生の代わりに作品を完成させる道具ではありません。AIは科学イノベーションのチームメイトです。興味分類、質問票改善、キーワード拡張、リスク確認、レポート構成、3D表現を支援できますが、観察、判断、検証、改善を代替することはできません。",
+            "AI時代の科学イノベーション教育では、答えは得やすくなりますが、よい問いを立てる力はさらに価値を持ちます。AIを使える学生は、課題を速く終わらせるだけでなく、現実の場面を問い、実際のニーズを発見し、証拠の連鎖を作れるようになるべきです。"
+          ]],
+          ["付録が教材をツールキットにする", [
+            "本文に加えて、12回の授業計画、AIプロンプト集、100のテーマ種、プロジェクト記録例、質問票バンク、青少年向け知財6講、自己評価と成長記録、学生への10通の手紙、指導者向けの落とし穴メモを含みます。",
+            "これらの付録は、教師、保護者、競技運営者が教材を実際に運用するためのものです。学生はテーマ種から始め、教師は授業単位で訓練し、メンターはチェックリストで進捗を追い、競技ではプロジェクト記録を使って学生の実参加を判断できます。"
+          ]],
+          ["特許方法論との接続", [
+            "教材の底層には特許と発明の論理があります。特許は最後に出てくる申請手続ではなく、イノベーション全体を貫く知識システムです。学生は特許データベースを通じて先人の解決策を知り、自分の案が既存技術の上に新しい技術特徴、応用場面、組み合わせを見つける必要があると理解します。",
+            "したがって青少年科学イノベーション教育は、子どもを「小さな発明家」として包装することではありません。現実を観察し、既存技術を尊重し、新しい解決策を提案し、実験で価値を検証し、知財意識で創造を守る、厳密な創造方法を学ばせることです。"
+          ]],
+          ["利用シーン", [
+            "この教材は、学校や科学イノベーションクラブの体系的授業、地域の青少年イノベーション大会の事前訓練、企業や産業園区、教育機関が行う実践キャンプに使えます。学生用読本としても、指導者マニュアル、授業資料、競技ワークブック、評価基準としても展開できます。",
+            "今後は、科学イノベーション質問票の設計、青少年向け特許検索、AIで候補方向を広げながら学生の思考を代替しない方法、競技作品を実製品と知財成果へ進める方法などを記事化していきます。"
+          ]]
+        ]
+      },
+      tr: {
+        docTitle: "AI Çağında Gençler İçin Uygulamalı Bilim ve İnovasyon Ders Kitabı | Ma Su",
+        eyebrow: "Kitap ve müfredat / Gençlik inovasyonu",
+        title: "AI Çağında Gençler İçin Uygulamalı Bilim ve İnovasyon Ders Kitabı: Problem Keşfinden IP Korumasına Tam Rota",
+        deck: "Bu ders kitabı, gençlik bilim inovasyonunu sadece fikir bulmaktan çıkarıp eğitilebilir, uygulanabilir ve gözden geçirilebilir bir pratik rotaya dönüştürür. Öğrencilere kavram ezberletmez; onları gerçek bir inovasyon döngüsünden geçirir.",
+        meta: ["Ma Su tarafından", "Kitap ve müfredat", "Ma Su Team Bilgi Merkezi"],
+        caption: "Ders kitabı kapağı: genç öğrenciler için uygulamalı bilim inovasyonu教材.",
+        sections: [
+          ["Bu ders kitabı neden önemli", [
+            "Birçok öğrenci bilim inovasyonu projesine başladığında ondan yenilikçi bir çalışma düşünmesi istenir. Asıl zorluk etkileyici görünen bir şey yapmak değildir; gerçek bir problem bulmak, çözmeye değer olup olmadığını değerlendirmek ve belirsiz bir fikri araştırılabilir, aranabilir, üretilebilir, test edilebilir, açıklanabilir ve korunabilir bir sonuca dönüştürmektir.",
+            "Bu ders kitabı tam olarak bu görev etrafında kuruludur. Patent incelemesi, buluş, patent vekilliği ve gençlik inovasyonu koçluğu deneyimimi tek rotada birleştirir: problemi keşfet, analiz et, kaynak ara, çözüm öner, prototip yap, test edip yinele, değeri sun ve sonucu koru.",
+            "Bu site için kitap, Ma Su kişisel markasının temel kanıtlarından biridir. Metodoloji yalnızca makale veya danışmanlık deneyimi değildir; öğrencilerin, öğretmenlerin, okulların ve yarışma düzenleyicilerinin kullanabileceği bir öğretim sistemine dönüşmüştür."
+          ]],
+          ["Tam öğrenme rotası", [
+            "Kitap, geleceğin yaratabilen insanlara ihtiyaç duyduğu fikriyle başlar. AI çağında nadir olan yetenek standart cevap beklemek değil, henüz tanımlanmamış problemleri keşfedip onları doğrulanabilir çözümlere taşımaktır.",
+            "Ana bölüm 14 bölümden oluşur: ilgi ve günlük yaşamdan problem keşfi, sosyal araştırma, veriyle somut problem kurma, patent veri tabanları, makaleler ve teknoloji haberleri, kombinasyon, ters düşünme, tablo temelli yeniden birleştirme, AI iş birliği, prototip, deneysel doğrulama, sunum, IP koruması ve gerçek değer üretimi.",
+            "Rota özellikle yapmayı ve açık anlatmayı vurgular. Öğrenciler anket kayıtları, patent arama notları, buluş günlükleri, eskizler, model fotoğrafları, test verileri ve sunum malzemeleri tutar. Böylece inovasyon tek seferlik bir yarışma değil, eğitilebilen ve aktarılabilen bir yeteneğe dönüşür."
+          ]],
+          ["Kitapta AI'nin rolü", [
+            "Kitap AI'yi öğrencinin yerine projeyi tamamlayan bir araç olarak görmez. AI bir bilim inovasyonu takım arkadaşıdır. İlgi sınıflandırma, anket iyileştirme, anahtar kelime genişletme, risk kontrolü, rapor yapısı ve 3D ifade konusunda yardımcı olabilir; fakat gözlem, yargı, test ve yinelemenin yerini alamaz.",
+            "AI çağında bilim inovasyonu eğitimine bakışım budur: AI cevaplara erişimi kolaylaştırır, fakat iyi soru sorma yeteneğini daha değerli hale getirir. AI kullanabilen öğrenci yalnızca ödevleri daha hızlı bitirmemeli; gerçek sahneleri sorgulamalı, gerçek ihtiyaçları bulmalı ve gerçek kanıt zinciri kurmalıdır."
+          ]],
+          ["Ekler kitabı araç kutusuna dönüştürür", [
+            "Ana bölümlere ek olarak kitapta 12 derslik kurs planı, AI prompt kütüphanesi, 100 gençlik inovasyonu konu tohumu, tam proje arşivi örneği, anket soru bankası, genç öğrenciler için altı derslik IP özeti, öğrenci öz değerlendirme ve gelişim kayıtları, öğrencilere on mektup ve mentor notları bulunur.",
+            "Bu ekler öğretmenlerin, ebeveynlerin ve yarışma düzenleyicilerinin kursu sahada uygulaması için tasarlanmıştır. Öğrenciler konu tohumlarından başlayabilir, öğretmenler derslere göre eğitim düzenleyebilir, mentorlar kontrol listeleriyle ilerlemeyi izleyebilir ve yarışmalar proje arşivleriyle öğrencilerin gerçek katılımını değerlendirebilir."
+          ]],
+          ["Patent metodolojisiyle bağlantı", [
+            "Kitabın temel mantığı patentlerden ve buluştan gelir. Patentler kursun sonunda görünen bir başvuru adımı değildir; tüm inovasyon sürecinden geçen bir bilgi sistemidir. Öğrenciler patent veri tabanlarında insanların sorunları nasıl çözdüğünü görür ve kendi çözümlerinin mevcut teknoloji üzerinde yeni teknik özellikler, yeni uygulama sahneleri veya yeni kombinasyonlar bulması gerektiğini öğrenir.",
+            "Bu nedenle gençlik bilim inovasyonu eğitimi çocukları küçük mucitler olarak paketlemek değildir. Onlara gerçek dünyayı gözlemleme, mevcut teknolojiye saygı duyma, yeni çözüm önerme, deneyle değeri doğrulama ve IP bilinciyle yaratımlarını koruma gibi ciddi bir yaratma yöntemi öğretmektir."
+          ]],
+          ["Nasıl kullanılabilir", [
+            "Kitap üç senaryoya hizmet edebilir: okullar ve bilim inovasyonu kulüpleri için sistematik dersler, yerel gençlik inovasyonu etkinlikleri için yarışma öncesi eğitim ve şirketler, sanayi parkları veya eğitim kurumları tarafından başlatılan inovasyon kampları. Öğrenci kitabı olarak kullanılabilir; mentor kılavuzlarına, ders notlarına, yarışma çalışma kitaplarına ve proje değerlendirme standartlarına ayrılabilir.",
+            "Kitabın bazı bölümlerini makalelere dönüştürmeye devam edeceğim: bilim inovasyonu anketi tasarlama, gençlere patent aramayı öğretme, AI ile aday yönler üretirken öğrencinin düşüncesini değiştirmeme ve yarışma projesini gerçek ürünlere ve IP sonuçlarına taşıma gibi."
+          ]]
+        ]
+      },
+      vi: {
+        docTitle: "Giáo trình thực hành khoa học đổi mới cho thanh thiếu niên thời đại AI | Ma Su",
+        eyebrow: "Sách và chương trình / Đổi mới thanh thiếu niên",
+        title: "Giáo trình thực hành khoa học đổi mới cho thanh thiếu niên thời đại AI: lộ trình đầy đủ từ phát hiện vấn đề đến bảo hộ IP",
+        deck: "Giáo trình này chuyển đổi khoa học đổi mới của thanh thiếu niên từ việc nghĩ ra một ý tưởng thành một lộ trình thực hành có thể rèn luyện, thực hiện và đánh giá lại. Nó không yêu cầu học sinh học thuộc khái niệm, mà dẫn các em đi qua một vòng đổi mới thực tế.",
+        meta: ["Tác giả Ma Su", "Sách và chương trình", "Trung tâm tri thức Ma Su Team"],
+        caption: "Bìa giáo trình: giáo trình khoa học đổi mới thực hành cho học sinh.",
+        sections: [
+          ["Vì sao giáo trình này quan trọng", [
+            "Khi nhiều học sinh bắt đầu dự án khoa học đổi mới, các em thường được yêu cầu nghĩ ra một sản phẩm sáng tạo. Nhưng điều khó thật sự không phải là làm một thứ trông ấn tượng, mà là tìm ra một vấn đề thật, đánh giá nó có đáng giải quyết hay không, rồi biến ý tưởng mơ hồ thành kết quả có thể khảo sát, tra cứu, chế tạo, kiểm nghiệm, trình bày và bảo hộ.",
+            "Giáo trình này được xây dựng quanh nhiệm vụ đó. Nó kết hợp kinh nghiệm thẩm định sáng chế, phát minh, đại diện sáng chế và hướng dẫn đổi mới thanh thiếu niên của tôi thành một lộ trình: phát hiện vấn đề, phân tích, tìm nguồn, đề xuất giải pháp, làm nguyên mẫu, kiểm thử và lặp lại, trình bày giá trị và bảo hộ kết quả.",
+            "Đối với website này, giáo trình là một bằng chứng cốt lõi cho thương hiệu cá nhân của Ma Su. Phương pháp luận không chỉ nằm trong bài viết hay kinh nghiệm tư vấn; nó đã được chuyển thành một hệ thống dạy học mà học sinh, giáo viên, nhà trường và đơn vị tổ chức cuộc thi có thể sử dụng."
+          ]],
+          ["Lộ trình học tập hoàn chỉnh", [
+            "Giáo trình bắt đầu từ ý tưởng rằng tương lai cần những người biết sáng tạo. Trong thời đại AI, năng lực hiếm không phải là chờ câu trả lời chuẩn, mà là phát hiện các vấn đề chưa được định nghĩa rõ và đẩy chúng thành giải pháp có thể kiểm chứng.",
+            "Phần chính gồm 14 chương: phát hiện vấn đề từ sở thích và đời sống, dùng khảo sát xã hội để tìm vấn đề thật, dùng dữ liệu để biến hướng đi thành vấn đề cụ thể, đi vào cơ sở dữ liệu sáng chế, đọc bài báo và tin công nghệ, tạo giải pháp bằng kết hợp, tư duy ngược và tái tổ hợp bằng bảng, rồi đến cộng tác AI, tạo nguyên mẫu, kiểm nghiệm, trình bày, bảo hộ IP và tạo giá trị thực tế.",
+            "Lộ trình này đặc biệt nhấn mạnh làm ra và nói rõ. Học sinh được khuyến khích lưu hồ sơ khảo sát, ghi chú tra cứu sáng chế, nhật ký phát minh, phác thảo, ảnh mô hình, dữ liệu thử nghiệm và tài liệu thuyết trình. Khi đó đổi mới không còn là một cuộc thi nhất thời, mà là năng lực có thể rèn luyện và chuyển giao."
+          ]],
+          ["Vai trò của AI trong giáo trình", [
+            "Giáo trình không xem AI là công cụ làm thay dự án cho học sinh. AI được đặt ở vị trí đồng đội khoa học đổi mới. Nó có thể hỗ trợ phân loại sở thích, cải thiện bảng hỏi, mở rộng từ khóa, kiểm tra rủi ro, tổ chức cấu trúc báo cáo và hỗ trợ biểu đạt 3D, nhưng không thể thay thế quan sát, phán đoán, thử nghiệm và lặp lại.",
+            "Đây cũng là quan điểm cơ bản của tôi về giáo dục khoa học đổi mới trong thời đại AI: AI sẽ làm câu trả lời dễ có hơn, nhưng làm năng lực đặt câu hỏi hay trở nên quý hơn. Một học sinh biết dùng AI không chỉ nên hoàn thành bài nhanh hơn, mà cần giỏi hơn trong việc chất vấn bối cảnh thật, phát hiện nhu cầu thật và xây dựng chuỗi bằng chứng thật."
+          ]],
+          ["Phụ lục biến giáo trình thành hộp công cụ", [
+            "Ngoài các chương chính, giáo trình có các phụ lục thực hành: kế hoạch khóa học 12 buổi, thư viện prompt AI, 100 hạt giống đề tài đổi mới thanh thiếu niên, mẫu hồ sơ dự án hoàn chỉnh, ngân hàng câu hỏi khảo sát, sáu bài học IP cho học sinh, hồ sơ tự đánh giá và trưởng thành, mười lá thư cho học sinh và ghi chú của mentor về các lỗi thường gặp.",
+            "Những phụ lục này giúp giáo viên, phụ huynh và đơn vị tổ chức cuộc thi triển khai khóa học thật sự. Học sinh có thể bắt đầu từ hạt giống đề tài, giáo viên tổ chức theo từng buổi, mentor theo dõi tiến độ bằng checklist, và cuộc thi có thể dùng hồ sơ dự án để đánh giá mức độ tham gia thật của học sinh."
+          ]],
+          ["Kết nối với phương pháp sáng chế", [
+            "Logic nền tảng của giáo trình vẫn đến từ sáng chế và phát minh. Sáng chế không phải là bước nộp đơn chỉ xuất hiện cuối khóa, mà là một hệ thống tri thức xuyên suốt quá trình đổi mới. Khi đọc cơ sở dữ liệu sáng chế, học sinh thấy con người đã giải quyết vấn đề như thế nào và hiểu rằng giải pháp của mình cần tìm ra đặc điểm kỹ thuật mới, bối cảnh ứng dụng mới hoặc tổ hợp mới trên nền công nghệ hiện có.",
+            "Vì vậy, đào tạo khoa học đổi mới cho thanh thiếu niên không phải là đóng gói trẻ em thành nhà phát minh nhí. Đó là dạy các em một cách sáng tạo nghiêm túc: quan sát thế giới thật, tôn trọng công nghệ hiện có, đề xuất giải pháp mới, kiểm chứng giá trị bằng thực nghiệm và bảo vệ sáng tạo bằng ý thức IP."
+          ]],
+          ["Cách sử dụng giáo trình", [
+            "Giáo trình có thể phục vụ ba bối cảnh: khóa học hệ thống cho trường học và câu lạc bộ khoa học đổi mới, đào tạo trước cuộc thi cho sự kiện đổi mới thanh thiếu niên địa phương, và trại thực hành đổi mới do doanh nghiệp, khu công nghiệp hoặc tổ chức giáo dục khởi xướng. Nó có thể là sách học sinh, cũng có thể tách thành sổ tay mentor, tài liệu lớp học, workbook cuộc thi và tiêu chuẩn đánh giá dự án.",
+            "Tôi sẽ tiếp tục chuyển một phần giáo trình thành bài viết, gồm cách thiết kế bảng hỏi khoa học đổi mới, cách hướng dẫn học sinh tra cứu sáng chế, cách dùng AI tạo hướng đề tài mà không thay thế tư duy học sinh, và cách đưa tác phẩm dự thi tiến tới sản phẩm thật và kết quả IP."
+          ]]
+        ]
+      }
+    }
+  };
+
   function supported(code) {
     return languages.some(([lang]) => lang === code);
   }
@@ -700,6 +849,37 @@ const runtime = String.raw`(() => {
     document.querySelectorAll(".related-articles h2").forEach((el) => { if (el.textContent.trim() === "Continue this series") el.textContent = labels.continueSeries; });
   }
 
+  function translateLongArticle(lang) {
+    const slug = location.pathname.split("/").pop().replace(".html", "");
+    const translated = articlePageTranslations[slug] && articlePageTranslations[slug][lang];
+    if (!translated) return;
+    document.title = translated.docTitle;
+    const shell = document.querySelector(".article-shell");
+    if (!shell) return;
+    const eyebrow = shell.querySelector(":scope > .eyebrow");
+    const title = shell.querySelector(":scope > h1");
+    const deck = shell.querySelector(":scope > .article-deck");
+    const meta = shell.querySelectorAll(":scope > .article-meta span");
+    const caption = shell.querySelector(".article-hero-image figcaption");
+    if (eyebrow) eyebrow.textContent = translated.eyebrow;
+    if (title) title.textContent = translated.title;
+    if (deck) deck.textContent = translated.deck;
+    translated.meta.forEach((text, index) => {
+      if (meta[index]) meta[index].textContent = text;
+    });
+    if (caption) caption.textContent = translated.caption;
+    shell.querySelectorAll(":scope > .article-section").forEach((section, index) => {
+      const data = translated.sections[index];
+      if (!data) return;
+      const h2 = section.querySelector("h2");
+      const paragraphs = section.querySelectorAll("p");
+      if (h2) h2.textContent = data[0];
+      data[1].forEach((text, pIndex) => {
+        if (paragraphs[pIndex]) paragraphs[pIndex].textContent = text;
+      });
+    });
+  }
+
   function translate(lang) {
     document.documentElement.lang = lang === "zh-hk" ? "zh-Hant-HK" : lang;
     translateNav(lang);
@@ -709,6 +889,7 @@ const runtime = String.raw`(() => {
       if (titleMap[document.title]) document.title = titleMap[document.title];
       replaceExactText(lang);
       translateCommonUi(lang);
+      translateLongArticle(lang);
     }
   }
 
