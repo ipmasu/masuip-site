@@ -35,6 +35,14 @@ window.MASU_CONTENT = {
       "date": "2026-07-27"
     },
     {
+      "slug": "xiegang-yafan-cup-youth-innovation-competition",
+      "title": "Xiegang Yafan Cup Youth Innovation Competition Case",
+      "description": "A youth science innovation competition plan that connects local education, enterprise R&D resources, patent literacy, product design, and commercialization.",
+      "category": "Youth Innovation Case",
+      "series": "youth-innovation",
+      "date": "2026-07-27"
+    },
+    {
       "slug": "ai-ip-strategy-for-global-innovators-china",
       "title": "AI and IP Strategy for Global Innovators Entering China",
       "description": "A practical IP strategy note for AI-heavy companies, overseas innovators, and patent firms preparing China patent filings in the age of generative AI.",

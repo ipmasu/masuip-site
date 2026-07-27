@@ -45,6 +45,15 @@ const articles = [
     date: "2026-07-27",
   },
   {
+    slug: "xiegang-yafan-cup-youth-innovation-competition",
+    title: "Xiegang Yafan Cup Youth Innovation Competition Case",
+    description:
+      "A youth science innovation competition plan that connects local education, enterprise R&D resources, patent literacy, product design, and commercialization.",
+    category: "Youth Innovation Case",
+    series: "youth-innovation",
+    date: "2026-07-27",
+  },
+  {
     slug: "ai-ip-strategy-for-global-innovators-china",
     title: "AI and IP Strategy for Global Innovators Entering China",
     description:
@@ -479,6 +488,31 @@ function aboutPage() {
           <p>The same method is also being developed into a youth innovation competition handbook, using comics and practical tasks to help students understand how science innovation works in real projects.</p>
           <a class="text-action" href="assets/book/science-innovation-guide-cover-spread.jpg">View full cover spread</a>
         </div>
+      </section>
+      <section class="content-band light" data-editable="about-yafan-case">
+        <div class="section-heading">
+          <p class="eyebrow">Youth Innovation Case</p>
+          <h2>Planning the Xiegang Yafan Cup youth science innovation competition.</h2>
+          <p>Ma Su's youth innovation methodology is not only a textbook idea. It is being translated into local competition design, enterprise R&D visits, IP education, patent search training, product design guidance, roadshow practice, and commercialization pathways.</p>
+        </div>
+        <div class="series-grid">
+          <article class="series-card">
+            <p>Local education</p>
+            <h3>Xiegang youth innovation brand</h3>
+            <span>The competition is designed for primary and secondary students in Xiegang, helping local schools build a repeatable science innovation and IP education activity.</span>
+          </article>
+          <article class="series-card">
+            <p>Enterprise scenario</p>
+            <h3>Water-cup product innovation</h3>
+            <span>Students work around functional, material, shape, smart-hardware, and prototype innovation for cups, connecting creative ideas with real manufacturing resources.</span>
+          </article>
+          <article class="series-card">
+            <p>IP pathway</p>
+            <h3>From idea to patent to product</h3>
+            <span>The model introduces patent literacy, patent search, expert review, product design, and selected commercialization so students can see how innovation creates value.</span>
+          </article>
+        </div>
+        <a class="text-action" href="articles/xiegang-yafan-cup-youth-innovation-competition.html">Read the competition case</a>
       </section>
       <section class="credentials-section" data-editable="about-credentials">
         <div class="section-heading">
