@@ -433,7 +433,8 @@ function aboutPage() {
     ["inventions-association-web.jpg", "China Association of Inventions", "Membership connected with invention and innovation practice."],
     ["cnki-expert-web.jpg", "CNKI Galaxy Expert Library", "Certified expert profile."],
     ["science-communication-expert-web.jpg", "Science Communication Expert", "Appointment related to science communication and innovation education."],
-    ["icc-first-prize-web.jpg", "Youth Innovation Coaching", "Instructor record for Invention Convention China National Finals First Prize."],
+    ["hunan-science-writers-web.jpg", "Hunan Science Writers Association", "Membership certificate for science communication writing and public science education."],
+    ["icc-first-prize-web.jpg", "ICC National Finals Instructor Award", "Instructor record for Invention Convention China National Finals First Prize."],
     ["ip-teacher-training-web.jpg", "IP Education Training", "Intellectual property education teacher training record."],
   ];
   const credentialCards = credentials
