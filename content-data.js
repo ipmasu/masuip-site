@@ -16,7 +16,7 @@ window.MASU_CONTENT = {
       "id": "global-ip",
       "title": "Global IP",
       "kicker": "Cross-border strategy",
-      "description": "IP strategy for overseas innovators, foreign patent firms, AI-heavy companies, pharmaceutical teams, and global technology transfer."
+      "description": "Cross-border patent strategy for Chinese companies and individual inventors going overseas, and for overseas innovators entering China."
     },
     {
       "id": "youth-innovation",

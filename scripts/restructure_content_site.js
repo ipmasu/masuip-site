@@ -23,7 +23,7 @@ const series = [
     title: "Global IP",
     kicker: "Cross-border strategy",
     description:
-      "IP strategy for overseas innovators, foreign patent firms, AI-heavy companies, pharmaceutical teams, and global technology transfer.",
+      "Cross-border patent strategy for Chinese companies and individual inventors going overseas, and for overseas innovators entering China.",
   },
   {
     id: "youth-innovation",
@@ -204,7 +204,7 @@ function nav(prefix = "") {
         <span class="brand-mark">SR</span>
         <span>
           <strong>ShineRed IP</strong>
-          <small>Global Patent Strategy</small>
+          <small>Cross-border Patent Strategy</small>
         </span>
       </a>
       <nav class="main-nav" aria-label="Primary navigation">
@@ -220,7 +220,7 @@ function nav(prefix = "") {
 function footer(prefix = "") {
   return `<footer>
       <p>&copy; 2026 Guangdong ShineRed Intellectual Property Co., Ltd.</p>
-      <p>Ma Su and ShineRed IP. China patent strategy for global innovators.</p>
+      <p>Ma Su and ShineRed IP. Overseas patent layout for Chinese innovators and China patent layout for overseas innovators.</p>
     </footer>
     <script src="${prefix}content-data.js"></script>
     <script src="${prefix}content-ui.js"></script>`;
@@ -284,9 +284,9 @@ function homePage() {
   const body = `
       <section class="content-hero" data-editable="home-hero">
         <div>
-          <p class="eyebrow">China IP strategy for global innovators</p>
-          <h1>Examiner-grade China patent strategy, explained through a living article library.</h1>
-          <p>Ma Su helps overseas innovators and patent firms understand China patent examination, patent-map guided innovation, AI-era invention mining, and IP education through practical articles and strategy services.</p>
+          <p class="eyebrow">Cross-border patent strategy</p>
+          <h1>Patent layout for Chinese innovators going overseas and overseas innovators entering China.</h1>
+          <p>Ma Su helps Chinese companies and individual inventors plan overseas patent portfolios, while also helping overseas innovation teams enter China with examiner-style patentability screening, claim reconstruction, and portfolio strategy.</p>
           <div class="hero-actions">
             <a class="primary-action" href="articles.html">Read the knowledge center</a>
             <a class="secondary-action" href="contact.html">Discuss cooperation</a>
@@ -295,16 +295,16 @@ function homePage() {
       </section>
 
       <section class="trust-strip" data-editable="home-trust">
-        <div><strong>Former CNIPA examiner</strong><span>Examiner-style grant analysis before China filing.</span></div>
-        <div><strong>20+ articles</strong><span>A structured English knowledge center for global readers.</span></div>
+        <div><strong>Former CNIPA examiner</strong><span>Examiner-style analysis for China entry and outbound patent decisions.</span></div>
+        <div><strong>20+ articles</strong><span>A structured knowledge center for cross-border patent strategy.</span></div>
         <div><strong>Patent-map method</strong><span>Turn real technical problems into portfolio options.</span></div>
-        <div><strong>AI-era curriculum</strong><span>Innovation education connected with IP protection.</span></div>
+        <div><strong>Two-way layout</strong><span>China-to-overseas portfolios and overseas-to-China filings.</span></div>
       </section>
 
       <section class="content-band light" data-editable="home-latest">
         <div class="section-heading">
           <p class="eyebrow">Latest Articles</p>
-          <h2>New thinking for AI, China patents, and global IP strategy.</h2>
+          <h2>New thinking for AI, Chinese innovation, China entry, and overseas patent strategy.</h2>
         </div>
         <div class="content-grid">${latest}</div>
       </section>
@@ -320,13 +320,13 @@ function homePage() {
       <section class="content-band light" data-editable="home-services">
         <div class="section-heading">
           <p class="eyebrow">Service Overview</p>
-          <h2>Strategy services built from the same method as the articles.</h2>
+          <h2>Strategy services built around cross-border patent layout.</h2>
         </div>
         <div class="service-grid content-service-grid">
-          <article><span>01</span><h3>China Patent Entry</h3><p>Pre-filing review, claim reconstruction, examiner-style office-action reasoning, and China portfolio design.</p><a href="china-entry.html">View service</a></article>
-          <article><span>02</span><h3>Patent-Map Innovation</h3><p>Use patent information to discover technical white space and guide invention mining before drafting begins.</p><a href="methodology.html">View method</a></article>
-          <article><span>03</span><h3>Foreign Firm Cooperation</h3><p>China-side strategy memos, bilingual explanations, and technical analysis for overseas patent counsel.</p><a href="services.html">View services</a></article>
-          <article><span>04</span><h3>Innovation Education</h3><p>AI-era science innovation curriculum, student project guidance, and IP literacy for young innovators.</p><a href="education.html">View education</a></article>
+          <article><span>01</span><h3>Chinese Innovators Going Overseas</h3><p>Overseas patent layout, prior-art landscape reading, PCT and national-phase planning, and portfolio sequencing for Chinese companies and individual inventors.</p><a href="services.html">View services</a></article>
+          <article><span>02</span><h3>Overseas Innovators Entering China</h3><p>Pre-filing China review, claim reconstruction, examiner-style office-action reasoning, and China portfolio design.</p><a href="china-entry.html">View service</a></article>
+          <article><span>03</span><h3>Patent-Map Innovation</h3><p>Use patent information to discover technical white space and guide invention mining before drafting begins.</p><a href="methodology.html">View method</a></article>
+          <article><span>04</span><h3>Patent Firm Cooperation</h3><p>Cross-border strategy memos, bilingual explanations, and technical analysis for Chinese and overseas patent counsel.</p><a href="services.html">View services</a></article>
         </div>
       </section>
 
@@ -351,11 +351,11 @@ function homePage() {
       <section class="cta-newsletter" data-editable="home-cta">
         <div>
           <p class="eyebrow">Newsletter</p>
-          <h2>Get China patent strategy notes and AI-era innovation articles.</h2>
+          <h2>Get cross-border patent strategy notes and AI-era innovation articles.</h2>
         </div>
         ${newsletter()}
       </section>`;
-  return pageShell("Ma Su | Global IP Strategy and Patent Innovation", "Ma Su and ShineRed IP publish examiner-grade China patent strategy, patent-map guided innovation, and AI-era IP articles for global innovators.", body);
+  return pageShell("Ma Su | Cross-border Patent Strategy and Innovation", "Ma Su and ShineRed IP publish examiner-grade patent strategy for Chinese innovators going overseas and overseas innovators entering China.", body);
 }
 
 function articlesPage() {
@@ -387,7 +387,7 @@ function articlesPage() {
         <div><p class="eyebrow">Newsletter</p><h2>Subscribe for new article updates.</h2></div>
         ${newsletter()}
       </section>`;
-  return pageShell("Articles and Insights | Ma Su", "English articles by Ma Su and ShineRed IP, organized by examiner insights, innovation maps, global IP, and youth innovation.", body);
+  return pageShell("Articles and Insights | Ma Su", "Articles by Ma Su and ShineRed IP, organized by examiner insights, innovation maps, cross-border patent strategy, and youth innovation.", body);
 }
 
 function seriesPage(s) {
@@ -410,8 +410,8 @@ function aboutPage() {
         <figure><img src="assets/credentials/ma-su-train-portrait.jpg" alt="Ma Su portrait" /></figure>
         <div>
           <p class="eyebrow">About Ma Su</p>
-          <h1>Former CNIPA examiner, China IP strategy adviser, and patent-map innovation educator.</h1>
-          <p>Ma Su helps global innovators and foreign patent firms enter China with examiner-style patentability screening, claim reconstruction, and portfolio thinking. His work connects patent examination logic, AI-era science innovation education, and practical technology commercialization.</p>
+          <h1>Former CNIPA examiner, cross-border patent strategy adviser, and patent-map innovation educator.</h1>
+          <p>Ma Su helps Chinese companies and individual inventors build overseas patent portfolios, and helps overseas innovators enter China with examiner-style patentability screening, claim reconstruction, and portfolio thinking. His work connects patent examination logic, AI-era science innovation education, and practical technology commercialization.</p>
           <a class="text-action" href="articles/why-i-wrote-a-practical-science-innovation-textbook.html">Read the pinned personal story</a>
         </div>
       </section>
