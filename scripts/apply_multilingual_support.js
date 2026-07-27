@@ -880,6 +880,73 @@ const runtime = String.raw`(() => {
     });
   }
 
+  const machineTargets = {
+    en: "en",
+    "zh-hk": "zh-TW",
+    ja: "ja",
+    tr: "tr",
+    vi: "vi",
+  };
+
+  function shouldAutoTranslate(text, lang) {
+    const value = text.trim();
+    if (!value || !/[\u4e00-\u9fff]/.test(value)) return false;
+    if (lang === "ja" && /[\u3040-\u30ff]/.test(value)) return false;
+    if (lang === "tr" && /[çğıöşüÇĞİÖŞÜ]/.test(value)) return false;
+    if (lang === "vi" && /[ăâđêôơưĂÂĐÊÔƠƯ]/.test(value)) return false;
+    return true;
+  }
+
+  async function translateText(text, target) {
+    const trimmed = text.trim();
+    const cacheKey = "masuip-mt:" + target + ":" + trimmed;
+    let cached = "";
+    try { cached = localStorage.getItem(cacheKey); } catch (error) {}
+    if (cached) return text.replace(trimmed, cached);
+    const url = "https://translate.googleapis.com/translate_a/single?client=gtx&sl=zh-CN&tl=" + encodeURIComponent(target) + "&dt=t&q=" + encodeURIComponent(trimmed);
+    const response = await fetch(url);
+    if (!response.ok) throw new Error("Translation request failed: " + response.status);
+    const data = await response.json();
+    const translated = (data[0] || []).map((item) => item[0]).join("").trim();
+    if (translated) {
+      try { localStorage.setItem(cacheKey, translated); } catch (error) {}
+      return text.replace(trimmed, translated);
+    }
+    return text;
+  }
+
+  async function autoTranslateResidualChinese(lang) {
+    const target = machineTargets[lang];
+    if (!target) return;
+    const scope = document.querySelector(".article-shell") || document.querySelector("main");
+    if (!scope) return;
+    const walker = document.createTreeWalker(scope, NodeFilter.SHOW_TEXT, {
+      acceptNode(node) {
+        const parent = node.parentElement;
+        if (!parent || ["SCRIPT", "STYLE", "TEXTAREA", "OPTION", "SELECT"].includes(parent.tagName)) return NodeFilter.FILTER_REJECT;
+        if (parent.closest(".language-switcher")) return NodeFilter.FILTER_REJECT;
+        return shouldAutoTranslate(node.nodeValue, lang) ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_REJECT;
+      }
+    });
+    const nodes = [];
+    while (walker.nextNode()) nodes.push(walker.currentNode);
+    if (!nodes.length) return;
+    document.body.dataset.translation = "loading";
+    let index = 0;
+    async function worker() {
+      while (index < nodes.length) {
+        const node = nodes[index++];
+        try {
+          node.nodeValue = await translateText(node.nodeValue, target);
+        } catch (error) {
+          console.warn("Auto translation skipped", error);
+        }
+      }
+    }
+    await Promise.all(Array.from({ length: Math.min(4, nodes.length) }, worker));
+    document.body.dataset.translation = "done";
+  }
+
   function translate(lang) {
     document.documentElement.lang = lang === "zh-hk" ? "zh-Hant-HK" : lang;
     translateNav(lang);
@@ -891,6 +958,7 @@ const runtime = String.raw`(() => {
       translateCommonUi(lang);
       translateLongArticle(lang);
     }
+    autoTranslateResidualChinese(lang);
   }
 
   document.addEventListener("DOMContentLoaded", () => translate(getLang()));
