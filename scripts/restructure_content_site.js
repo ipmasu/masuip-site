@@ -217,11 +217,11 @@ function nav(prefix = "") {
         </span>
       </a>
       <nav class="main-nav" aria-label="Primary navigation">
-        <a href="${prefix}index.html">首页</a>
-        <a href="${prefix}articles.html">文章中心</a>
-        <a href="${prefix}methodology.html">方法论</a>
-        <a href="${prefix}about.html">关于我</a>
-        <a href="${prefix}contact.html">联系</a>
+        <a href="${prefix}index.html">Home</a>
+        <a href="${prefix}articles.html">Articles</a>
+        <a href="${prefix}methodology.html">Methodology</a>
+        <a href="${prefix}about.html">About</a>
+        <a href="${prefix}contact.html">Contact</a>
       </nav>
     </header>`;
 }
@@ -553,6 +553,7 @@ function injectArticleScripts(dir, prefix) {
     const p = path.join(dir, file);
     let html = fs.readFileSync(p, "utf8");
     html = html.replace(/<header class="article-header">[\s\S]*?<\/header>/, nav(prefix));
+    html = html.replace(/<header class="site-header content-header">[\s\S]*?<\/header>/, nav(prefix));
     if (!html.includes("content-ui.js")) {
       html = html.replace("</body>", `  <script src="${prefix}content-data.js"></script>\n  <script src="${prefix}content-ui.js"></script>\n</body>`);
     }

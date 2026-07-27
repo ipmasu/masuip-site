@@ -201,6 +201,21 @@
     }
   };
 
+  const navLabels = {
+    en: ["Home", "Articles", "Methodology", "About", "Contact"],
+    "zh-hk": ["首頁", "文章中心", "方法論", "關於我", "聯絡"],
+    ja: ["ホーム", "記事センター", "方法論", "プロフィール", "お問い合わせ"],
+    tr: ["Ana sayfa", "Makaleler", "Metodoloji", "Hakkımda", "İletişim"],
+    vi: ["Trang chủ", "Bài viết", "Phương pháp", "Giới thiệu", "Liên hệ"],
+  };
+
+  function translateNav(lang) {
+    const labels = navLabels[lang] || navLabels.en;
+    document.querySelectorAll(".main-nav a").forEach((link, index) => {
+      if (labels[index]) link.textContent = labels[index];
+    });
+  }
+
   function getLang() {
     const query = new URLSearchParams(location.search).get("lang");
     const saved = localStorage.getItem("masuip-lang");
@@ -227,6 +242,7 @@
 
   function translate(lang) {
     document.documentElement.lang = lang === "zh-hk" ? "zh-Hant-HK" : lang;
+    translateNav(lang);
     if (lang === "en") return;
     const map = dictionary[lang] || {};
     const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT, {
