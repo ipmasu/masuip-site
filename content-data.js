@@ -1,4 +1,51 @@
 window.MASU_CONTENT = {
+  "knowledgeCategories": [
+      {
+          "id": "patent-mining-methodology",
+          "title": "Patent Mining Methodology",
+          "description": "Methods for discovering patentable technical solutions from existing technology, R&D problems, patent maps, and structured claim thinking."
+      },
+      {
+          "id": "innovation-methods",
+          "title": "Innovation Methods",
+          "description": "Reusable invention methods that turn innovation from inspiration into a practical process."
+      },
+      {
+          "id": "patent-drafting-practice",
+          "title": "Patent Drafting Practice",
+          "description": "Claim drafting, technical-feature decomposition, and practical standards for patent documents."
+      },
+      {
+          "id": "inventiveness-examination",
+          "title": "Inventiveness & Examination",
+          "description": "Examiner-style reasoning for inventive step, technical contribution, and patentability judgment."
+      },
+      {
+          "id": "cross-border-patent-strategy",
+          "title": "Cross-Border Patent Strategy",
+          "description": "Patent strategy for Chinese innovators going overseas and overseas innovators entering China."
+      },
+      {
+          "id": "youth-innovation-education",
+          "title": "Youth Innovation Education",
+          "description": "Project-based science innovation education, topic selection, evidence records, and authentic competition guidance."
+      },
+      {
+          "id": "ip-fundamentals",
+          "title": "IP Fundamentals",
+          "description": "Basic intellectual property concepts, patent classification, and public-facing IP literacy."
+      },
+      {
+          "id": "patent-system-history",
+          "title": "Patent System & History",
+          "description": "Historical and institutional views of patent systems, incentives, public interest, and innovation protection."
+      },
+      {
+          "id": "policy-interpretation",
+          "title": "Policy Interpretation",
+          "description": "Policy interpretation for innovation-oriented enterprises and technology teams."
+      }
+  ],
   "series": [
     {
       "id": "examiner-insights",
@@ -26,6 +73,132 @@ window.MASU_CONTENT = {
     }
   ],
   "articles": [
+    {
+      "slug": "the-dual-nature-of-patent-system",
+      "title": "The Dual Nature of the Patent System: A 500-Year History",
+      "description": "A historical and policy article on the patent system, its benefits, risks, abuse problems, and why it remains a key tool for protecting innovation.",
+      "category": "Patent System & History",
+      "series": "patent-system-history",
+      "date": "2026-03-12",
+      "status": "planned"
+    },
+    {
+      "slug": "understanding-inventive-step",
+      "title": "Understanding Inventive Step: A Practical Guide with Real Cases",
+      "description": "A practical inventive-step guide using real cases to explain problem discovery, technical contribution, and examiner-style three-step reasoning.",
+      "category": "Inventiveness & Examination",
+      "series": "inventiveness-examination",
+      "date": "2026-03-18",
+      "status": "planned"
+    },
+    {
+      "slug": "patent-claim-drafting-standards-28-rules",
+      "title": "Patent Claim Drafting Standards: 28 Practical Rules",
+      "description": "A claim-drafting practice guide organizing standards for clear technical features, defensible scope, dependencies, and examination-ready language.",
+      "category": "Patent Drafting Practice",
+      "series": "patent-drafting-practice",
+      "date": "2026-03-18",
+      "status": "planned"
+    },
+    {
+      "slug": "ipc-classification-section-f-mechanical-engineering",
+      "title": "International Patent Classification: Section F, Mechanical Engineering",
+      "description": "An IP fundamentals article on IPC Section F, covering mechanical engineering, lighting, heating, weapons, and blasting-related classification logic.",
+      "category": "IP Fundamentals",
+      "series": "ip-fundamentals",
+      "date": "2026-03-20",
+      "status": "planned"
+    },
+    {
+      "slug": "ipc-classification-section-g-physics",
+      "title": "International Patent Classification: Section G, Physics",
+      "description": "An IP fundamentals article explaining IPC Section G and its value for reading patents in measurement, computing, control, and physics-related fields.",
+      "category": "IP Fundamentals",
+      "series": "ip-fundamentals",
+      "date": "2026-03-21",
+      "status": "planned"
+    },
+    {
+      "slug": "ipc-classification-section-h-electricity",
+      "title": "International Patent Classification: Section H, Electricity",
+      "description": "An IP fundamentals article introducing IPC Section H and how electrical technologies are classified for patent search and analysis.",
+      "category": "IP Fundamentals",
+      "series": "ip-fundamentals",
+      "date": "2026-03-22",
+      "status": "planned"
+    },
+    {
+      "slug": "pct-international-patent-application-guide",
+      "title": "PCT International Patent Application Guide: Global Armor for Innovation",
+      "description": "A guide to PCT filing logic, timing, route selection, and how innovators can use international applications to protect overseas expansion.",
+      "category": "Cross-Border Patent Strategy",
+      "series": "cross-border-patent-strategy",
+      "date": "2026-03-24",
+      "status": "planned"
+    },
+    {
+      "slug": "invention-patent-cultivation-methodology",
+      "title": "Invention Patent Cultivation: A Systematic Methodology and Strategic Optimization",
+      "description": "A systematic invention-patent cultivation framework covering problem identification, analysis, conception, search, drafting, and strategic portfolio optimization.",
+      "category": "Patent Mining Methodology",
+      "series": "patent-mining-methodology",
+      "date": "2026-04-02",
+      "status": "planned"
+    },
+    {
+      "slug": "science-innovation-competition-real-vs-fake",
+      "title": "Why a Bottle Cap Device Wins First Prize: Real vs. Fake in Science Competitions",
+      "description": "A youth innovation competition essay arguing that judges value authenticity, real student participation, clear evidence, and problems from everyday life.",
+      "category": "Youth Innovation Education",
+      "series": "youth-innovation-education",
+      "date": "2026-04-03",
+      "status": "planned"
+    },
+    {
+      "slug": "defensive-patent-applications-strategy",
+      "title": "Defensive Patent Applications: Filing Without Pursuing Grant",
+      "description": "A strategy article on defensive disclosure, prior-art barriers, broad claim pools, and how filing can serve business competition even without immediate grant.",
+      "category": "Cross-Border Patent Strategy",
+      "series": "cross-border-patent-strategy",
+      "date": "2026-04-08",
+      "status": "planned"
+    },
+    {
+      "slug": "continuation-filing-and-obviousness-double-patenting",
+      "title": "Filing a Continuation Is Admitting Obviousness-Type Double Patenting",
+      "description": "A cross-border patent strategy note on U.S. continuation practice, obviousness-type double patenting, terminal disclaimers, and differences from Chinese practice.",
+      "category": "Cross-Border Patent Strategy",
+      "series": "cross-border-patent-strategy",
+      "date": "2026-04-04",
+      "status": "planned"
+    },
+    {
+      "slug": "correct-understanding-of-patent-mining",
+      "title": "The Correct Understanding of Patent Mining: It Is Not About Hard Work",
+      "description": "A methodological note correcting common misunderstandings about patent mining and explaining why structured claim-oriented thinking can guide R&D before products are finalized.",
+      "category": "Patent Mining Methodology",
+      "series": "patent-mining-methodology",
+      "date": "2018-08-21",
+      "status": "planned"
+    },
+    {
+      "slug": "understanding-srdis-enterprise-policy",
+      "title": "Understanding SRDI Enterprises: Specialized, Refined, Distinctive, and Innovative",
+      "description": "A policy explainer on SRDI enterprise cultivation, recognition standards, support channels, and how innovation-driven SMEs can read the policy ladder.",
+      "category": "Policy Interpretation",
+      "series": "policy-interpretation",
+      "date": "2025-12-26",
+      "status": "planned"
+    },
+    {
+      "slug": "youth-science-innovation-topic-selection-guide",
+      "title": "Youth Science Innovation Topic Selection Guide: Moving Beyond Homogeneity",
+      "description": "A topic-selection guide for student innovation projects, built around real-life pain points, feasibility, safety, educational value, and age-appropriate project paths.",
+      "category": "Youth Innovation Education",
+      "series": "youth-innovation-education",
+      "date": "2026-03-28",
+      "status": "planned"
+    },
     {
       "slug": "from-patent-examiner-to-innovation-methodology",
       "title": "From Patent Examiner to Innovation Methodology Practitioner",

@@ -466,6 +466,72 @@ footer {
   white-space: normal;
 }
 
+.knowledge-stats {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 14px;
+  margin: 0 auto;
+  max-width: 1120px;
+  padding: 26px 24px 8px;
+}
+
+.knowledge-stats div,
+.knowledge-category-meta {
+  background: var(--white);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  box-shadow: 0 18px 50px rgba(15, 23, 42, 0.06);
+}
+
+.knowledge-stats div {
+  padding: 20px;
+}
+
+.knowledge-stats strong {
+  display: block;
+  color: var(--red);
+  font-family: var(--serif);
+  font-size: 34px;
+  line-height: 1;
+}
+
+.knowledge-stats span,
+.knowledge-category-meta span,
+.knowledge-status {
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.knowledge-category-card h3,
+.knowledge-article-card h3 {
+  font-size: 20px;
+}
+
+.knowledge-article-card[data-status="planned"] {
+  background: #f8fafc;
+}
+
+.knowledge-status {
+  margin-top: auto;
+}
+
+.knowledge-category-meta {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  justify-content: space-between;
+  margin: 0 auto;
+  max-width: 1120px;
+  padding: 18px 24px;
+}
+
+.knowledge-category-meta a {
+  color: var(--teal);
+  font-weight: 900;
+  text-decoration: none;
+}
+
 .articles-section {
   background: #1f2b2f;
 }
@@ -1388,6 +1454,24 @@ footer p {
   color: var(--gold);
 }
 
+.textbook-route {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 22px 0;
+}
+
+.textbook-route span {
+  display: inline-flex;
+  align-items: center;
+  min-height: 38px;
+  padding: 8px 12px;
+  border: 1px solid rgba(255, 255, 255, 0.24);
+  color: var(--white);
+  font-size: 14px;
+  font-weight: 800;
+}
+
 .author-box,
 .share-box,
 .related-articles {
@@ -1515,6 +1599,10 @@ footer p {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
+  .knowledge-stats {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
   .article-toolbar {
     align-items: stretch;
     flex-direction: column;
@@ -1544,6 +1632,10 @@ footer p {
   }
 
   .article-index {
+    grid-template-columns: 1fr;
+  }
+
+  .knowledge-stats {
     grid-template-columns: 1fr;
   }
 

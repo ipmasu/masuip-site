@@ -8,11 +8,11 @@
   ];
 
   const navLabels = {
-    en: ["Home", "Articles", "Methodology", "About", "Contact"],
-    "zh-hk": ["首頁", "文章中心", "方法論", "關於我", "聯絡"],
-    ja: ["ホーム", "記事", "方法論", "プロフィール", "お問い合わせ"],
-    tr: ["Ana sayfa", "Makaleler", "Metodoloji", "Hakkımda", "İletişim"],
-    vi: ["Trang chủ", "Bài viết", "Phương pháp", "Giới thiệu", "Liên hệ"],
+    en: ["Home", "Knowledge", "Articles", "Methodology", "About", "Contact"],
+    "zh-hk": ["首頁", "知識庫", "文章中心", "方法論", "關於我", "聯絡"],
+    ja: ["ホーム", "ナレッジ", "記事", "方法論", "プロフィール", "お問い合わせ"],
+    tr: ["Ana sayfa", "Bilgi bankası", "Makaleler", "Metodoloji", "Hakkımda", "İletişim"],
+    vi: ["Trang chủ", "Kho tri thức", "Bài viết", "Phương pháp", "Giới thiệu", "Liên hệ"],
   };
 
   const uiLabels = {
