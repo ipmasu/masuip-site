@@ -1338,9 +1338,16 @@
     try { cached = localStorage.getItem(cacheKey); } catch (error) {}
     if (cached) return text.replace(trimmed, cached);
     const url = "https://translate.googleapis.com/translate_a/single?client=gtx&sl=" + encodeURIComponent(source) + "&tl=" + encodeURIComponent(target) + "&dt=t&q=" + encodeURIComponent(trimmed);
-    const response = await fetch(url);
-    if (!response.ok) throw new Error("Translation request failed: " + response.status);
-    const data = await response.json();
+    const controller = new AbortController();
+    const timeout = window.setTimeout(() => controller.abort(), 8000);
+    let data;
+    try {
+      const response = await fetch(url, { signal: controller.signal });
+      if (!response.ok) throw new Error("Translation request failed: " + response.status);
+      data = await response.json();
+    } finally {
+      window.clearTimeout(timeout);
+    }
     const translated = (data[0] || []).map((item) => item[0]).join("").trim();
     if (translated) {
       try { localStorage.setItem(cacheKey, translated); } catch (error) {}
