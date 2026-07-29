@@ -903,10 +903,10 @@
   function translateLongArticle(lang) {
     const slug = location.pathname.split("/").pop().replace(".html", "");
     const translated = articlePageTranslations[slug] && articlePageTranslations[slug][lang];
-    if (!translated) return;
+    if (!translated) return false;
     document.title = translated.docTitle;
     const shell = document.querySelector(".article-shell");
-    if (!shell) return;
+    if (!shell) return false;
     const eyebrow = shell.querySelector(":scope > .eyebrow");
     const title = shell.querySelector(":scope > h1");
     const deck = shell.querySelector(":scope > .article-deck");
@@ -931,6 +931,7 @@
         if (paragraphs[pIndex]) paragraphs[pIndex].textContent = text;
       });
     });
+    return true;
   }
 
   const machineTargets = {
@@ -950,13 +951,13 @@
     return true;
   }
 
-  async function translateText(text, target) {
+  async function translateTextFrom(text, source, target) {
     const trimmed = text.trim();
-    const cacheKey = "masuip-mt:" + target + ":" + trimmed;
+    const cacheKey = "masuip-mt:" + source + ":" + target + ":" + trimmed;
     let cached = "";
     try { cached = localStorage.getItem(cacheKey); } catch (error) {}
     if (cached) return text.replace(trimmed, cached);
-    const url = "https://translate.googleapis.com/translate_a/single?client=gtx&sl=zh-CN&tl=" + encodeURIComponent(target) + "&dt=t&q=" + encodeURIComponent(trimmed);
+    const url = "https://translate.googleapis.com/translate_a/single?client=gtx&sl=" + encodeURIComponent(source) + "&tl=" + encodeURIComponent(target) + "&dt=t&q=" + encodeURIComponent(trimmed);
     const response = await fetch(url);
     if (!response.ok) throw new Error("Translation request failed: " + response.status);
     const data = await response.json();
@@ -966,6 +967,54 @@
       return text.replace(trimmed, translated);
     }
     return text;
+  }
+
+  async function translateText(text, target) {
+    return translateTextFrom(text, "zh-CN", target);
+  }
+
+  async function autoTranslateRenderedArticle(lang, source) {
+    const target = machineTargets[lang];
+    if (!target || target === source) return;
+    const scope = document.querySelector(".article-shell");
+    if (!scope) return;
+    const walker = document.createTreeWalker(scope, NodeFilter.SHOW_TEXT, {
+      acceptNode(node) {
+        const parent = node.parentElement;
+        if (!parent || ["SCRIPT", "STYLE", "TEXTAREA", "OPTION", "SELECT"].includes(parent.tagName)) return NodeFilter.FILTER_REJECT;
+        return node.nodeValue.trim() ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_REJECT;
+      }
+    });
+    const nodes = [];
+    while (walker.nextNode()) nodes.push(walker.currentNode);
+    if (!nodes.length) return;
+    document.body.dataset.translation = "loading";
+    let index = 0;
+    async function worker() {
+      while (index < nodes.length) {
+        const node = nodes[index++];
+        try {
+          node.nodeValue = await translateTextFrom(node.nodeValue, source, target);
+        } catch (error) {
+          console.warn("Article translation skipped", error);
+        }
+      }
+    }
+    const titlePromise = translateTextFrom(document.title, source, target)
+      .then((translatedTitle) => { document.title = translatedTitle; })
+      .catch((error) => console.warn("Title translation skipped", error));
+    const description = document.querySelector('meta[name="description"]');
+    const descriptionPromise = description
+      ? translateTextFrom(description.getAttribute("content") || "", source, target)
+          .then((translatedDescription) => { description.setAttribute("content", translatedDescription); })
+          .catch((error) => console.warn("Description translation skipped", error))
+      : Promise.resolve();
+    await Promise.all([
+      titlePromise,
+      descriptionPromise,
+      ...Array.from({ length: Math.min(4, nodes.length) }, worker),
+    ]);
+    document.body.dataset.translation = "done";
   }
 
   async function autoTranslateResidualChinese(lang) {
@@ -1004,12 +1053,15 @@
     document.documentElement.lang = lang === "zh-hk" ? "zh-Hant-HK" : lang;
     translateNav(lang);
     addSwitcher(lang);
-    translateLongArticle(lang);
+    const hasArticleTranslation = translateLongArticle(lang);
     if (lang !== "en") {
       const titleMap = textMap[lang] || {};
       if (titleMap[document.title]) document.title = titleMap[document.title];
       replaceExactText(lang);
       translateCommonUi(lang);
+      if (!hasArticleTranslation && translateLongArticle("en")) {
+        autoTranslateRenderedArticle(lang, "en");
+      }
     }
     autoTranslateResidualChinese(lang);
   }
