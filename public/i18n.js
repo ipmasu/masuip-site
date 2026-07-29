@@ -1244,6 +1244,35 @@
     document.querySelectorAll(".related-articles h2").forEach((el) => { if (el.textContent.trim() === "Continue this series") el.textContent = labels.continueSeries; });
   }
 
+  function applyStaticArticleTranslation(lang) {
+    const slug = location.pathname.split("/").pop().replace(".html", "");
+    const translated = window.MASU_ARTICLE_TRANSLATIONS &&
+      window.MASU_ARTICLE_TRANSLATIONS[slug] &&
+      window.MASU_ARTICLE_TRANSLATIONS[slug].langs &&
+      window.MASU_ARTICLE_TRANSLATIONS[slug].langs[lang];
+    if (!translated) return false;
+    const shell = document.querySelector(".article-shell");
+    if (!shell) return false;
+    if (translated.title) document.title = translated.title;
+    const description = document.querySelector('meta[name="description"]');
+    if (description && translated.description) description.setAttribute("content", translated.description);
+    const walker = document.createTreeWalker(shell, NodeFilter.SHOW_TEXT, {
+      acceptNode(node) {
+        const parent = node.parentElement;
+        if (!parent || ["SCRIPT", "STYLE", "TEXTAREA", "OPTION", "SELECT"].includes(parent.tagName)) return NodeFilter.FILTER_REJECT;
+        if (parent.closest(".author-box, .share-box, .related-articles, .language-switcher")) return NodeFilter.FILTER_REJECT;
+        return node.nodeValue.trim() ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_REJECT;
+      }
+    });
+    const nodes = [];
+    while (walker.nextNode()) nodes.push(walker.currentNode);
+    translated.nodes.forEach((text, index) => {
+      if (nodes[index]) nodes[index].nodeValue = nodes[index].nodeValue.replace(nodes[index].nodeValue.trim(), text);
+    });
+    document.body.dataset.translation = "static";
+    return true;
+  }
+
   function translateLongArticle(lang) {
     const slug = location.pathname.split("/").pop().replace(".html", "");
     const shell = document.querySelector(".article-shell");
@@ -1441,7 +1470,8 @@
     addSwitcher(lang);
     const articleShell = document.querySelector(".article-shell");
     const articleSourceLang = articleShell ? getArticleSourceLang(articleShell) : "";
-    const hasArticleTranslation = translateLongArticle(lang);
+    const hasStaticArticleTranslation = applyStaticArticleTranslation(lang);
+    const hasArticleTranslation = hasStaticArticleTranslation || translateLongArticle(lang);
     if (lang !== "en") {
       const titleMap = textMap[lang] || {};
       if (titleMap[document.title]) document.title = titleMap[document.title];

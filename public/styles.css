@@ -927,6 +927,18 @@ footer p {
   padding: clamp(46px, 8vw, 88px) 0;
 }
 
+.article-page[data-translation="loading"] .article-shell > :not(.author-box):not(.share-box):not(.related-articles) {
+  visibility: hidden;
+}
+
+.article-page[data-translation="loading"] .article-shell::before {
+  content: "Translating article...";
+  display: block;
+  margin: 0 0 24px;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
 .article-shell h1 {
   color: var(--ink);
   font-size: clamp(38px, 6vw, 70px);
