@@ -674,6 +674,350 @@
           ]]
         ]
       },
+      "zh-hk": {
+            "docTitle":  "從專利審查員到創新方法論實踐者 | Ma Su",
+            "docDescription":  "馬肅的個人故事：從國家專利局審查員，到發明人、專利代理師、創新方法論實踐者和青少年科創教育者。",
+            "eyebrow":  "個人故事 / 創新方法論",
+            "title":  "從專利審查員到創新方法論實踐者：我如何建立自己的發明方法論",
+            "deck":  "我不是單純的專利代理師，也不是只做過審查的人。我真正與眾不同的地方，是我同時經歷過發明人、審查官和代理師三個角色，並把它們融合成一套可以訓練創新、提高授權機率的方法論。",
+            "meta":  [
+                         "作者：馬肅",
+                         "個人 IP 故事",
+                         "馬肅團隊知識中心"
+                     ],
+            "sections":  [
+                             [
+                                 "2012 年：我進入國家專利局，也開始重新理解專利",
+                                 [
+                                     "2012 年，我進入中國國家專利局，成為專利審查員。對很多人來說，專利審查是一份專業工作；但對我來說，它很快就變成了一條理解技術創新的入口。",
+                                     "我和許多同事不同的一點是，我對專利本身有非常強烈的興趣。我給自己定了一個要求：每天除了完成審查專利的本職工作以外，還必須額外閱讀 100 件以上的專利，並持續追蹤最新的專利進展。",
+                                     "大量閱讀讓我逐漸意識到，專利不是一堆法律文本，也不是技術文件的機械翻譯。真正有價值的專利背後，往往隱藏著一個清晰的技術問題、一個有效的解決路徑，以及一套能夠經得起審查的權利要求結構。"
+                                 ]
+                             ],
+                             [
+                                 "從閱讀專利到撰寫專利：我第一次驗證了自己的判斷",
+                                 [
+                                     "在大量閱讀和審查實踐的基礎上，我開始嘗試自己寫專利。那不是簡單模仿格式，而是反過來思考：如果我是發明人，我該如何發現真正的技術貢獻？如果我是審查員，我又會如何判斷它是否具備授權可能性？",
+                                     "後來，我寫下的那一批專利全部成功申請並獲得授權。這個結果對我影響很大，因為它讓我確認了一件事：發明不是只靠靈感，專利授權也不只是運氣。創新可以被拆解、訓練、驗證。"
+                                 ]
+                             ],
+                             [
+                                 "2017 年之後：我花了兩年時間研究“如何創新”",
+                                 [
+                                     "2017 年，我離開了專利局。離開之後，我沒有立刻把自己的能力簡單定義為“專利代理服務”，而是用了大約兩年的時間，專門研究一個更底層的問題：人到底如何創新？",
+                                     "我發現，很多企業和個人並不缺乏努力，也不缺乏想法，真正缺少的是方法。他們不知道如何從產品問題中提煉技術問題，也不知道如何從專利資訊中尋找啟發，也不知道如何把一個初步方案改造成可以被授權、可以被保護、可以支撐業務發展的發明。",
+                                     "於是，我逐漸形成了一套自己的創新方法論：從真實問題出發，拆解技術特徵，抽象技術問題，檢索已有方案，尋找替代路徑，再把方案轉化為可撰寫、可審查、可佈局的專利組合。"
+                                 ]
+                             ],
+                             [
+                                 "一年內數百件發明專利：方法論必須接受真實專案檢驗",
+                                 [
+                                     "方法論如果只停留在紙上，就沒有意義。後來，我曾經用一年的時間，成功支持了數百件發明專利申請。這段經歷讓我進一步驗證：如果前端的發明挖掘、技術問題拆解和權利要求設計做得足夠紮實，專利授權的機率會明顯提高。",
+                                     "這也是我後來服務企業的基礎。我不是等企業把「現成發明」交給我，而是幫助他們從產品升級、研發瓶頸、使用者回饋、競賽分析和專利地圖中，找到真正值得佈局的發明點。",
+                                     "許多企業透過這套方法完成了產品升級研發，也建立了更有層次的專利組合。對我來說，專利服務最有價值的部分，不只是提交申請，而是幫助創新主體更快找到真正可授權、可落地、可形成競爭障礙的技術方案。"
+                                 ]
+                             ],
+                             [
+                                 "發明人、審查官、代理師：三位一體的獨特視角",
+                                 [
+                                     "如果要概括我的獨特之處，我會說：我是發明人、審查官、代理師三位一體。",
+                                     "身為發明人，我知道一個想法從模糊到清晰有多難，也知道技術方案不是憑空出現的；作為審查官，我知道審查員如何閱讀權利要求、如何尋找對比文件、如何判斷創造性；作為代理師，我知道如何把真實技術貢獻寫成一份更容易被理解、更容易被授權、更有保護價值的專利申請。",
+                                     "這三個角色疊在一起，讓我能夠站在創新主體、審查員和專利代理三個角度同時看問題。這也是我幫助客戶提升發明專利授權效率的核心能力。"
+                                 ]
+                             ],
+                             [
+                                 "今天我的業務重點：跨國發明專利與青少年創新",
+                                 [
+                                     "目前，我的業務主要聚焦於三個方向。",
+                                     "第一，幫助境外創新主體進入中國，圍繞中國發明專利授權建立更明確的申請策略、權利要求架構和答審邏輯。",
+                                     "第二，幫助中國企業和個人創新主體取得海外發明專利，透過 PCT、目標國家佈局、專利地圖和組合設計，讓技術出海時擁有更可靠的智慧財產權保護。",
+                                     "第三，輔導青少年創新。我希望把複雜的創新方法轉化為孩子、老師和家長都能理解、能操作、能訓練的課程和工具。"
+                                 ]
+                             ],
+                             [
+                                 "從企業研發到青少年科創：創新方法可以被訓練",
+                                 [
+                                     "後來，我開始用自己的方法論指導企業和青少年去創新。我幫助大量企業進行產品升級研發，也幫助許多青少年參加科創大賽並獲得獎項。",
+                                     "在青少年科創教育中，我越來越確定一件事：孩子們並不缺乏想像力，他們缺少的是把想法變成真實專案的路徑。他們需要學會觀察問題、提出假設、做研究、查專利、做原型、驗證資料、講清楚技術貢獻，並理解智慧財產權保護。",
+                                     "所以我開始寫《青少年科創指南》這樣的教材，希望把創新從少數人的靈感，變成更多人可以訓練的能力。"
+                                 ]
+                             ],
+                             [
+                                 "教材、漫畫手冊和東莞青少年科創大賽",
+                                 [
+                                     "我目前正在準備將青少年科創教材提交給權威出版社出版。對我來說，這本教材不是一本普通的科普書，而是一套把真實問題、創新方法、專利意識和專案實踐連結起來的操作指南。",
+                                     "最近，我也在策劃東莞地區的青少年科創大賽，並為比賽撰寫了一本比賽手冊。手冊中，我試著用漫畫的形式告訴青少年：科創不是遙遠的口號，而是可以一步一步完成的實操過程。",
+                                     "我希望孩子們看到這套內容時，不只是覺得“創新很厲害”，而是能夠明白：原來我也可以從身邊的問題出發，做出一個改變。"
+                                 ]
+                             ],
+                             [
+                                 "我相信：創新不是天賦，而是一種可以被訓練的能力",
+                                 [
+                                     "回頭看，從 2012 年進入國家專利局，到後來成為發明人、代理師、創新方法論實踐者，再到企業創新輔導和青少年科創教育，我一直圍繞著同一個問題展開工作：如何讓一個想法更快變成真正有價值的發明？",
+                                     "我的答案是：創新不是單純的靈感，也不是孤立的法律程序。創新需要方法，專利需要結構，授權需要對審查邏輯的理解。",
+                                     "這正是我希望透過馬肅團隊 建立的個人 IP：用審查員的判斷、發明人的體驗、代理師的技術表達和教育者的方法論，幫助更多創新主體獲得真正可授權、可保護、可落地的發明成果。"
+                                 ]
+                             ]
+                         ]
+        },
+      "ja": {
+            "docTitle":  "特許審査官から革新的な方法論の実践者へ |馬蘇",
+            "docDescription":  "Ma Su の個人的なストーリー: 特許庁の審査官から発明家、特許代理人、革新的な方法論の実践者、そして青少年の科学とイノベーションの教育者へ。",
+            "eyebrow":  "個人的なストーリー/イノベーションの方法論",
+            "title":  "特許審査官からイノベーション方法論の実践者へ: 私がどのようにして独自の発明方法論を確立したか",
+            "deck":  "私は単なる弁理士ではありませんし、審査だけをやってきた者でもありません。私を本当にユニークにしているのは、発明者、審査官、代理人の 3 つの役割を同時に経験し、イノベーションを訓練し、認可の確率を高めることができる一連の方法論にそれらを統合していることです。",
+            "meta":  [
+                         "著者: 馬蘇",
+                         "個人的な知財ストーリー",
+                         "マスチームナレッジセンター"
+                     ],
+            "sections":  [
+                             [
+                                 "2012年：特許庁に入り、特許について再理解する",
+                                 [
+                                     "2012年に中国国家特許庁に入り、特許審査官になりました。多くの人にとって、特許審査は専門的な仕事です。しかし私にとって、それはすぐに技術革新を理解するための入り口になりました。",
+                                     "私が多くの同僚と違うのは、特許そのものに非常に強い関心を持っていることです。私は自分自身に要件を設定しました。特許を審査するという職務を遂行することに加えて、毎日 100 件を超える追加の特許を読み、最新の特許の進捗状況を追跡し続ける必要があります。",
+                                     "たくさん読んでいるうちに、特許は法律文書の束ではないし、技術文書の機械翻訳でもないことに徐々に気づきました。本当に価値のある特許の背後には、多くの場合、明確な技術的問題、効果的な解決策、審査に耐えられるクレーム構造が存在します。"
+                                 ]
+                             ],
+                             [
+                                 "特許を読むことから特許を書くことへ：初めて自分の判断力を検証した",
+                                 [
+                                     "たくさんの読書とレビューの実践に基づいて、私は自分で特許を書くことに挑戦し始めました。それは単にフォーマットを模倣するのではなく、逆の考え方をすることです。もし私が発明者だったら、真の技術的貢献をどのように発見すべきでしょうか?もし私が検閲官だったら、それが認可される可能性があるかどうかをどうやって判断するでしょうか?",
+                                     "その後、私が書いたすべての特許が無事に申請され、承認されました。この結果は私に大きな影響を与えました。それは、発明はインスピレーションだけに頼るものではなく、特許の認可も運だけに頼るものではないということを私に確信させたからです。イノベーションは分解し、トレーニングし、検証することができます。"
+                                 ]
+                             ],
+                             [
+                                 "2017年以降：「イノベーションのやり方」を学ぶのに2年間を費やした",
+                                 [
+                                     "2017年に特許事務所を退職しました。退職後、すぐに自分の能力を単に「特許代理業務」と定義したわけではありません。代わりに、私は約 2 年間かけて、「人はどのようにイノベーションを起こすのか?」という低レベルの質問を研究しました。",
+                                     "多くの企業や個人には努力やアイデアが不足しているわけではありませんが、本当に不足しているのは手段であることがわかりました。彼らは、製品の問題から技術的な問題を抽出する方法、特許情報からインスピレーションを見つける方法を知りません。また、予備計画を承認、保護され、ビジネス開発をサポートできる発明に変換する方法も知りません。",
+                                     "その結果、私は徐々に独自のイノベーション方法論を形成していきました。現実の問題から始めて、技術的特徴を解体し、技術的問題を抽象化し、既存の解決策を検索し、代替手段を探し、次にその解決策を、作成、レビュー、レイアウトできる特許ポートフォリオに変換します。"
+                                 ]
+                             ],
+                             [
+                                 "1 年間で数百件の発明特許: 方法論は実際のプロジェクトでテストする必要がある",
+                                 [
+                                     "方法論は紙の上に残るだけでは意味がありません。その後、私は 1 年間を費やして、何百もの発明特許出願をサポートすることに成功しました。この経験により、フロントエンドの発明の発見、技術的問題の分解、請求項の設計が十分にしっかりしていれば、特許認定の確率が大幅に向上することがさらに確認できました。",
+                                     "これは、その後の私の会社への奉仕の基礎でもありました。私は企業が「既成の発明」を私に渡してくれるのを待つのではなく、製品のアップグレード、研究開発のボトルネック、ユーザーのフィードバック、競合製品の分析、特許マップなどから、真に展開する価値のある発明のポイントを企業が見つけられるよう支援します。",
+                                     "多くの企業がこの方法を通じて製品アップグレードの研究開発を完了し、より多層的な特許ポートフォリオも確立しています。私にとって、特許サービスの最も価値のある部分は、単に出願を提出することではなく、真に認可可能で実装可能であり、競争の障壁となり得る技術的ソリューションを革新的な企業が迅速に見つけられるよう支援することです。"
+                                 ]
+                             ],
+                             [
+                                 "発明者、審査官、代理人: 三位一体のユニークな視点",
+                                 [
+                                     "私のユニークさを一言で言えば、「私は発明家であり、審査官であり、代理人でもある」と言えるでしょう。",
+                                     "私は発明家として、アイデアを漠然としたものから明確なものに変えることがいかに難しいかを知っています。また、技術的な解決策が何もないところから現れるものではないことも知っています。私は審査官として、審査官がクレームをどのように読むか、比較資料を見つける方法、創造性を判断する方法を知っています。私は弁護士として、実際の技術的貢献を、より理解しやすく、承認されやすく、より保護する価値のある特許出願に書き込む方法を知っています。",
+                                     "これら 3 つの役割を重ね合わせることで、イノベーション主体、審査官、特許代理人の観点から問題を同時に見ることができます。これは、クライアントの発明特許認可の効率向上を支援する私の中心的な能力でもあります。"
+                                 ]
+                             ],
+                             [
+                                 "私の今日のビジネスの焦点: 国境を越えた発明特許と若者のイノベーション",
+                                 [
+                                     "現在、私の事業は主に3つの方向に注力しています。",
+                                     "まず、外国の革新的な企業が中国に参入し、中国の発明特許認可に関するより明確な出願戦略、クレーム構造、審査ロジックを確立できるよう支援します。",
+                                     "第二に、中国企業と個人のイノベーターが海外の発明特許を取得できるように支援し、PCT、対象国レイアウト、パテントマップ、組み合わせ設計を活用して、技術が海外に流出する際に、より信頼性の高い知的財産保護を提供する。",
+                                     "第三に、若者をイノベーションに導きます。私は、複雑で革新的な手法を、子供たち、教師、保護者が理解し、操作し、訓練できるコースやツールに変えたいと考えています。"
+                                 ]
+                             ],
+                             [
+                                 "企業の研究開発から若者の科学技術イノベーションまで: 革新的な手法をトレーニング可能",
+                                 [
+                                     "その後、私は独自の方法論を使用して企業や十代の若者をイノベーションに導き始めました。私は多くの企業が製品のアップグレードや研究開発を行うのを支援し、また多くの若者が科学技術イノベーションのコンテストに参加して賞を受賞するのを支援してきました。",
+                                     "青少年の科学技術教育において、私がますます確信していることは 1 つあります。それは、子どもたちには想像力が欠けているわけではなく、彼らに欠けているのはアイデアを実際のプロジェクトに変える道であるということです。彼らは、問題を観察し、仮説を立て、研究を実施し、特許を確認し、プロトタイプを作成し、データを検証し、技術的貢献を明確に説明し、知的財産保護を理解することを学ぶ必要があります。",
+                                     "そこで私は、イノベーションを少数の人々のインスピレーションからより多くの人が訓練できる能力に変えたいと考え、『青少年向け科学技術イノベーションガイド』のような教材を書き始めました。"
+                                 ]
+                             ],
+                             [
+                                 "教科書、漫画マニュアル、東莞市青少年科学技術イノベーションコンテスト",
+                                 [
+                                     "私は現在、青少年の科学とイノベーションの教科書を出版するために権威ある出版社に提出する準備をしています。私にとって、この教科書は一般的な科学の本ではなく、実際の問題、革新的な方法、特許の認識、プロジェクトの実践を結び付ける一連の操作ガイドです。",
+                                     "最近では、東莞での青少年科学技術イノベーションコンテストを計画し、そのコンテストのマニュアルを書いています。このマニュアルの中で、私は漫画の形で十代の若者たちに、「科学技術イノベーションは遠いスローガンではなく、段階的に達成できる現実的なプロセスである」と伝えようとしました。",
+                                     "この一連のコンテンツを見た子どもたちに、「イノベーションは素晴らしい」と思うだけでなく、自分の周りの問題をもとに変化を起こすこともできるということを理解してもらえれば幸いです。"
+                                 ]
+                             ],
+                             [
+                                 "私は信じます: イノベーションは才能ではなく、訓練できる能力です",
+                                 [
+                                     "振り返ってみると、2012 年に特許庁に入庁してから、その後発明家、代理人、イノベーション方法論の実践者となり、企業のイノベーション コーチングや青少年向けの科学とイノベーションの教育に至るまで、私は同じ問題に取り組んできました。それは、アイデアを真に価値のある発明に早く変えるにはどうすればよいかということです。",
+                                     "私の答えは、「イノベーションは単なるインスピレーションではないし、孤立した法的手続きでもない」です。イノベーションには手法が必要で、特許には構造が必要で、認可には審査ロジックの理解が必要です。",
+                                     "これはまさに私がMasuチームを通じて確立したいと考えている個人IPです。審査官の判断、発明者の経験、代理人の技術的表現、教育者の方法論を利用して、より革新的な被験者が真に認可可能、保護可能、実装可能な発明を取得できるように支援します。"
+                                 ]
+                             ]
+                         ]
+        },
+      "tr": {
+            "docTitle":  "Patent incelemecisinden yenilikçi metodoloji uygulayıcısına | Ma Su",
+            "docDescription":  "Ma Su\u0027nun kişisel hikayesi: Ulusal Patent Ofisindeki bir denetçiden mucit, patent temsilcisi, yenilikçi metodoloji uygulayıcısı ve gençlik bilimi ve yenilik eğitimcisine.",
+            "eyebrow":  "Kişisel Hikayeler/İnovasyon Metodolojisi",
+            "title":  "Patent Uzmanından İnovasyon Metodolojisi Uygulayıcısına: Kendi Buluş Metodolojimi Nasıl Oluşturdum?",
+            "deck":  "Ben sadece patent vekili değilim, sadece inceleme yapan biri de değilim. Beni gerçekten benzersiz kılan şey, mucit, denetçi ve temsilci olmak üzere üç rolü aynı anda deneyimlemiş olmam ve bunları, yeniliği eğitebilecek ve yetkilendirme olasılığını artırabilecek bir dizi metodolojiye entegre etmemdir.",
+            "meta":  [
+                         "Yazar: Ma Su",
+                         "Kişisel IP Hikayesi",
+                         "Masu Ekip Bilgi Merkezi"
+                     ],
+            "sections":  [
+                             [
+                                 "2012: Ulusal Patent Ofisine girdim ve patentleri yeniden anlamaya başladım",
+                                 [
+                                     "2012 yılında Çin Ulusal Patent Ofisine girdim ve patent denetçisi oldum. Birçok kişi için patent incelemesi profesyonel bir iştir; ama benim için hızla teknolojik yeniliği anlamanın bir kapısı haline geldi.",
+                                     "Beni birçok meslektaşımdan farklı kılan şey, patentlere olan ilgimin çok güçlü olmasıdır. Kendime bir şart koydum: Patentleri inceleme görevlerimi yerine getirmenin yanı sıra, her gün 100\u0027den fazla ek patent okumalı ve en son patent ilerlemelerini takip etmeye devam etmeliyim.",
+                                     "Çok fazla okuma, yavaş yavaş patentlerin bir dizi hukuki metin ya da teknik belgelerin mekanik tercümeleri olmadığını anlamamı sağladı. Gerçekten değerli bir patentin arkasında genellikle açık bir teknik sorun, etkili bir çözüm ve incelemeye dayanabilecek bir talep yapısı vardır."
+                                 ]
+                             ],
+                             [
+                                 "Patentleri okumaktan patent yazmaya kadar: Kararımı ilk kez doğruladım",
+                                 [
+                                     "Pek çok okuma ve inceleme pratiğine dayanarak kendim patent yazmaya başladım. Bu sadece formatı taklit etmek değil, tam tersini düşünmektir: Eğer mucit olsaydım, gerçek teknik katkıyı nasıl keşfederdim? Eğer sansürcü olsaydım, izin verilme potansiyelinin olup olmadığını nasıl anlarım?",
+                                     "Daha sonra yazdığım tüm patentlere başarıyla başvuru yapıldı ve onay alındı. Bu sonuç beni çok etkiledi çünkü benim için bir şeyi doğruladı: icatlar sadece ilhama dayanmıyor, patent yetkilendirmesi de sadece şansa bağlı değil. Yenilik parçalara ayrılabilir, eğitilebilir ve doğrulanabilir."
+                                 ]
+                             ],
+                             [
+                                 "2017\u0027den sonra: İki yılımı \"nasıl yenilik yapılır\" üzerine çalışarak geçirdim",
+                                 [
+                                     "2017 yılında patent ofisinden ayrıldım. Ayrıldıktan sonra yeteneğimi hemen \"patent ajansı hizmetleri\" olarak tanımlamadım. Bunun yerine, yaklaşık iki yılımı daha alt düzeydeki bir soruyu inceleyerek geçirdim: İnsanlar nasıl yenilik yapar?",
+                                     "Pek çok şirketin ve bireyin çaba veya fikir eksikliği olmadığını, ancak gerçekte eksik olan şeyin yöntemler olduğunu buldum. Ürün sorunlarından teknik konuları nasıl çıkaracaklarını, patent bilgilerinden nasıl ilham alacaklarını bilmiyorlar ve bir ön planı nasıl yetkilendirilebilecek, korunabilecek ve iş gelişimini destekleyebilecek bir buluşa dönüştüreceklerini bilmiyorlar.",
+                                     "Sonuç olarak yavaş yavaş kendi inovasyon metodolojimi oluşturdum: gerçek sorunlardan başlayarak, teknik özellikleri parçalara ayırarak, teknik sorunları soyutlayarak, mevcut çözümleri araştırarak, alternatif yollar arayarak ve ardından çözümleri yazılabilecek, incelenebilecek ve ortaya konabilecek bir patent portföyüne dönüştürüyorum."
+                                 ]
+                             ],
+                             [
+                                 "Bir yılda yüzlerce buluş patenti: metodoloji gerçek projelerle test edilmelidir",
+                                 [
+                                     "Metodoloji sadece kağıt üzerinde kalırsa anlamsızdır. Daha sonra bir yılımı yüzlerce buluş patenti başvurusunu başarıyla destekleyerek geçirdim. Bu deneyim, buluşların ön uç keşfinin, teknik sorunların çözülmesinin ve istemlerin tasarımının yeterince sağlam olması durumunda, patent izni olasılığının önemli ölçüde artacağını daha da doğrulamamı sağladı.",
+                                     "Bu aynı zamanda şirkete daha sonraki hizmetlerimin de temelini oluşturdu. Şirketlerin \"hazır buluşları\" bana teslim etmelerini beklemiyorum, ancak ürün yükseltmeleri, Ar-Ge darboğazları, kullanıcı geri bildirimleri, rekabetçi ürün analizi ve patent haritalarından gerçekten uygulamaya değer buluş noktalarını bulmalarına yardımcı oluyorum.",
+                                     "Birçok şirket bu yöntemle ürün yükseltme araştırma ve geliştirmesini tamamlamış ve ayrıca daha katmanlı bir patent portföyü oluşturmuştur. Bana göre patent hizmetlerinin en değerli kısmı sadece başvuru göndermek değil, aynı zamanda yenilikçi kuruluşların gerçekten yetkilendirilebilir, uygulanabilir ve rekabete engel oluşturabilecek teknik çözümleri hızlı bir şekilde bulmasına yardımcı olmaktır."
+                                 ]
+                             ],
+                             [
+                                 "Mucit, Denetçi, Ajan: Üçlüye benzersiz bir bakış açısı",
+                                 [
+                                     "Benzersizliğimi özetlemek gerekirse şunu söyleyebilirim: Ben bir mucit, bir denetçi ve bir ajanım.",
+                                     "Bir mucit olarak, bir fikrin belirsiz durumdan net duruma dönüşmesinin ne kadar zor olduğunu biliyorum ve aynı zamanda teknik çözümlerin birdenbire ortaya çıkmadığını da biliyorum; Bir sınav görevlisi olarak, sınav görevlilerinin iddiaları nasıl okuyacağını, karşılaştırmalı belgeleri nasıl bulacağını ve yaratıcılığı nasıl değerlendireceğini biliyorum; Bir avukat olarak anlaşılması daha kolay, yetkilendirilmesi daha kolay ve korunması daha değerli olan bir patent başvurusuna gerçek teknik katkıların nasıl yazılacağını biliyorum.",
+                                     "Bu üç rolün üst üste gelmesi, konulara aynı anda bir inovasyon konusunun, bir denetçinin ve bir patent temsilcisinin bakış açılarından bakmamı sağlıyor. Bu aynı zamanda müşterilerin buluş patenti yetkilendirmesinin verimliliğini artırmalarına yardımcı olma konusundaki temel yeteneğimdir."
+                                 ]
+                             ],
+                             [
+                                 "Bugünkü iş odağım: sınır ötesi buluş patentleri ve gençlik inovasyonu",
+                                 [
+                                     "Şu anda işim esas olarak üç yöne odaklanıyor.",
+                                     "İlk olarak, yabancı yenilikçi kuruluşların Çin\u0027e girmesine ve Çin buluş patenti yetkilendirmesi etrafında daha net bir başvuru stratejisi, talep yapısı ve inceleme mantığı oluşturmasına yardımcı olun.",
+                                     "İkincisi, Çinli işletmelerin ve bireysel yenilikçilerin denizaşırı buluş patentleri almasına ve teknoloji denizaşırı ülkelere gittiğinde daha güvenilir fikri mülkiyet koruması sağlamak için PCT\u0027yi, hedef ülke düzenini, patent haritalarını ve kombinasyon tasarımını kullanmalarına yardımcı olun.",
+                                     "Üçüncüsü, gençleri yenilik yapmaya yönlendirin. Karmaşık yenilikçi yöntemleri çocukların, öğretmenlerin ve ebeveynlerin anlayabileceği, uygulayabileceği ve eğitebileceği kurslara ve araçlara dönüştürmeyi umuyorum."
+                                 ]
+                             ],
+                             [
+                                 "Kurumsal Ar-Ge\u0027den gençlik bilimi ve teknoloji inovasyonuna kadar: yenilikçi yöntemler eğitilebilir",
+                                 [
+                                     "Daha sonra şirketleri ve gençleri yenilik yapmaya yönlendirmek için kendi metodolojimi kullanmaya başladım. Çok sayıda şirketin ürün yükseltme, araştırma ve geliştirme yapmasına yardımcı oldum ve ayrıca birçok gencin bilim ve teknoloji inovasyon yarışmalarına katılmasına ve ödüller kazanmasına yardımcı oldum.",
+                                     "Gençlik bilimi ve teknoloji eğitiminde bir şeyden giderek daha fazla emin oluyorum: Çocuklarda hayal gücü eksikliği yoktur, onlarda eksik olan şey, fikirleri gerçek projelere dönüştürme yoludur. Sorunları gözlemlemeyi, hipotezler formüle etmeyi, araştırma yapmayı, patentleri kontrol etmeyi, prototipler yapmayı, verileri doğrulamayı, teknik katkıları açıkça açıklamayı ve fikri mülkiyet korumasını anlamayı öğrenmeleri gerekir.",
+                                     "Bu yüzden, inovasyonu birkaç kişi için ilham kaynağı olmaktan çıkarıp daha fazla insanın eğitebileceği bir yeteneğe dönüştürmeyi umarak \"Bilim ve Teknolojide Yenilik için Gençlik Rehberi\" gibi öğretim materyalleri yazmaya başladım."
+                                 ]
+                             ],
+                             [
+                                 "Ders kitapları, çizgi roman kılavuzları ve Dongguan Gençlik Bilim ve Teknoloji Yenilik Yarışması",
+                                 [
+                                     "Şu anda gençlik bilimi ve yenilik ders kitabını yayınlanmak üzere yetkili bir yayınevine sunmaya hazırlanıyorum. Bana göre bu ders kitabı sıradan bir popüler bilim kitabı değil; gerçek sorunları, yenilikçi yöntemleri, patent bilincini ve proje uygulamalarını birbirine bağlayan bir dizi operasyonel kılavuzdur.",
+                                     "Son zamanlarda Dongguan\u0027da Gençlik Bilim ve Teknoloji İnovasyon Yarışmasını da planlıyorum ve yarışma için bir yarışma kılavuzu yazıyorum. Kılavuzda gençlere çizgi roman şeklinde anlatmaya çalıştım: Bilim ve teknolojide yenilik uzak bir slogan değil, adım adım tamamlanabilecek pratik bir süreçtir.",
+                                     "Umarım çocuklar bu içeriği gördüklerinde sadece \"yeniliğin harika olduğunu\" düşünmekle kalmaz, aynı zamanda çevremdeki sorunlara göre değişiklik yapabileceğimi de anlarlar."
+                                 ]
+                             ],
+                             [
+                                 "Şuna inanıyorum: İnovasyon bir yetenek değil, geliştirilebilen bir yetenektir",
+                                 [
+                                     "2012 yılında Ulusal Patent Ofisine girdiğim andan itibaren, daha sonra bir mucit, temsilci, inovasyon metodolojisi uygulayıcısı olduğum, kurumsal inovasyon koçluğu ve gençlik bilimi ve inovasyon eğitimine kadar geriye dönüp baktığımda aynı sorun üzerinde çalışıyorum: Bir fikri gerçekten değerli bir buluşa daha hızlı nasıl dönüştürebilirim?",
+                                     "Cevabım şu: İnovasyon yalnızca ilham kaynağı olmadığı gibi, izole edilmiş bir hukuki süreç de değildir. Yenilik yöntemler gerektirir, patentler yapı gerektirir ve yetkilendirme, inceleme mantığının anlaşılmasını gerektirir.",
+                                     "Bu tam olarak Masu ekibi aracılığıyla oluşturmayı umduğum kişisel fikri mülkiyettir: daha yenilikçi deneklerin gerçekten yetkilendirilebilir, korunabilir ve uygulanabilir buluşlar elde etmesine yardımcı olmak için denetçilerin yargılarını, mucitlerin deneyimlerini, temsilcilerin teknik ifadelerini ve eğitimcilerin metodolojisini kullanmak."
+                                 ]
+                             ]
+                         ]
+        },
+      "vi": {
+            "docTitle":  "Từ người thẩm định bằng sáng chế đến người thực hành phương pháp đổi mới | Mã Sư",
+            "docDescription":  "Câu chuyện cá nhân của Ma Su: từ một giám định viên tại Văn phòng Sáng chế Quốc gia đến một nhà phát minh, đại diện cấp bằng sáng chế, người thực hành phương pháp đổi mới và nhà giáo dục khoa học và đổi mới cho giới trẻ.",
+            "eyebrow":  "Câu chuyện cá nhân/Phương pháp đổi mới",
+            "title":  "Từ người thẩm định bằng sáng chế đến người thực hành phương pháp đổi mới: Tôi đã thiết lập phương pháp phát minh của riêng mình như thế nào",
+            "deck":  "Tôi không phải là một luật sư về bằng sáng chế đơn thuần, tôi cũng không phải là người chỉ mới thực hiện các cuộc kiểm tra. Điều thực sự khiến tôi trở nên độc đáo là tôi đã trải nghiệm đồng thời ba vai trò của nhà phát minh, người kiểm tra và người đại diện, đồng thời tích hợp chúng vào một bộ phương pháp có thể đào tạo sự đổi mới và cải thiện xác suất được cấp phép.",
+            "meta":  [
+                         "Tác giả: Mã Sư",
+                         "Câu chuyện IP cá nhân",
+                         "Trung tâm Kiến thức Đội Masu"
+                     ],
+            "sections":  [
+                             [
+                                 "2012: Tôi vào Văn phòng Sáng chế Quốc gia và bắt đầu hiểu lại về bằng sáng chế",
+                                 [
+                                     "Năm 2012, tôi vào Văn phòng Sáng chế Quốc gia Trung Quốc và trở thành giám định viên sáng chế. Đối với nhiều người, việc xem xét bằng sáng chế là một công việc chuyên nghiệp; nhưng đối với tôi, nó nhanh chóng trở thành cửa ngõ để tìm hiểu sự đổi mới công nghệ.",
+                                     "Điều khiến tôi khác biệt với nhiều đồng nghiệp là bản thân tôi rất quan tâm đến các bằng sáng chế. Tôi đặt ra yêu cầu cho bản thân: ngoài việc hoàn thành nhiệm vụ xem xét các bằng sáng chế, tôi còn phải đọc thêm hơn 100 bằng sáng chế mỗi ngày và tiếp tục theo dõi tiến độ mới nhất của bằng sáng chế.",
+                                     "Đọc nhiều khiến tôi dần nhận ra rằng bằng sáng chế không phải là một đống văn bản pháp lý, cũng không phải là những bản dịch máy móc các tài liệu kỹ thuật. Đằng sau một bằng sáng chế thực sự có giá trị thường có một vấn đề kỹ thuật rõ ràng, một giải pháp hiệu quả và cấu trúc yêu cầu bồi thường có thể được xem xét."
+                                 ]
+                             ],
+                             [
+                                 "Từ đọc bằng sáng chế đến viết bằng sáng chế: Lần đầu tiên tôi xác minh nhận định của mình",
+                                 [
+                                     "Dựa trên nhiều lần thực hành đọc và xem xét, tôi bắt đầu cố gắng tự mình viết bằng sáng chế. Đó không chỉ đơn giản là bắt chước hình thức mà còn phải nghĩ ngược lại: Nếu tôi là nhà phát minh, tôi nên khám phá những đóng góp kỹ thuật thực sự như thế nào? Nếu tôi là người kiểm duyệt, làm sao tôi có thể biết liệu nó có khả năng được cấp phép hay không?",
+                                     "Sau đó, tất cả các bằng sáng chế tôi viết đều được đăng ký và cấp phép thành công. Kết quả này có tác động rất lớn đến tôi, vì nó khẳng định với tôi một điều: phát minh không chỉ dựa vào cảm hứng, và việc cấp bằng sáng chế không chỉ dựa vào may mắn. Sự đổi mới có thể được tháo dỡ, đào tạo và xác minh."
+                                 ]
+                             ],
+                             [
+                                 "Sau 2017: Tôi dành 2 năm để nghiên cứu “cách đổi mới”",
+                                 [
+                                     "Năm 2017, tôi rời văn phòng cấp bằng sáng chế. Sau khi rời đi, tôi không xác định ngay khả năng của mình chỉ đơn giản là “dịch vụ đại lý cấp bằng sáng chế”. Thay vào đó, tôi dành khoảng hai năm để nghiên cứu một câu hỏi ở cấp độ thấp hơn: Mọi người đổi mới bằng cách nào?",
+                                     "Tôi nhận thấy nhiều công ty, cá nhân không thiếu nỗ lực hay ý tưởng mà thứ họ thực sự thiếu chính là phương pháp. Họ không biết cách rút ra các vấn đề kỹ thuật từ vấn đề sản phẩm, cách tìm nguồn cảm hứng từ thông tin bằng sáng chế và họ không biết cách biến kế hoạch sơ bộ thành một phát minh có thể được cấp phép, bảo hộ và hỗ trợ phát triển kinh doanh.",
+                                     "Kết quả là, tôi dần dần hình thành phương pháp đổi mới của riêng mình: bắt đầu từ những vấn đề thực tế, loại bỏ các đặc tính kỹ thuật, trừu tượng hóa các vấn đề kỹ thuật, tìm kiếm các giải pháp hiện có, tìm kiếm những con đường thay thế và sau đó chuyển đổi các giải pháp thành một danh mục bằng sáng chế có thể được viết, xem xét và trình bày."
+                                 ]
+                             ],
+                             [
+                                 "Hàng trăm bằng sáng chế trong một năm: phương pháp phải được thử nghiệm bằng dự án thực tế",
+                                 [
+                                     "Phương pháp luận sẽ vô nghĩa nếu nó chỉ nằm trên giấy. Sau đó, tôi đã dành một năm để hỗ trợ thành công hàng trăm đơn xin cấp bằng sáng chế. Kinh nghiệm này cho phép tôi xác minh thêm rằng nếu việc phát hiện các phát minh từ phía trước, giải quyết các vấn đề kỹ thuật và thiết kế các yêu cầu bồi thường đủ vững chắc thì khả năng được cấp phép bằng sáng chế sẽ được cải thiện đáng kể.",
+                                     "Đây cũng là cơ sở để tôi phục vụ công ty sau này. Tôi không chờ đợi các công ty giao những “phát minh làm sẵn” cho mình mà giúp họ tìm ra những điểm phát minh thực sự đáng để triển khai từ nâng cấp sản phẩm, tắc nghẽn R\u0026D, phản hồi của người dùng, phân tích sản phẩm cạnh tranh và bản đồ bằng sáng chế.",
+                                     "Nhiều công ty đã hoàn thành nghiên cứu và phát triển nâng cấp sản phẩm thông qua phương pháp này và cũng đã thiết lập danh mục bằng sáng chế nhiều lớp hơn. Đối với tôi, phần giá trị nhất của dịch vụ cấp bằng sáng chế không chỉ là nộp đơn đăng ký mà còn giúp các tổ chức đổi mới nhanh chóng tìm ra các giải pháp kỹ thuật thực sự được ủy quyền, có thể thực hiện được và có thể tạo thành rào cản cạnh tranh."
+                                 ]
+                             ],
+                             [
+                                 "Nhà phát minh, giám định, đặc vụ: Một góc nhìn độc đáo về bộ ba",
+                                 [
+                                     "Nếu tôi tóm tắt sự độc đáo của mình, tôi sẽ nói: Tôi là một nhà phát minh, một giám định viên và một đại lý tất cả trong một.",
+                                     "Là một nhà phát minh, tôi biết việc chuyển một ý tưởng từ mơ hồ sang rõ ràng là điều khó khăn như thế nào và tôi cũng biết rằng các giải pháp kỹ thuật không phải tự nhiên mà xuất hiện; với tư cách là một giám khảo, tôi biết giám khảo đọc yêu cầu như thế nào, tìm tài liệu so sánh như thế nào và đánh giá tính sáng tạo như thế nào; Với tư cách là một luật sư, tôi biết cách viết những đóng góp kỹ thuật thực sự vào đơn xin cấp bằng sáng chế sao cho dễ hiểu hơn, dễ cấp phép hơn và có giá trị bảo vệ cao hơn.",
+                                     "Sự chồng chất của ba vai trò này cho phép tôi xem xét các vấn đề đồng thời từ góc độ của chủ thể đổi mới, thẩm định viên và đại diện sáng chế. Đây cũng là khả năng cốt lõi của tôi trong việc giúp khách hàng nâng cao hiệu quả ủy quyền cấp bằng độc quyền sáng chế."
+                                 ]
+                             ],
+                             [
+                                 "Trọng tâm kinh doanh của tôi ngày hôm nay: bằng sáng chế xuyên biên giới và đổi mới của giới trẻ",
+                                 [
+                                     "Hiện nay công việc kinh doanh của tôi chủ yếu tập trung vào 3 hướng.",
+                                     "Đầu tiên, giúp các thực thể đổi mới nước ngoài vào Trung Quốc và thiết lập chiến lược ứng dụng rõ ràng hơn, cơ cấu yêu cầu và xem xét logic xung quanh việc cấp phép bằng sáng chế phát minh của Trung Quốc.",
+                                     "Thứ hai, giúp các doanh nghiệp và nhà đổi mới cá nhân Trung Quốc có được bằng sáng chế phát minh ở nước ngoài và sử dụng PCT, sơ đồ quốc gia mục tiêu, bản đồ bằng sáng chế và thiết kế kết hợp để bảo vệ sở hữu trí tuệ đáng tin cậy hơn khi công nghệ ra nước ngoài.",
+                                     "Thứ ba, hướng dẫn thanh niên đổi mới. Tôi hy vọng có thể biến các phương pháp đổi mới phức tạp thành các khóa học và công cụ mà trẻ em, giáo viên và phụ huynh có thể hiểu, vận hành và đào tạo."
+                                 ]
+                             ],
+                             [
+                                 "Từ R\u0026D của doanh nghiệp đến đổi mới khoa học và công nghệ của giới trẻ: có thể đào tạo các phương pháp đổi mới",
+                                 [
+                                     "Sau đó, tôi bắt đầu sử dụng phương pháp của riêng mình để hướng dẫn các công ty và thanh thiếu niên đổi mới. Tôi đã giúp một số lượng lớn các công ty tiến hành nâng cấp và nghiên cứu phát triển sản phẩm, đồng thời tôi cũng đã giúp nhiều bạn trẻ tham gia các cuộc thi đổi mới khoa học công nghệ và giành được giải thưởng.",
+                                     "Trong giáo dục khoa học công nghệ cho giới trẻ, tôi ngày càng chắc chắn một điều: trẻ em không thiếu trí tưởng tượng, cái chúng thiếu là con đường biến ý tưởng thành dự án thực tế. Họ cần học cách quan sát vấn đề, hình thành giả thuyết, tiến hành nghiên cứu, kiểm tra bằng sáng chế, tạo nguyên mẫu, xác minh dữ liệu, giải thích rõ ràng những đóng góp kỹ thuật và hiểu rõ việc bảo vệ sở hữu trí tuệ.",
+                                     "Vì vậy, tôi bắt đầu viết các tài liệu giảng dạy như “Hướng dẫn đổi mới khoa học và công nghệ cho thanh niên”, với hy vọng biến đổi mới từ nguồn cảm hứng cho một số ít người thành khả năng mà nhiều người có thể đào tạo hơn."
+                                 ]
+                             ],
+                             [
+                                 "Sách giáo khoa, sách hướng dẫn truyện tranh và Cuộc thi Đổi mới Khoa học và Công nghệ Thanh niên Đông Quan",
+                                 [
+                                     "Tôi hiện đang chuẩn bị gửi cuốn sách giáo khoa về khoa học và đổi mới dành cho thanh niên cho một nhà xuất bản có thẩm quyền để xuất bản. Đối với tôi, cuốn sách giáo khoa này không phải là một cuốn sách khoa học phổ thông thông thường mà là một bộ hướng dẫn vận hành kết nối các vấn đề thực tế, các phương pháp đổi mới, nhận thức về bằng sáng chế và thực tiễn dự án.",
+                                     "Gần đây, tôi cũng đang lên kế hoạch cho Cuộc thi Đổi mới Khoa học và Công nghệ dành cho Thanh niên ở Đông Quản và viết cẩm nang cuộc thi cho cuộc thi. Trong cuốn sách, tôi cố gắng nói với thanh thiếu niên dưới dạng truyện tranh: Đổi mới khoa học công nghệ không phải là một khẩu hiệu xa vời mà là một quá trình thiết thực có thể hoàn thiện từng bước một.",
+                                     "Tôi hy vọng rằng khi các em xem bộ nội dung này, các em không chỉ nghĩ rằng “đổi mới thật tuyệt vời” mà còn hiểu rằng mình cũng có thể tạo ra sự thay đổi dựa trên những vấn đề xung quanh mình."
+                                 ]
+                             ],
+                             [
+                                 "Tôi tin: Đổi mới không phải là tài năng mà là khả năng có thể rèn luyện được",
+                                 [
+                                     "Nhìn lại, từ khi tôi vào Văn phòng Sáng chế Quốc gia vào năm 2012, đến sau này trở thành nhà phát minh, đại lý, người thực hành phương pháp đổi mới, huấn luyện đổi mới doanh nghiệp và giáo dục khoa học và đổi mới cho thanh niên, tôi đã giải quyết cùng một vấn đề: Làm thế nào để biến một ý tưởng thành một phát minh thực sự có giá trị nhanh hơn?",
+                                     "Câu trả lời của tôi là: Đổi mới không chỉ là nguồn cảm hứng, cũng không phải là một quy trình pháp lý biệt lập. Sự đổi mới đòi hỏi các phương pháp, bằng sáng chế yêu cầu cấu trúc và việc cấp phép đòi hỏi sự hiểu biết về logic đánh giá.",
+                                     "Đây chính xác là IP cá nhân mà tôi hy vọng thiết lập được thông qua nhóm Masu: sử dụng phán đoán của người kiểm tra, kinh nghiệm của nhà phát minh, biểu hiện kỹ thuật của người đại diện và phương pháp của các nhà giáo dục để giúp những đối tượng sáng tạo hơn có được những phát minh thực sự có thể được cấp phép, có thể bảo vệ và có thể thực hiện được."
+                                 ]
+                             ]
+                         ]
+        }
     },
     "ai-era-youth-science-innovation-practical-textbook": {
       "zh-hk": {
@@ -1053,14 +1397,14 @@
     document.documentElement.lang = lang === "zh-hk" ? "zh-Hant-HK" : lang;
     translateNav(lang);
     addSwitcher(lang);
-    translateLongArticle(lang);
+    const hasArticleTranslation = translateLongArticle(lang);
     if (lang !== "en") {
       const titleMap = textMap[lang] || {};
       if (titleMap[document.title]) document.title = titleMap[document.title];
       replaceExactText(lang);
       translateCommonUi(lang);
     }
-    autoTranslateResidualChinese(lang);
+    if (!hasArticleTranslation) autoTranslateResidualChinese(lang);
   }
 
   document.addEventListener("DOMContentLoaded", () => translate(getLang()));
