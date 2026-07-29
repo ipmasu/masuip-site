@@ -1053,15 +1053,12 @@
     document.documentElement.lang = lang === "zh-hk" ? "zh-Hant-HK" : lang;
     translateNav(lang);
     addSwitcher(lang);
-    const hasArticleTranslation = translateLongArticle(lang);
+    translateLongArticle(lang);
     if (lang !== "en") {
       const titleMap = textMap[lang] || {};
       if (titleMap[document.title]) document.title = titleMap[document.title];
       replaceExactText(lang);
       translateCommonUi(lang);
-      if (!hasArticleTranslation && translateLongArticle("en")) {
-        autoTranslateRenderedArticle(lang, "en");
-      }
     }
     autoTranslateResidualChinese(lang);
   }
