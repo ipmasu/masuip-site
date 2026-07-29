@@ -1,50 +1,50 @@
 window.MASU_CONTENT = {
   "knowledgeCategories": [
-      {
-          "id": "patent-mining-methodology",
-          "title": "Patent Mining Methodology",
-          "description": "Methods for discovering patentable technical solutions from existing technology, R&D problems, patent maps, and structured claim thinking."
-      },
-      {
-          "id": "innovation-methods",
-          "title": "Innovation Methods",
-          "description": "Reusable invention methods that turn innovation from inspiration into a practical process."
-      },
-      {
-          "id": "patent-drafting-practice",
-          "title": "Patent Drafting Practice",
-          "description": "Claim drafting, technical-feature decomposition, and practical standards for patent documents."
-      },
-      {
-          "id": "inventiveness-examination",
-          "title": "Inventiveness & Examination",
-          "description": "Examiner-style reasoning for inventive step, technical contribution, and patentability judgment."
-      },
-      {
-          "id": "cross-border-patent-strategy",
-          "title": "Cross-Border Patent Strategy",
-          "description": "Patent strategy for Chinese innovators going overseas and overseas innovators entering China."
-      },
-      {
-          "id": "youth-innovation-education",
-          "title": "Youth Innovation Education",
-          "description": "Project-based science innovation education, topic selection, evidence records, and authentic competition guidance."
-      },
-      {
-          "id": "ip-fundamentals",
-          "title": "IP Fundamentals",
-          "description": "Basic intellectual property concepts, patent classification, and public-facing IP literacy."
-      },
-      {
-          "id": "patent-system-history",
-          "title": "Patent System & History",
-          "description": "Historical and institutional views of patent systems, incentives, public interest, and innovation protection."
-      },
-      {
-          "id": "policy-interpretation",
-          "title": "Policy Interpretation",
-          "description": "Policy interpretation for innovation-oriented enterprises and technology teams."
-      }
+    {
+      "id": "patent-mining-methodology",
+      "title": "Patent Mining Methodology",
+      "description": "Methods for discovering patentable technical solutions from existing technology, R&D problems, patent maps, and structured claim thinking."
+    },
+    {
+      "id": "innovation-methods",
+      "title": "Innovation Methods",
+      "description": "Reusable invention methods that turn innovation from inspiration into a practical process."
+    },
+    {
+      "id": "patent-drafting-practice",
+      "title": "Patent Drafting Practice",
+      "description": "Claim drafting, technical-feature decomposition, and practical standards for patent documents."
+    },
+    {
+      "id": "inventiveness-examination",
+      "title": "Inventiveness & Examination",
+      "description": "Examiner-style reasoning for inventive step, technical contribution, and patentability judgment."
+    },
+    {
+      "id": "cross-border-patent-strategy",
+      "title": "Cross-Border Patent Strategy",
+      "description": "Patent strategy for Chinese innovators going overseas and overseas innovators entering China."
+    },
+    {
+      "id": "youth-innovation-education",
+      "title": "Youth Innovation Education",
+      "description": "Project-based science innovation education, topic selection, evidence records, and authentic competition guidance."
+    },
+    {
+      "id": "ip-fundamentals",
+      "title": "IP Fundamentals",
+      "description": "Basic intellectual property concepts, patent classification, and public-facing IP literacy."
+    },
+    {
+      "id": "patent-system-history",
+      "title": "Patent System & History",
+      "description": "Historical and institutional views of patent systems, incentives, public interest, and innovation protection."
+    },
+    {
+      "id": "policy-interpretation",
+      "title": "Policy Interpretation",
+      "description": "Policy interpretation for innovation-oriented enterprises and technology teams."
+    }
   ],
   "series": [
     {
@@ -80,7 +80,7 @@ window.MASU_CONTENT = {
       "category": "Patent System & History",
       "series": "patent-system-history",
       "date": "2026-03-12",
-      "status": "planned"
+      "status": "available"
     },
     {
       "slug": "understanding-inventive-step",
@@ -89,7 +89,7 @@ window.MASU_CONTENT = {
       "category": "Inventiveness & Examination",
       "series": "inventiveness-examination",
       "date": "2026-03-18",
-      "status": "planned"
+      "status": "available"
     },
     {
       "slug": "patent-claim-drafting-standards-28-rules",
@@ -98,7 +98,7 @@ window.MASU_CONTENT = {
       "category": "Patent Drafting Practice",
       "series": "patent-drafting-practice",
       "date": "2026-03-18",
-      "status": "planned"
+      "status": "available"
     },
     {
       "slug": "ipc-classification-section-f-mechanical-engineering",
@@ -107,7 +107,7 @@ window.MASU_CONTENT = {
       "category": "IP Fundamentals",
       "series": "ip-fundamentals",
       "date": "2026-03-20",
-      "status": "planned"
+      "status": "available"
     },
     {
       "slug": "ipc-classification-section-g-physics",
@@ -116,7 +116,7 @@ window.MASU_CONTENT = {
       "category": "IP Fundamentals",
       "series": "ip-fundamentals",
       "date": "2026-03-21",
-      "status": "planned"
+      "status": "available"
     },
     {
       "slug": "ipc-classification-section-h-electricity",
@@ -125,7 +125,7 @@ window.MASU_CONTENT = {
       "category": "IP Fundamentals",
       "series": "ip-fundamentals",
       "date": "2026-03-22",
-      "status": "planned"
+      "status": "available"
     },
     {
       "slug": "pct-international-patent-application-guide",
@@ -134,7 +134,7 @@ window.MASU_CONTENT = {
       "category": "Cross-Border Patent Strategy",
       "series": "cross-border-patent-strategy",
       "date": "2026-03-24",
-      "status": "planned"
+      "status": "available"
     },
     {
       "slug": "invention-patent-cultivation-methodology",
@@ -143,7 +143,7 @@ window.MASU_CONTENT = {
       "category": "Patent Mining Methodology",
       "series": "patent-mining-methodology",
       "date": "2026-04-02",
-      "status": "planned"
+      "status": "available"
     },
     {
       "slug": "science-innovation-competition-real-vs-fake",
@@ -152,7 +152,7 @@ window.MASU_CONTENT = {
       "category": "Youth Innovation Education",
       "series": "youth-innovation-education",
       "date": "2026-04-03",
-      "status": "planned"
+      "status": "available"
     },
     {
       "slug": "defensive-patent-applications-strategy",
@@ -161,7 +161,7 @@ window.MASU_CONTENT = {
       "category": "Cross-Border Patent Strategy",
       "series": "cross-border-patent-strategy",
       "date": "2026-04-08",
-      "status": "planned"
+      "status": "available"
     },
     {
       "slug": "continuation-filing-and-obviousness-double-patenting",
@@ -170,7 +170,7 @@ window.MASU_CONTENT = {
       "category": "Cross-Border Patent Strategy",
       "series": "cross-border-patent-strategy",
       "date": "2026-04-04",
-      "status": "planned"
+      "status": "available"
     },
     {
       "slug": "correct-understanding-of-patent-mining",
@@ -179,7 +179,7 @@ window.MASU_CONTENT = {
       "category": "Patent Mining Methodology",
       "series": "patent-mining-methodology",
       "date": "2018-08-21",
-      "status": "planned"
+      "status": "available"
     },
     {
       "slug": "understanding-srdis-enterprise-policy",
@@ -188,7 +188,7 @@ window.MASU_CONTENT = {
       "category": "Policy Interpretation",
       "series": "policy-interpretation",
       "date": "2025-12-26",
-      "status": "planned"
+      "status": "available"
     },
     {
       "slug": "youth-science-innovation-topic-selection-guide",
@@ -197,7 +197,7 @@ window.MASU_CONTENT = {
       "category": "Youth Innovation Education",
       "series": "youth-innovation-education",
       "date": "2026-03-28",
-      "status": "planned"
+      "status": "available"
     },
     {
       "slug": "from-patent-examiner-to-innovation-methodology",
@@ -245,7 +245,8 @@ window.MASU_CONTENT = {
       "description": "A practical workflow for enterprise IPR teams to discover patentable technical solutions from real R&D work.",
       "category": "Patent Mining",
       "series": "innovation-map",
-      "date": "2026-06-20"
+      "date": "2026-06-20",
+      "status": "available"
     },
     {
       "slug": "responding-to-inventive-step-office-actions",
@@ -293,7 +294,8 @@ window.MASU_CONTENT = {
       "description": "A practical explanation of claim drafting logic, centered on technical features and defensible scope.",
       "category": "Claim Drafting",
       "series": "examiner-insights",
-      "date": "2026-06-20"
+      "date": "2026-06-20",
+      "status": "available"
     },
     {
       "slug": "easy-path-for-patent-mining",
@@ -301,7 +303,8 @@ window.MASU_CONTENT = {
       "description": "A direct route for IP teams to identify patentable improvements through problem decomposition and technical substitution.",
       "category": "Patent Mining",
       "series": "innovation-map",
-      "date": "2026-06-20"
+      "date": "2026-06-20",
+      "status": "available"
     },
     {
       "slug": "protecting-ip-protects-innovation-and-the-future",
@@ -309,7 +312,8 @@ window.MASU_CONTENT = {
       "description": "A broad essay on the social, educational, and industrial meaning of intellectual property protection.",
       "category": "IP Education",
       "series": "global-ip",
-      "date": "2026-06-20"
+      "date": "2026-06-20",
+      "status": "available"
     },
     {
       "slug": "reverse-thinking-as-an-innovation-method",
@@ -317,7 +321,8 @@ window.MASU_CONTENT = {
       "description": "An innovation-method essay on using reverse thinking to break fixed assumptions and generate new technical paths.",
       "category": "Innovation Methodology",
       "series": "innovation-map",
-      "date": "2026-06-20"
+      "date": "2026-06-20",
+      "status": "available"
     },
     {
       "slug": "is-innovation-really-difficult",
@@ -325,7 +330,8 @@ window.MASU_CONTENT = {
       "description": "A concise essay arguing that innovation can be taught through structured problem discovery and technical recombination.",
       "category": "Innovation Education",
       "series": "youth-innovation",
-      "date": "2026-06-20"
+      "date": "2026-06-20",
+      "status": "available"
     },
     {
       "slug": "youth-science-innovation-topic-selection-questionnaire",
@@ -333,7 +339,8 @@ window.MASU_CONTENT = {
       "description": "A guided questionnaire for helping young students discover real innovation topics instead of forcing empty ideas.",
       "category": "Youth Innovation",
       "series": "youth-innovation",
-      "date": "2026-06-20"
+      "date": "2026-06-20",
+      "status": "available"
     },
     {
       "slug": "rejection-and-asking-for-help-in-innovation-competitions",
