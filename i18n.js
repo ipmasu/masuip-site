@@ -618,6 +618,63 @@
   });
 
   const articlePageTranslations = {
+    "from-patent-examiner-to-innovation-methodology": {
+      en: {
+        docTitle: "From Patent Examiner to Innovation Methodology Practitioner | Ma Su",
+        docDescription: "Ma Su's personal story: from CNIPA patent examiner to inventor, patent attorney, innovation methodology practitioner, youth science innovation educator, and cross-border patent strategist.",
+        eyebrow: "Personal Story / Innovation Methodology",
+        title: "From Patent Examiner to Innovation Methodology Practitioner: How I Built My Own Invention Methodology",
+        deck: "I am not only a patent attorney, and I am not only someone who once examined patents. What makes my work different is that I have experienced invention, examination, and patent agency practice at the same time, and I have combined those roles into a method that can train innovation and improve the probability of patent grant.",
+        meta: ["By Ma Su", "Personal IP Story", "Ma Su Team Knowledge Center"],
+        sections: [
+          ["2012: I Entered the National Patent Office and Began to Understand Patents Differently", [
+            "In 2012, I joined China's national patent office and became a patent examiner. For many people, patent examination is a professional job. For me, it quickly became an entrance into understanding technological innovation.",
+            "One thing that made me different from many colleagues was my strong interest in patents themselves. I set a requirement for myself: in addition to completing my examination work every day, I would read more than 100 additional patents and keep following the newest patent developments.",
+            "That intensive reading gradually made me realize that patents are not merely legal texts, nor are they mechanical translations of technical documents. Behind a valuable patent there is usually a clear technical problem, an effective solution path, and a claim structure that can withstand examination."
+          ]],
+          ["From Reading Patents to Drafting Patents: The First Time I Tested My Judgment", [
+            "Based on large-scale reading and examination practice, I began trying to draft patents myself. This was not simply imitating a format. It was a reverse way of thinking: if I were the inventor, how would I identify the real technical contribution? If I were the examiner, how would I judge whether it had a chance of being granted?",
+            "Later, all of the patents I drafted in that period were successfully filed and granted. That result influenced me deeply, because it confirmed one thing: invention does not rely only on inspiration, and patent grant does not rely only on luck. Innovation can be decomposed, trained, and tested."
+          ]],
+          ["After 2017: I Spent Two Years Studying How Innovation Actually Happens", [
+            "In 2017, I left the patent office. After leaving, I did not immediately define my capability simply as patent agency service. Instead, I spent about two years studying a more fundamental question: how do people actually innovate?",
+            "I found that many companies and individuals do not lack effort or ideas. What they truly lack is method. They do not know how to extract technical problems from product problems, how to find inspiration from patent information, or how to turn an initial solution into an invention that can be granted, protected, and used to support business growth.",
+            "Gradually, I formed my own innovation methodology: start from a real problem, decompose technical features, abstract the technical problem, search existing solutions, find alternative paths, and then turn the solution into a patent portfolio that can be drafted, examined, and strategically laid out."
+          ]],
+          ["Hundreds of Invention Patent Applications in One Year: A Methodology Must Be Tested by Real Projects", [
+            "A methodology has little meaning if it stays only on paper. Later, within one year, I successfully supported hundreds of invention patent applications. That experience further proved to me that when early-stage invention mining, technical-problem decomposition, and claim design are solid enough, the probability of patent grant can rise significantly.",
+            "This also became the foundation of my later enterprise service. I do not wait for companies to hand me a ready-made invention. I help them find invention points worth protecting from product upgrades, R&D bottlenecks, user feedback, competitor analysis, and patent maps.",
+            "Many companies have used this method to complete product-upgrade R&D and build more layered patent portfolios. For me, the most valuable part of patent service is not only filing applications. It is helping innovation teams find technical solutions that are more likely to be granted, implemented, and turned into competitive barriers."
+          ]],
+          ["Inventor, Examiner, and Patent Attorney: A Three-in-One Perspective", [
+            "If I had to summarize what makes my perspective distinctive, I would say this: I am an inventor, an examiner, and a patent attorney in one.",
+            "As an inventor, I know how hard it is for an idea to move from vague to clear, and I know that technical solutions do not appear out of nowhere. As an examiner, I know how examiners read claims, search comparison documents, and judge inventiveness. As a patent attorney, I know how to turn a real technical contribution into an application that is easier to understand, easier to grant, and more valuable for protection.",
+            "When these three roles are combined, I can look at a problem simultaneously from the viewpoints of the innovation team, the examiner, and the patent attorney. This is the core capability behind my work helping clients improve the efficiency of Chinese invention patent grants."
+          ]],
+          ["My Current Focus: Cross-Border Invention Patents and Youth Innovation", [
+            "Today, my work mainly focuses on three directions.",
+            "First, I help overseas innovators enter China by building clearer application strategies, claim structures, and office-action response logic around Chinese invention patent grant.",
+            "Second, I help Chinese companies and individual innovators obtain overseas invention patents through PCT strategy, target-country layout, patent maps, and portfolio design, so their technologies can go global with more reliable IP protection.",
+            "Third, I mentor youth innovation. I want to turn complex innovation methods into courses and tools that children, teachers, and parents can understand, operate, and train with."
+          ]],
+          ["From Enterprise R&D to Youth Science Innovation: Innovation Can Be Trained", [
+            "Later, I began using my methodology to guide companies and young people in innovation. I have helped many enterprises with product-upgrade R&D and helped many students participate in science and innovation competitions and win awards.",
+            "In youth science innovation education, I have become increasingly certain of one thing: children do not lack imagination. What they lack is a path for turning ideas into real projects. They need to learn how to observe problems, propose hypotheses, conduct research, search patents, make prototypes, verify data, explain technical contribution, and understand IP protection.",
+            "That is why I began writing textbooks such as Practical Science and Innovation for Youth. I hope to turn innovation from inspiration available to only a few people into an ability that more people can train."
+          ]],
+          ["Textbooks, Comic Manuals, and the Dongguan Youth Science Innovation Competition", [
+            "I am currently preparing to submit my youth science innovation textbook to an authoritative publisher. To me, this textbook is not an ordinary popular-science book. It is an operational guide that connects real problems, innovation methods, patent awareness, and project practice.",
+            "Recently, I have also been planning a youth science innovation competition in Dongguan and wrote a competition manual for it. In the manual, I use a comic format to tell young people that science innovation is not a distant slogan. It is a practical process that can be completed step by step.",
+            "When children read these materials, I hope they do not merely think innovation is impressive. I hope they understand: I can also start from the problems around me and create a change."
+          ]],
+          ["I Believe Innovation Is Not a Gift, But an Ability That Can Be Trained", [
+            "Looking back, from entering the national patent office in 2012 to becoming an inventor, patent attorney, innovation methodology practitioner, enterprise innovation mentor, and youth science innovation educator, my work has always revolved around one question: how can an idea become a truly valuable invention faster?",
+            "My answer is this: innovation is not simply inspiration, and patents are not isolated legal procedures. Innovation needs method, patents need structure, and grant requires an understanding of examination logic.",
+            "This is exactly the personal IP I hope to build through Ma Su Team: using examiner judgment, inventor experience, patent-attorney technical expression, and educator methodology to help more innovation teams obtain inventions that can truly be granted, protected, and implemented."
+          ]]
+        ]
+      },
+    },
     "ai-era-youth-science-innovation-practical-textbook": {
       "zh-hk": {
         docTitle: "AI 時代青少年科創實戰教程 | Ma Su",
@@ -858,6 +915,8 @@
     if (eyebrow) eyebrow.textContent = translated.eyebrow;
     if (title) title.textContent = translated.title;
     if (deck) deck.textContent = translated.deck;
+    const description = document.querySelector('meta[name="description"]');
+    if (description && translated.docDescription) description.setAttribute("content", translated.docDescription);
     translated.meta.forEach((text, index) => {
       if (meta[index]) meta[index].textContent = text;
     });
@@ -945,12 +1004,12 @@
     document.documentElement.lang = lang === "zh-hk" ? "zh-Hant-HK" : lang;
     translateNav(lang);
     addSwitcher(lang);
+    translateLongArticle(lang);
     if (lang !== "en") {
       const titleMap = textMap[lang] || {};
       if (titleMap[document.title]) document.title = titleMap[document.title];
       replaceExactText(lang);
       translateCommonUi(lang);
-      translateLongArticle(lang);
     }
     autoTranslateResidualChinese(lang);
   }
