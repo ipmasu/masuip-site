@@ -1275,15 +1275,15 @@
 
   function translateLongArticle(lang) {
     const slug = location.pathname.split("/").pop().replace(".html", "");
+    const translated = articlePageTranslations[slug] && articlePageTranslations[slug][lang];
     const shell = document.querySelector(".article-shell");
-    if (shell) {
+    if (!translated && shell) {
       const sourceText = [
         shell.querySelector(":scope > h1")?.textContent || "",
         shell.querySelector(":scope > .article-deck")?.textContent || "",
       ].join(" ");
       if (/[\u4e00-\u9fff]/.test(sourceText)) return false;
     }
-    const translated = articlePageTranslations[slug] && articlePageTranslations[slug][lang];
     if (!translated) return false;
     document.title = translated.docTitle;
     if (!shell) return false;
