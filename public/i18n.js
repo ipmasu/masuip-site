@@ -1425,6 +1425,16 @@
     await translateNodes(nodes, "en", target);
   }
 
+  function getArticleSourceLang(articleShell) {
+    if (!articleShell) return "en";
+    const sourceText = [
+      articleShell.querySelector(":scope > h1")?.textContent || "",
+      articleShell.querySelector(":scope > .article-deck")?.textContent || "",
+      articleShell.querySelector(".article-section")?.textContent || "",
+    ].join(" ");
+    return /[\u4e00-\u9fff]/.test(sourceText) ? "zh-CN" : "en";
+  }
+
   function translate(lang) {
     document.documentElement.lang = lang === "zh-hk" ? "zh-Hant-HK" : lang;
     translateNav(lang);
@@ -1437,7 +1447,11 @@
       translateCommonUi(lang);
     }
     const articleShell = document.querySelector(".article-shell");
-    if (!hasArticleTranslation && articleShell) autoTranslateRenderedArticle(lang, "zh-CN");
+    if (!hasArticleTranslation && articleShell) {
+      const sourceLang = getArticleSourceLang(articleShell);
+      const targetLang = machineTargets[lang];
+      if (targetLang && targetLang !== sourceLang) autoTranslateRenderedArticle(lang, sourceLang);
+    }
     if (!hasArticleTranslation && !articleShell) autoTranslateResidualChinese(lang);
     if (lang !== "en" && !articleShell) autoTranslateResidualEnglish(lang);
   }
