@@ -1246,10 +1246,17 @@
 
   function translateLongArticle(lang) {
     const slug = location.pathname.split("/").pop().replace(".html", "");
+    const shell = document.querySelector(".article-shell");
+    if (shell) {
+      const sourceText = [
+        shell.querySelector(":scope > h1")?.textContent || "",
+        shell.querySelector(":scope > .article-deck")?.textContent || "",
+      ].join(" ");
+      if (/[\u4e00-\u9fff]/.test(sourceText)) return false;
+    }
     const translated = articlePageTranslations[slug] && articlePageTranslations[slug][lang];
     if (!translated) return false;
     document.title = translated.docTitle;
-    const shell = document.querySelector(".article-shell");
     if (!shell) return false;
     const eyebrow = shell.querySelector(":scope > .eyebrow");
     const title = shell.querySelector(":scope > h1");
@@ -1361,21 +1368,22 @@
     document.body.dataset.translation = "done";
   }
 
-  async function autoTranslateResidualChinese(lang) {
-    const target = machineTargets[lang];
-    if (!target) return;
-    const scope = document.querySelector(".article-shell") || document.querySelector("main");
-    if (!scope) return;
+  function collectTextNodes(scope, acceptText) {
+    if (!scope) return [];
     const walker = document.createTreeWalker(scope, NodeFilter.SHOW_TEXT, {
       acceptNode(node) {
         const parent = node.parentElement;
         if (!parent || ["SCRIPT", "STYLE", "TEXTAREA", "OPTION", "SELECT"].includes(parent.tagName)) return NodeFilter.FILTER_REJECT;
         if (parent.closest(".language-switcher")) return NodeFilter.FILTER_REJECT;
-        return shouldAutoTranslate(node.nodeValue, lang) ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_REJECT;
+        return acceptText(node.nodeValue) ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_REJECT;
       }
     });
     const nodes = [];
     while (walker.nextNode()) nodes.push(walker.currentNode);
+    return nodes;
+  }
+
+  async function translateNodes(nodes, source, target) {
     if (!nodes.length) return;
     document.body.dataset.translation = "loading";
     let index = 0;
@@ -1383,7 +1391,7 @@
       while (index < nodes.length) {
         const node = nodes[index++];
         try {
-          node.nodeValue = await translateText(node.nodeValue, target);
+          node.nodeValue = await translateTextFrom(node.nodeValue, source, target);
         } catch (error) {
           console.warn("Auto translation skipped", error);
         }
@@ -1391,6 +1399,30 @@
     }
     await Promise.all(Array.from({ length: Math.min(4, nodes.length) }, worker));
     document.body.dataset.translation = "done";
+  }
+
+  async function autoTranslateResidualChinese(lang) {
+    const target = machineTargets[lang];
+    if (!target) return;
+    const scope = document.querySelector(".article-shell") || document.querySelector("main");
+    const nodes = collectTextNodes(scope, (text) => shouldAutoTranslate(text, lang));
+    await translateNodes(nodes, "zh-CN", target);
+  }
+
+  function shouldAutoTranslateEnglish(text) {
+    const value = text.trim();
+    if (!value || !/[A-Za-z]/.test(value)) return false;
+    if (/[\u4e00-\u9fff\u3040-\u30ff]/.test(value)) return false;
+    if (/[\u00C0-\u017E]/.test(value)) return false;
+    return value.split(/\s+/).length > 1 || value.length > 18;
+  }
+
+  async function autoTranslateResidualEnglish(lang) {
+    const target = machineTargets[lang];
+    if (!target || target === "en") return;
+    const scope = document.querySelector("main");
+    const nodes = collectTextNodes(scope, shouldAutoTranslateEnglish);
+    await translateNodes(nodes, "en", target);
   }
 
   function translate(lang) {
@@ -1404,7 +1436,10 @@
       replaceExactText(lang);
       translateCommonUi(lang);
     }
-    if (!hasArticleTranslation) autoTranslateResidualChinese(lang);
+    const articleShell = document.querySelector(".article-shell");
+    if (!hasArticleTranslation && articleShell) autoTranslateRenderedArticle(lang, "zh-CN");
+    if (!hasArticleTranslation && !articleShell) autoTranslateResidualChinese(lang);
+    if (lang !== "en" && !articleShell) autoTranslateResidualEnglish(lang);
   }
 
   document.addEventListener("DOMContentLoaded", () => translate(getLang()));
