@@ -1439,6 +1439,8 @@
     document.documentElement.lang = lang === "zh-hk" ? "zh-Hant-HK" : lang;
     translateNav(lang);
     addSwitcher(lang);
+    const articleShell = document.querySelector(".article-shell");
+    const articleSourceLang = articleShell ? getArticleSourceLang(articleShell) : "";
     const hasArticleTranslation = translateLongArticle(lang);
     if (lang !== "en") {
       const titleMap = textMap[lang] || {};
@@ -1446,11 +1448,9 @@
       replaceExactText(lang);
       translateCommonUi(lang);
     }
-    const articleShell = document.querySelector(".article-shell");
     if (!hasArticleTranslation && articleShell) {
-      const sourceLang = getArticleSourceLang(articleShell);
       const targetLang = machineTargets[lang];
-      if (targetLang && targetLang !== sourceLang) autoTranslateRenderedArticle(lang, sourceLang);
+      if (targetLang && targetLang !== articleSourceLang) autoTranslateRenderedArticle(lang, articleSourceLang);
     }
     if (!hasArticleTranslation && !articleShell) autoTranslateResidualChinese(lang);
     if (lang !== "en" && !articleShell) autoTranslateResidualEnglish(lang);
