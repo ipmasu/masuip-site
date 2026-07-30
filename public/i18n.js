@@ -1020,407 +1020,407 @@
         }
     },
     "xiegang-yafan-cup-youth-innovation-competition": {
-      "en": {
-            "docTitle": "Xiegang Yafan Cup Youth Innovation Competition Planning Case | Ma Su",
-            "docDescription": "A competition planning case connecting youth innovation education, IP literacy, enterprise R&D resources, and commercialization.",
-            "eyebrow": "Youth Innovation Case / Competition Design",
-            "title": "Yafan Cup Xiegang Youth Science Innovation Competition: Bringing Innovation Methodology into a Real Industrial Setting",
-            "deck": "This is not simply a student creativity contest. It is a youth innovation education model that connects local education, enterprise R&D, IP literacy, patent search, product design, and commercialization.",
-            "meta": [
-                  "By Ma Su",
-                  "Youth Innovation Competition Case",
-                  "Ma Su Team Knowledge Center"
-            ],
-            "sections": [
-                  [
-                        "Why Plan This Kind of Competition?",
-                        [
-                              "In recent years, youth science and technology innovation education has been moving from interest activities toward comprehensive capability training. If innovation education stays only at the slogan level, students cannot truly understand how an idea moves from observation, research, design, and making into IP protection and industrial transformation.",
-                              "The core starting point of the Yafan Cup Xiegang Youth Science Innovation Competition is to combine innovation education with IP education, allowing students to complete a full innovation experience in a real industrial setting.",
-                              "The plan positions the competition as a youth innovation education brand activity for Xiegang Town. It serves the cultivation of students innovation thinking, hands-on ability, and IP awareness, while using enterprise resources and expert support to explore a closed loop of education guidance, practical innovation, result protection, and product transformation."
-                        ]
-                  ],
-                  [
-                        "Combining Local Resources, Enterprise Scenarios, and Methodology",
-                        [
-                              "Xiegang Town has a strong educational foundation and practical education scenarios. The local area is promoting a half-day weekly plan during compulsory education and developing practice courses around local resources such as Yinping Mountain Forest Park and Yinshan Wetland Park. This provides a foundation for school participation and regional brand building.",
-                              "Yafan provides a real industrial scenario. The company has long focused on intelligent, healthy, and scientific drinking, with innovative products such as smart thermostatic cups, cooling cups, and fingerprint temperature-display cups, as well as R&D, design, and production capabilities. Using cups as the theme keeps student ideas grounded in materials, structure, function, appearance, smart hardware, and manufacturing processes.",
-                              "This is exactly what my innovation methodology values most: innovation training cannot be separated from real problems. If a child can discover pain points, propose solutions, search existing technologies, design models, and express value around an everyday product such as a cup, that child has completed a full innovation capability exercise."
-                        ]
-                  ],
-                  [
-                        "Competition Theme: Building Dreams with Innovation, Sharing the Future with Cups",
-                        [
-                              "The proposed theme is: Building Dreams with Innovation, Sharing the Future with Cups - Focusing on cup innovation design and lighting up the power of intellectual property.",
-                              "The entries focus on creative cup design and physical making, including functional innovation, material innovation, shape innovation, and smart innovation. This theme is specific enough for students to understand and operate, yet open enough to accommodate ideas from different ages and ability levels.",
-                              "The competition is open to primary and secondary school students within Xiegang Town. It plans to set primary and secondary groups, encourage individual or teams of up to three students, and cover compulsory education schools across the town."
-                        ]
-                  ],
-                  [
-                        "Four-Stage Process: From Ideas to Roadshow",
-                        [
-                              "The competition is designed as four stages, not a one-time work collection.",
-                              "The first stage is promotion, mobilization, and idea collection. Students understand the theme, visit production workshops and R&D labs, and see the full process of how a cup moves from design to production.",
-                              "The second stage is innovation training and IP education. Training includes innovation methodology, IP basics, product design and making guidance, and patent search practice. The key is not telling students to innovate, but teaching them how to use methods to generate high-quality ideas.",
-                              "The third stage is work submission and evaluation. Entry categories include creative design, physical making, and roadshow presentation, evaluating drawings, idea descriptions, physical models, functional implementation, expression ability, and project completeness.",
-                              "The fourth stage is the roadshow final and award ceremony. Finalists present their ideas and works on site, receive evaluation from experts, and expand the impact of the event through media coverage."
-                        ]
-                  ],
-                  [
-                        "Evaluation Standards: Bringing IP Awareness into Innovation Competitions",
-                        [
-                              "The evaluation dimensions in the plan include innovation, practicality, completion quality, IP awareness, and presentation.",
-                              "IP awareness is not an add-on. It is the key difference between this competition and an ordinary creativity contest. Students need to understand that if an idea is to create real value, they must know where existing technologies are, where their improvement lies, and whether it can form a protectable technical solution.",
-                              "This is also the logic of innovation education that I have long emphasized: youth innovation should not only pursue something that looks novel. Students should gradually learn to discover problems, search information, judge differences, protect results, and present value."
-                        ]
-                  ],
-                  [
-                        "Commercialization: Let Students See Ideas Become Products",
-                        [
-                              "Another important design of the competition is the introduction of a commercialization mechanism. For excellent ideas with market potential, the company can select them for product development, include them in the product line, and give students honors, attribution, bonuses, visits, or opportunities to participate in later development.",
-                              "This allows students to directly feel that creativity is not just an idea on paper. Innovation has value, and IP protection is not a distant legal concept but a bridge connecting ideas, products, and markets.",
-                              "For the company, the perspective of young people may also bring new product inspiration. For the locality, this mechanism connects school education, enterprise innovation, and regional brand building."
-                        ]
-                  ],
-                  [
-                        "Follow-up Plan: From One Competition to an Education Brand",
-                        [
-                              "The plan designs the Yafan Cup as a sustainable annual competition rather than a one-time event. Future editions can optimize the competition system and training based on the first edition, gradually improving quality and influence.",
-                              "Going further, the project can rely on enterprise R&D labs and production workshops, and jointly build a Youth Innovation and IP Education Base with market regulation, education management centers, and schools, deeply integrating competition resources with daily practice courses.",
-                              "If the first competition operates maturely, it can gradually expand to surrounding towns and even the whole city, while helping outstanding results connect with provincial and national youth innovation competitions."
-                        ]
-                  ],
-                  [
-                        "What This Case Means for My Personal IP",
-                        [
-                              "The Yafan Cup Xiegang Youth Science Innovation Competition is an implementation of my innovation methodology in youth education and local industry settings.",
-                              "It proves that innovation can be trained is not a slogan. It can be designed into a complete system of courses, competitions, enterprise visits, patent search, work making, roadshow defense, and product transformation.",
-                              "From patent examiner, inventor, and patent attorney to innovation methodology researcher and youth innovation textbook author, what I hope to do has always been consistent: help more innovators find real problems, form protectable technical solutions, and make innovation results truly land."
-                        ]
-                  ]
-            ]
-      },
-      "zh-hk": {
-            "docTitle": "??????????????????? | Ma Su",
-            "docDescription": "??????????????????????????????????????",
-            "eyebrow": "??????? / ????",
-            "title": "??????????????????????????????",
-            "deck": "??????????????????????????????????????????????????????????????????",
-            "meta": [
-                  "?????",
-                  "?????????",
-                  "????????"
-            ],
-            "sections": [
-                  [
-                        "Why Plan This Kind of Competition?",
-                        [
-                              "In recent years, youth science and technology innovation education has been moving from interest activities toward comprehensive capability training. If innovation education stays only at the slogan level, students cannot truly understand how an idea moves from observation, research, design, and making into IP protection and industrial transformation.",
-                              "The core starting point of the Yafan Cup Xiegang Youth Science Innovation Competition is to combine innovation education with IP education, allowing students to complete a full innovation experience in a real industrial setting.",
-                              "The plan positions the competition as a youth innovation education brand activity for Xiegang Town. It serves the cultivation of students innovation thinking, hands-on ability, and IP awareness, while using enterprise resources and expert support to explore a closed loop of education guidance, practical innovation, result protection, and product transformation."
-                        ]
-                  ],
-                  [
-                        "Combining Local Resources, Enterprise Scenarios, and Methodology",
-                        [
-                              "Xiegang Town has a strong educational foundation and practical education scenarios. The local area is promoting a half-day weekly plan during compulsory education and developing practice courses around local resources such as Yinping Mountain Forest Park and Yinshan Wetland Park. This provides a foundation for school participation and regional brand building.",
-                              "Yafan provides a real industrial scenario. The company has long focused on intelligent, healthy, and scientific drinking, with innovative products such as smart thermostatic cups, cooling cups, and fingerprint temperature-display cups, as well as R&D, design, and production capabilities. Using cups as the theme keeps student ideas grounded in materials, structure, function, appearance, smart hardware, and manufacturing processes.",
-                              "This is exactly what my innovation methodology values most: innovation training cannot be separated from real problems. If a child can discover pain points, propose solutions, search existing technologies, design models, and express value around an everyday product such as a cup, that child has completed a full innovation capability exercise."
-                        ]
-                  ],
-                  [
-                        "Competition Theme: Building Dreams with Innovation, Sharing the Future with Cups",
-                        [
-                              "The proposed theme is: Building Dreams with Innovation, Sharing the Future with Cups - Focusing on cup innovation design and lighting up the power of intellectual property.",
-                              "The entries focus on creative cup design and physical making, including functional innovation, material innovation, shape innovation, and smart innovation. This theme is specific enough for students to understand and operate, yet open enough to accommodate ideas from different ages and ability levels.",
-                              "The competition is open to primary and secondary school students within Xiegang Town. It plans to set primary and secondary groups, encourage individual or teams of up to three students, and cover compulsory education schools across the town."
-                        ]
-                  ],
-                  [
-                        "Four-Stage Process: From Ideas to Roadshow",
-                        [
-                              "The competition is designed as four stages, not a one-time work collection.",
-                              "The first stage is promotion, mobilization, and idea collection. Students understand the theme, visit production workshops and R&D labs, and see the full process of how a cup moves from design to production.",
-                              "The second stage is innovation training and IP education. Training includes innovation methodology, IP basics, product design and making guidance, and patent search practice. The key is not telling students to innovate, but teaching them how to use methods to generate high-quality ideas.",
-                              "The third stage is work submission and evaluation. Entry categories include creative design, physical making, and roadshow presentation, evaluating drawings, idea descriptions, physical models, functional implementation, expression ability, and project completeness.",
-                              "The fourth stage is the roadshow final and award ceremony. Finalists present their ideas and works on site, receive evaluation from experts, and expand the impact of the event through media coverage."
-                        ]
-                  ],
-                  [
-                        "Evaluation Standards: Bringing IP Awareness into Innovation Competitions",
-                        [
-                              "The evaluation dimensions in the plan include innovation, practicality, completion quality, IP awareness, and presentation.",
-                              "IP awareness is not an add-on. It is the key difference between this competition and an ordinary creativity contest. Students need to understand that if an idea is to create real value, they must know where existing technologies are, where their improvement lies, and whether it can form a protectable technical solution.",
-                              "This is also the logic of innovation education that I have long emphasized: youth innovation should not only pursue something that looks novel. Students should gradually learn to discover problems, search information, judge differences, protect results, and present value."
-                        ]
-                  ],
-                  [
-                        "Commercialization: Let Students See Ideas Become Products",
-                        [
-                              "Another important design of the competition is the introduction of a commercialization mechanism. For excellent ideas with market potential, the company can select them for product development, include them in the product line, and give students honors, attribution, bonuses, visits, or opportunities to participate in later development.",
-                              "This allows students to directly feel that creativity is not just an idea on paper. Innovation has value, and IP protection is not a distant legal concept but a bridge connecting ideas, products, and markets.",
-                              "For the company, the perspective of young people may also bring new product inspiration. For the locality, this mechanism connects school education, enterprise innovation, and regional brand building."
-                        ]
-                  ],
-                  [
-                        "Follow-up Plan: From One Competition to an Education Brand",
-                        [
-                              "The plan designs the Yafan Cup as a sustainable annual competition rather than a one-time event. Future editions can optimize the competition system and training based on the first edition, gradually improving quality and influence.",
-                              "Going further, the project can rely on enterprise R&D labs and production workshops, and jointly build a Youth Innovation and IP Education Base with market regulation, education management centers, and schools, deeply integrating competition resources with daily practice courses.",
-                              "If the first competition operates maturely, it can gradually expand to surrounding towns and even the whole city, while helping outstanding results connect with provincial and national youth innovation competitions."
-                        ]
-                  ],
-                  [
-                        "What This Case Means for My Personal IP",
-                        [
-                              "The Yafan Cup Xiegang Youth Science Innovation Competition is an implementation of my innovation methodology in youth education and local industry settings.",
-                              "It proves that innovation can be trained is not a slogan. It can be designed into a complete system of courses, competitions, enterprise visits, patent search, work making, roadshow defense, and product transformation.",
-                              "From patent examiner, inventor, and patent attorney to innovation methodology researcher and youth innovation textbook author, what I hope to do has always been consistent: help more innovators find real problems, form protectable technical solutions, and make innovation results truly land."
-                        ]
-                  ]
-            ]
-      },
-      "ja": {
-            "docTitle": "?Yafan Cup?????????????????????? | Ma Su",
-            "docDescription": "????????????????????????????R&D??????????????????",
-            "eyebrow": "???????????? / ????",
-            "title": "Yafan Cup??????????????????????????????????",
-            "deck": "?????????????????????????????????R&D????????????????????????????????????????????",
-            "meta": [
-                  "???Ma Su",
-                  "??????????????",
-                  "Ma Su Team Knowledge Center"
-            ],
-            "sections": [
-                  [
-                        "Why Plan This Kind of Competition?",
-                        [
-                              "In recent years, youth science and technology innovation education has been moving from interest activities toward comprehensive capability training. If innovation education stays only at the slogan level, students cannot truly understand how an idea moves from observation, research, design, and making into IP protection and industrial transformation.",
-                              "The core starting point of the Yafan Cup Xiegang Youth Science Innovation Competition is to combine innovation education with IP education, allowing students to complete a full innovation experience in a real industrial setting.",
-                              "The plan positions the competition as a youth innovation education brand activity for Xiegang Town. It serves the cultivation of students innovation thinking, hands-on ability, and IP awareness, while using enterprise resources and expert support to explore a closed loop of education guidance, practical innovation, result protection, and product transformation."
-                        ]
-                  ],
-                  [
-                        "Combining Local Resources, Enterprise Scenarios, and Methodology",
-                        [
-                              "Xiegang Town has a strong educational foundation and practical education scenarios. The local area is promoting a half-day weekly plan during compulsory education and developing practice courses around local resources such as Yinping Mountain Forest Park and Yinshan Wetland Park. This provides a foundation for school participation and regional brand building.",
-                              "Yafan provides a real industrial scenario. The company has long focused on intelligent, healthy, and scientific drinking, with innovative products such as smart thermostatic cups, cooling cups, and fingerprint temperature-display cups, as well as R&D, design, and production capabilities. Using cups as the theme keeps student ideas grounded in materials, structure, function, appearance, smart hardware, and manufacturing processes.",
-                              "This is exactly what my innovation methodology values most: innovation training cannot be separated from real problems. If a child can discover pain points, propose solutions, search existing technologies, design models, and express value around an everyday product such as a cup, that child has completed a full innovation capability exercise."
-                        ]
-                  ],
-                  [
-                        "Competition Theme: Building Dreams with Innovation, Sharing the Future with Cups",
-                        [
-                              "The proposed theme is: Building Dreams with Innovation, Sharing the Future with Cups - Focusing on cup innovation design and lighting up the power of intellectual property.",
-                              "The entries focus on creative cup design and physical making, including functional innovation, material innovation, shape innovation, and smart innovation. This theme is specific enough for students to understand and operate, yet open enough to accommodate ideas from different ages and ability levels.",
-                              "The competition is open to primary and secondary school students within Xiegang Town. It plans to set primary and secondary groups, encourage individual or teams of up to three students, and cover compulsory education schools across the town."
-                        ]
-                  ],
-                  [
-                        "Four-Stage Process: From Ideas to Roadshow",
-                        [
-                              "The competition is designed as four stages, not a one-time work collection.",
-                              "The first stage is promotion, mobilization, and idea collection. Students understand the theme, visit production workshops and R&D labs, and see the full process of how a cup moves from design to production.",
-                              "The second stage is innovation training and IP education. Training includes innovation methodology, IP basics, product design and making guidance, and patent search practice. The key is not telling students to innovate, but teaching them how to use methods to generate high-quality ideas.",
-                              "The third stage is work submission and evaluation. Entry categories include creative design, physical making, and roadshow presentation, evaluating drawings, idea descriptions, physical models, functional implementation, expression ability, and project completeness.",
-                              "The fourth stage is the roadshow final and award ceremony. Finalists present their ideas and works on site, receive evaluation from experts, and expand the impact of the event through media coverage."
-                        ]
-                  ],
-                  [
-                        "Evaluation Standards: Bringing IP Awareness into Innovation Competitions",
-                        [
-                              "The evaluation dimensions in the plan include innovation, practicality, completion quality, IP awareness, and presentation.",
-                              "IP awareness is not an add-on. It is the key difference between this competition and an ordinary creativity contest. Students need to understand that if an idea is to create real value, they must know where existing technologies are, where their improvement lies, and whether it can form a protectable technical solution.",
-                              "This is also the logic of innovation education that I have long emphasized: youth innovation should not only pursue something that looks novel. Students should gradually learn to discover problems, search information, judge differences, protect results, and present value."
-                        ]
-                  ],
-                  [
-                        "Commercialization: Let Students See Ideas Become Products",
-                        [
-                              "Another important design of the competition is the introduction of a commercialization mechanism. For excellent ideas with market potential, the company can select them for product development, include them in the product line, and give students honors, attribution, bonuses, visits, or opportunities to participate in later development.",
-                              "This allows students to directly feel that creativity is not just an idea on paper. Innovation has value, and IP protection is not a distant legal concept but a bridge connecting ideas, products, and markets.",
-                              "For the company, the perspective of young people may also bring new product inspiration. For the locality, this mechanism connects school education, enterprise innovation, and regional brand building."
-                        ]
-                  ],
-                  [
-                        "Follow-up Plan: From One Competition to an Education Brand",
-                        [
-                              "The plan designs the Yafan Cup as a sustainable annual competition rather than a one-time event. Future editions can optimize the competition system and training based on the first edition, gradually improving quality and influence.",
-                              "Going further, the project can rely on enterprise R&D labs and production workshops, and jointly build a Youth Innovation and IP Education Base with market regulation, education management centers, and schools, deeply integrating competition resources with daily practice courses.",
-                              "If the first competition operates maturely, it can gradually expand to surrounding towns and even the whole city, while helping outstanding results connect with provincial and national youth innovation competitions."
-                        ]
-                  ],
-                  [
-                        "What This Case Means for My Personal IP",
-                        [
-                              "The Yafan Cup Xiegang Youth Science Innovation Competition is an implementation of my innovation methodology in youth education and local industry settings.",
-                              "It proves that innovation can be trained is not a slogan. It can be designed into a complete system of courses, competitions, enterprise visits, patent search, work making, roadshow defense, and product transformation.",
-                              "From patent examiner, inventor, and patent attorney to innovation methodology researcher and youth innovation textbook author, what I hope to do has always been consistent: help more innovators find real problems, form protectable technical solutions, and make innovation results truly land."
-                        ]
-                  ]
-            ]
-      },
-      "vi": {
-            "docTitle": "Tr??ng h?p l?p k? ho?ch Cu?c thi S?ng t?o Khoa h?c Thanh thi?u ni?n Xiegang Yafan Cup | Ma Su",
-            "docDescription": "M?t tr??ng h?p l?p k? ho?ch cu?c thi k?t n?i gi?o d?c ??i m?i thanh thi?u ni?n, ph? c?p s? h?u tr? tu?, ngu?n l?c R&D doanh nghi?p v? chuy?n h?a k?t qu?.",
-            "eyebrow": "Tr??ng h?p ??i m?i thanh thi?u ni?n / Thi?t k? cu?c thi",
-            "title": "Yafan Cup Xiegang: ??a ph??ng ph?p lu?n ??i m?i v?o b?i c?nh c?ng nghi?p th?t",
-            "deck": "??y kh?ng ch? l? m?t cu?c thi ? t??ng c?a h?c sinh, m? l? m? h?nh gi?o d?c ??i m?i thanh thi?u ni?n k?t n?i gi?o d?c ??a ph??ng, R&D doanh nghi?p, s? h?u tr? tu?, tra c?u s?ng ch?, thi?t k? s?n ph?m v? th??ng m?i h?a.",
-            "meta": [
-                  "T?c gi?: Ma Su",
-                  "Tr??ng h?p cu?c thi ??i m?i thanh thi?u ni?n",
-                  "Trung t?m tri th?c Ma Su Team"
-            ],
-            "sections": [
-                  [
-                        "Why Plan This Kind of Competition?",
-                        [
-                              "In recent years, youth science and technology innovation education has been moving from interest activities toward comprehensive capability training. If innovation education stays only at the slogan level, students cannot truly understand how an idea moves from observation, research, design, and making into IP protection and industrial transformation.",
-                              "The core starting point of the Yafan Cup Xiegang Youth Science Innovation Competition is to combine innovation education with IP education, allowing students to complete a full innovation experience in a real industrial setting.",
-                              "The plan positions the competition as a youth innovation education brand activity for Xiegang Town. It serves the cultivation of students innovation thinking, hands-on ability, and IP awareness, while using enterprise resources and expert support to explore a closed loop of education guidance, practical innovation, result protection, and product transformation."
-                        ]
-                  ],
-                  [
-                        "Combining Local Resources, Enterprise Scenarios, and Methodology",
-                        [
-                              "Xiegang Town has a strong educational foundation and practical education scenarios. The local area is promoting a half-day weekly plan during compulsory education and developing practice courses around local resources such as Yinping Mountain Forest Park and Yinshan Wetland Park. This provides a foundation for school participation and regional brand building.",
-                              "Yafan provides a real industrial scenario. The company has long focused on intelligent, healthy, and scientific drinking, with innovative products such as smart thermostatic cups, cooling cups, and fingerprint temperature-display cups, as well as R&D, design, and production capabilities. Using cups as the theme keeps student ideas grounded in materials, structure, function, appearance, smart hardware, and manufacturing processes.",
-                              "This is exactly what my innovation methodology values most: innovation training cannot be separated from real problems. If a child can discover pain points, propose solutions, search existing technologies, design models, and express value around an everyday product such as a cup, that child has completed a full innovation capability exercise."
-                        ]
-                  ],
-                  [
-                        "Competition Theme: Building Dreams with Innovation, Sharing the Future with Cups",
-                        [
-                              "The proposed theme is: Building Dreams with Innovation, Sharing the Future with Cups - Focusing on cup innovation design and lighting up the power of intellectual property.",
-                              "The entries focus on creative cup design and physical making, including functional innovation, material innovation, shape innovation, and smart innovation. This theme is specific enough for students to understand and operate, yet open enough to accommodate ideas from different ages and ability levels.",
-                              "The competition is open to primary and secondary school students within Xiegang Town. It plans to set primary and secondary groups, encourage individual or teams of up to three students, and cover compulsory education schools across the town."
-                        ]
-                  ],
-                  [
-                        "Four-Stage Process: From Ideas to Roadshow",
-                        [
-                              "The competition is designed as four stages, not a one-time work collection.",
-                              "The first stage is promotion, mobilization, and idea collection. Students understand the theme, visit production workshops and R&D labs, and see the full process of how a cup moves from design to production.",
-                              "The second stage is innovation training and IP education. Training includes innovation methodology, IP basics, product design and making guidance, and patent search practice. The key is not telling students to innovate, but teaching them how to use methods to generate high-quality ideas.",
-                              "The third stage is work submission and evaluation. Entry categories include creative design, physical making, and roadshow presentation, evaluating drawings, idea descriptions, physical models, functional implementation, expression ability, and project completeness.",
-                              "The fourth stage is the roadshow final and award ceremony. Finalists present their ideas and works on site, receive evaluation from experts, and expand the impact of the event through media coverage."
-                        ]
-                  ],
-                  [
-                        "Evaluation Standards: Bringing IP Awareness into Innovation Competitions",
-                        [
-                              "The evaluation dimensions in the plan include innovation, practicality, completion quality, IP awareness, and presentation.",
-                              "IP awareness is not an add-on. It is the key difference between this competition and an ordinary creativity contest. Students need to understand that if an idea is to create real value, they must know where existing technologies are, where their improvement lies, and whether it can form a protectable technical solution.",
-                              "This is also the logic of innovation education that I have long emphasized: youth innovation should not only pursue something that looks novel. Students should gradually learn to discover problems, search information, judge differences, protect results, and present value."
-                        ]
-                  ],
-                  [
-                        "Commercialization: Let Students See Ideas Become Products",
-                        [
-                              "Another important design of the competition is the introduction of a commercialization mechanism. For excellent ideas with market potential, the company can select them for product development, include them in the product line, and give students honors, attribution, bonuses, visits, or opportunities to participate in later development.",
-                              "This allows students to directly feel that creativity is not just an idea on paper. Innovation has value, and IP protection is not a distant legal concept but a bridge connecting ideas, products, and markets.",
-                              "For the company, the perspective of young people may also bring new product inspiration. For the locality, this mechanism connects school education, enterprise innovation, and regional brand building."
-                        ]
-                  ],
-                  [
-                        "Follow-up Plan: From One Competition to an Education Brand",
-                        [
-                              "The plan designs the Yafan Cup as a sustainable annual competition rather than a one-time event. Future editions can optimize the competition system and training based on the first edition, gradually improving quality and influence.",
-                              "Going further, the project can rely on enterprise R&D labs and production workshops, and jointly build a Youth Innovation and IP Education Base with market regulation, education management centers, and schools, deeply integrating competition resources with daily practice courses.",
-                              "If the first competition operates maturely, it can gradually expand to surrounding towns and even the whole city, while helping outstanding results connect with provincial and national youth innovation competitions."
-                        ]
-                  ],
-                  [
-                        "What This Case Means for My Personal IP",
-                        [
-                              "The Yafan Cup Xiegang Youth Science Innovation Competition is an implementation of my innovation methodology in youth education and local industry settings.",
-                              "It proves that innovation can be trained is not a slogan. It can be designed into a complete system of courses, competitions, enterprise visits, patent search, work making, roadshow defense, and product transformation.",
-                              "From patent examiner, inventor, and patent attorney to innovation methodology researcher and youth innovation textbook author, what I hope to do has always been consistent: help more innovators find real problems, form protectable technical solutions, and make innovation results truly land."
-                        ]
-                  ]
-            ]
-      },
-      "tr": {
-            "docTitle": "Xiegang Yafan Cup Gen?lik Bilimsel ?novasyon Yar??mas? Planlama ?rne?i | Ma Su",
-            "docDescription": "Gen?lik inovasyon e?itimi, fikri m?lkiyet okuryazarl???, kurumsal Ar-Ge kaynaklar? ve ticarile?tirmeyi birle?tiren bir yar??ma planlama ?rne?i.",
-            "eyebrow": "Gen?lik ?novasyon ?rne?i / Yar??ma Tasar?m?",
-            "title": "Yafan Cup Xiegang Gen?lik Bilimsel ?novasyon Yar??mas?: ?novasyon metodolojisini ger?ek sanayi ortam?na ta??mak",
-            "deck": "Bu yaln?zca ??renciler i?in bir yarat?c?l?k yar??mas? de?ildir. Yerel e?itim, kurumsal Ar-Ge, fikri m?lkiyet e?itimi, patent ara?t?rmas?, ?r?n tasar?m? ve ticarile?tirmeyi birle?tiren bir gen?lik inovasyon e?itimi modelidir.",
-            "meta": [
-                  "Yazar: Ma Su",
-                  "Gen?lik inovasyon yar??mas? ?rne?i",
-                  "Ma Su Team Bilgi Merkezi"
-            ],
-            "sections": [
-                  [
-                        "Why Plan This Kind of Competition?",
-                        [
-                              "In recent years, youth science and technology innovation education has been moving from interest activities toward comprehensive capability training. If innovation education stays only at the slogan level, students cannot truly understand how an idea moves from observation, research, design, and making into IP protection and industrial transformation.",
-                              "The core starting point of the Yafan Cup Xiegang Youth Science Innovation Competition is to combine innovation education with IP education, allowing students to complete a full innovation experience in a real industrial setting.",
-                              "The plan positions the competition as a youth innovation education brand activity for Xiegang Town. It serves the cultivation of students innovation thinking, hands-on ability, and IP awareness, while using enterprise resources and expert support to explore a closed loop of education guidance, practical innovation, result protection, and product transformation."
-                        ]
-                  ],
-                  [
-                        "Combining Local Resources, Enterprise Scenarios, and Methodology",
-                        [
-                              "Xiegang Town has a strong educational foundation and practical education scenarios. The local area is promoting a half-day weekly plan during compulsory education and developing practice courses around local resources such as Yinping Mountain Forest Park and Yinshan Wetland Park. This provides a foundation for school participation and regional brand building.",
-                              "Yafan provides a real industrial scenario. The company has long focused on intelligent, healthy, and scientific drinking, with innovative products such as smart thermostatic cups, cooling cups, and fingerprint temperature-display cups, as well as R&D, design, and production capabilities. Using cups as the theme keeps student ideas grounded in materials, structure, function, appearance, smart hardware, and manufacturing processes.",
-                              "This is exactly what my innovation methodology values most: innovation training cannot be separated from real problems. If a child can discover pain points, propose solutions, search existing technologies, design models, and express value around an everyday product such as a cup, that child has completed a full innovation capability exercise."
-                        ]
-                  ],
-                  [
-                        "Competition Theme: Building Dreams with Innovation, Sharing the Future with Cups",
-                        [
-                              "The proposed theme is: Building Dreams with Innovation, Sharing the Future with Cups - Focusing on cup innovation design and lighting up the power of intellectual property.",
-                              "The entries focus on creative cup design and physical making, including functional innovation, material innovation, shape innovation, and smart innovation. This theme is specific enough for students to understand and operate, yet open enough to accommodate ideas from different ages and ability levels.",
-                              "The competition is open to primary and secondary school students within Xiegang Town. It plans to set primary and secondary groups, encourage individual or teams of up to three students, and cover compulsory education schools across the town."
-                        ]
-                  ],
-                  [
-                        "Four-Stage Process: From Ideas to Roadshow",
-                        [
-                              "The competition is designed as four stages, not a one-time work collection.",
-                              "The first stage is promotion, mobilization, and idea collection. Students understand the theme, visit production workshops and R&D labs, and see the full process of how a cup moves from design to production.",
-                              "The second stage is innovation training and IP education. Training includes innovation methodology, IP basics, product design and making guidance, and patent search practice. The key is not telling students to innovate, but teaching them how to use methods to generate high-quality ideas.",
-                              "The third stage is work submission and evaluation. Entry categories include creative design, physical making, and roadshow presentation, evaluating drawings, idea descriptions, physical models, functional implementation, expression ability, and project completeness.",
-                              "The fourth stage is the roadshow final and award ceremony. Finalists present their ideas and works on site, receive evaluation from experts, and expand the impact of the event through media coverage."
-                        ]
-                  ],
-                  [
-                        "Evaluation Standards: Bringing IP Awareness into Innovation Competitions",
-                        [
-                              "The evaluation dimensions in the plan include innovation, practicality, completion quality, IP awareness, and presentation.",
-                              "IP awareness is not an add-on. It is the key difference between this competition and an ordinary creativity contest. Students need to understand that if an idea is to create real value, they must know where existing technologies are, where their improvement lies, and whether it can form a protectable technical solution.",
-                              "This is also the logic of innovation education that I have long emphasized: youth innovation should not only pursue something that looks novel. Students should gradually learn to discover problems, search information, judge differences, protect results, and present value."
-                        ]
-                  ],
-                  [
-                        "Commercialization: Let Students See Ideas Become Products",
-                        [
-                              "Another important design of the competition is the introduction of a commercialization mechanism. For excellent ideas with market potential, the company can select them for product development, include them in the product line, and give students honors, attribution, bonuses, visits, or opportunities to participate in later development.",
-                              "This allows students to directly feel that creativity is not just an idea on paper. Innovation has value, and IP protection is not a distant legal concept but a bridge connecting ideas, products, and markets.",
-                              "For the company, the perspective of young people may also bring new product inspiration. For the locality, this mechanism connects school education, enterprise innovation, and regional brand building."
-                        ]
-                  ],
-                  [
-                        "Follow-up Plan: From One Competition to an Education Brand",
-                        [
-                              "The plan designs the Yafan Cup as a sustainable annual competition rather than a one-time event. Future editions can optimize the competition system and training based on the first edition, gradually improving quality and influence.",
-                              "Going further, the project can rely on enterprise R&D labs and production workshops, and jointly build a Youth Innovation and IP Education Base with market regulation, education management centers, and schools, deeply integrating competition resources with daily practice courses.",
-                              "If the first competition operates maturely, it can gradually expand to surrounding towns and even the whole city, while helping outstanding results connect with provincial and national youth innovation competitions."
-                        ]
-                  ],
-                  [
-                        "What This Case Means for My Personal IP",
-                        [
-                              "The Yafan Cup Xiegang Youth Science Innovation Competition is an implementation of my innovation methodology in youth education and local industry settings.",
-                              "It proves that innovation can be trained is not a slogan. It can be designed into a complete system of courses, competitions, enterprise visits, patent search, work making, roadshow defense, and product transformation.",
-                              "From patent examiner, inventor, and patent attorney to innovation methodology researcher and youth innovation textbook author, what I hope to do has always been consistent: help more innovators find real problems, form protectable technical solutions, and make innovation results truly land."
-                        ]
-                  ]
-            ]
-      }
-},
+          "en": {
+                "docTitle": "Xiegang Yafan Cup Youth Innovation Competition Planning Case | Ma Su",
+                "docDescription": "A competition planning case connecting youth innovation education, IP literacy, enterprise R&D resources, and commercialization.",
+                "eyebrow": "Youth Innovation Case / Competition Design",
+                "title": "Yafan Cup Xiegang Youth Science Innovation Competition: Bringing Innovation Methodology into a Real Industrial Setting",
+                "deck": "This is not simply a student creativity contest. It is a youth innovation education model that connects local education, enterprise R&D, IP literacy, patent search, product design, and commercialization.",
+                "meta": [
+                      "By Ma Su",
+                      "Youth Innovation Competition Case",
+                      "Ma Su Team Knowledge Center"
+                ],
+                "sections": [
+                      [
+                            "Why Plan This Kind of Competition?",
+                            [
+                                  "In recent years, youth science and technology innovation education has been moving from interest activities toward comprehensive capability training. If innovation education stays only at the slogan level, students cannot truly understand how an idea moves from observation, research, design, and making into IP protection and industrial transformation.",
+                                  "The core starting point of the Yafan Cup Xiegang Youth Science Innovation Competition is to combine innovation education with IP education, allowing students to complete a full innovation experience in a real industrial setting.",
+                                  "The plan positions the competition as a youth innovation education brand activity for Xiegang Town. It serves the cultivation of students' innovation thinking, hands-on ability, and IP awareness, while using enterprise resources and expert support to explore a closed loop of education guidance, practical innovation, result protection, and product transformation."
+                            ]
+                      ],
+                      [
+                            "Combining Local Resources, Enterprise Scenarios, and Methodology",
+                            [
+                                  "Xiegang Town has a strong educational foundation and practical education scenarios. The local area is promoting a half-day weekly plan during compulsory education and developing practice courses around local resources such as Yinping Mountain Forest Park and Yinshan Wetland Park. This provides a foundation for school participation and regional brand building.",
+                                  "Yafan provides a real industrial scenario. The company has long focused on intelligent, healthy, and scientific drinking, with innovative products such as smart thermostatic cups, cooling cups, and fingerprint temperature-display cups, as well as R&D, design, and production capabilities. Using cups as the theme keeps student ideas grounded in materials, structure, function, appearance, smart hardware, and manufacturing processes.",
+                                  "This is exactly what my innovation methodology values most: innovation training cannot be separated from real problems. If a child can discover pain points, propose solutions, search existing technologies, design models, and express value around an everyday product such as a cup, that child has completed a full innovation capability exercise."
+                            ]
+                      ],
+                      [
+                            "Competition Theme: Building Dreams with Innovation, Sharing the Future with Cups",
+                            [
+                                  "The proposed theme is: Building Dreams with Innovation, Sharing the Future with Cups - focusing on cup innovation design and lighting up the power of intellectual property.",
+                                  "The entries focus on creative cup design and physical making, including functional innovation, material innovation, shape innovation, and smart innovation. This theme is specific enough for students to understand and operate, yet open enough to accommodate ideas from different ages and ability levels.",
+                                  "The competition is open to primary and secondary school students within Xiegang Town. It plans to set primary and secondary groups, encourage individual or teams of up to three students, and cover compulsory education schools across the town."
+                            ]
+                      ],
+                      [
+                            "Four-Stage Process: From Ideas to Roadshow",
+                            [
+                                  "The competition is designed as four stages, not a one-time work collection.",
+                                  "The first stage is promotion, mobilization, and idea collection. Students understand the theme, visit production workshops and R&D labs, and see the full process of how a cup moves from design to production.",
+                                  "The second stage is innovation training and IP education. Training includes innovation methodology, IP basics, product design and making guidance, and patent search practice. The key is not telling students to innovate, but teaching them how to use methods to generate high-quality ideas.",
+                                  "The third stage is work submission and evaluation. Entry categories include creative design, physical making, and roadshow presentation, evaluating drawings, idea descriptions, physical models, functional implementation, expression ability, and project completeness.",
+                                  "The fourth stage is the roadshow final and award ceremony. Finalists present their ideas and works on site, receive evaluation from experts, and expand the impact of the event through media coverage."
+                            ]
+                      ],
+                      [
+                            "Evaluation Standards: Bringing IP Awareness into Innovation Competitions",
+                            [
+                                  "The evaluation dimensions in the plan include innovation, practicality, completion quality, IP awareness, and presentation.",
+                                  "IP awareness is not an add-on. It is the key difference between this competition and an ordinary creativity contest. Students need to understand that if an idea is to create real value, they must know where existing technologies are, where their improvement lies, and whether it can form a protectable technical solution.",
+                                  "This is also the logic of innovation education that I have long emphasized: youth innovation should not only pursue something that looks novel. Students should gradually learn to discover problems, search information, judge differences, protect results, and present value."
+                            ]
+                      ],
+                      [
+                            "Commercialization: Let Students See Ideas Become Products",
+                            [
+                                  "Another important design of the competition is the introduction of a commercialization mechanism. For excellent ideas with market potential, the company can select them for product development, include them in the product line, and give students honors, attribution, bonuses, visits, or opportunities to participate in later development.",
+                                  "This allows students to directly feel that creativity is not just an idea on paper. Innovation has value, and IP protection is not a distant legal concept but a bridge connecting ideas, products, and markets.",
+                                  "For the company, the perspective of young people may also bring new product inspiration. For the locality, this mechanism connects school education, enterprise innovation, and regional brand building."
+                            ]
+                      ],
+                      [
+                            "Follow-up Plan: From One Competition to an Education Brand",
+                            [
+                                  "The plan designs the Yafan Cup as a sustainable annual competition rather than a one-time event. Future editions can optimize the competition system and training based on the first edition, gradually improving quality and influence.",
+                                  "Going further, the project can rely on enterprise R&D labs and production workshops, and jointly build a Youth Innovation and IP Education Base with market regulation, education management centers, and schools, deeply integrating competition resources with daily practice courses.",
+                                  "If the first competition operates maturely, it can gradually expand to surrounding towns and even the whole city, while helping outstanding results connect with provincial and national youth innovation competitions."
+                            ]
+                      ],
+                      [
+                            "What This Case Means for My Personal IP",
+                            [
+                                  "The Yafan Cup Xiegang Youth Science Innovation Competition is an implementation of my innovation methodology in youth education and local industry settings.",
+                                  "It proves that innovation can be trained is not a slogan. It can be designed into a complete system of courses, competitions, enterprise visits, patent search, work making, roadshow defense, and product transformation.",
+                                  "From patent examiner, inventor, and patent attorney to innovation methodology researcher and youth innovation textbook author, what I hope to do has always been consistent: help more innovators find real problems, form protectable technical solutions, and make innovation results truly land."
+                            ]
+                      ]
+                ]
+          },
+          "zh-hk": {
+                "docTitle": "謝崗雅梵杯青少年科技創新大賽策劃案例 | Ma Su",
+                "docDescription": "一個連接青少年創新教育、知識產權素養、企業研發資源與成果轉化的賽事策劃案例。",
+                "eyebrow": "青少年科創案例 / 賽事設計",
+                "title": "雅梵杯謝崗青少年科技創新大賽：把創新方法論放進真實產業場景",
+                "deck": "這不只是一場學生創意比賽，而是一個把地方教育、企業研發、知識產權素養、專利檢索、產品設計與成果轉化連接起來的青少年創新教育模型。",
+                "meta": [
+                      "作者：馬肅",
+                      "青少年科創賽事案例",
+                      "馬肅團隊知識中心"
+                ],
+                "sections": [
+                      [
+                            "為什麼要策劃這樣一場比賽",
+                            [
+                                  "近年來，青少年科技創新教育正在從興趣活動走向綜合能力培養。如果創新教育只停留在口號層面，學生很難真正理解一個想法如何從觀察、研究、設計、製作，走到知識產權保護與產業轉化。",
+                                  "雅梵杯謝崗青少年科技創新大賽的核心出發點，就是把創新教育和知識產權教育結合起來，讓學生在真實產業場景中完成一次完整的創新體驗。",
+                                  "方案將這項賽事定位為謝崗鎮青少年科技創新教育品牌活動，服務於學生創新思維、動手能力和知識產權意識的培養，同時借助企業資源和專家支持，探索教育引導、實踐創新、成果保護和產品轉化的閉環。"
+                            ]
+                      ],
+                      [
+                            "地方、企業與方法論的結合",
+                            [
+                                  "謝崗鎮具備良好的教育基礎和實踐教育場景。當地正在推進義務教育階段每週半天計劃，並圍繞銀瓶山森林公園、銀山濕地公園等地方資源開發實踐課程，這為學校參與和區域品牌建設提供了基礎。",
+                                  "雅梵提供的則是真實產業場景。企業長期聚焦智能、健康、科學飲水，擁有智能恆溫杯、冷水杯、指紋顯溫杯等創新產品，也具備研發、設計和生產能力。以杯子為主題，能讓學生的創意落到材料、結構、功能、外觀、智能硬件和製造工藝上。",
+                                  "這正是我一直重視的創新方法論：創新訓練不能脫離真問題。如果孩子能圍繞杯子這樣的日常產品發現痛點、提出方案、檢索現有技術、設計模型並表達價值，他就完成了一次完整的創新能力訓練。"
+                            ]
+                      ],
+                      [
+                            "賽事主題：科創築夢，杯享未來",
+                            [
+                                  "方案擬定的主題是：科創築夢，杯享未來，聚焦杯具創新設計，點亮知識產權力量。",
+                                  "參賽作品聚焦杯具創意設計與實物製作，包括功能創新、材料創新、造型創新和智能化創新。這個主題足夠具體，學生容易理解和操作；同時又保留了開放性，可以容納不同年齡段、不同能力層次的創意。",
+                                  "賽事面向謝崗鎮內中小學生，計劃設置小學組和中學組，鼓勵個人或三人以內團隊參賽，覆蓋全鎮義務教育階段學校。"
+                            ]
+                      ],
+                      [
+                            "四階段流程：從創意到路演",
+                            [
+                                  "這場比賽被設計為四個階段，而不是一次性的作品徵集。",
+                                  "第一階段是宣傳動員與創意徵集。學生了解賽事主題，走進企業生產車間和研發實驗室，看到一個杯子從設計到生產的完整流程。",
+                                  "第二階段是創新培訓與知識產權教育。培訓內容包括創新方法論、知識產權基礎、產品設計與製作指導、專利檢索實操。關鍵不在於告訴學生要創新，而是教他們如何使用方法產生高質量創意。",
+                                  "第三階段是作品提交與評審。作品類別包括創意設計、實物製作和路演展示，從圖紙、創意說明、實物模型、功能實現、表達能力和項目完整度等方面進行評價。",
+                                  "第四階段是路演決賽與頒獎。入圍學生現場展示創意和作品，接受專家評審，並通過媒體宣傳擴大活動影響力。"
+                            ]
+                      ],
+                      [
+                            "評價標準：把知識產權意識納入科創比賽",
+                            [
+                                  "方案中的評價維度包括創新性、實用性、完成度、知識產權意識和展示表達。",
+                                  "知識產權意識不是附加項，而是這場比賽區別於普通創意比賽的關鍵。學生要理解，一個想法如果要產生真正價值，就需要知道現有技術在哪裡，自己的改進點在哪裡，是否能形成可保護的技術方案。",
+                                  "這也是我一直強調的創新教育邏輯：青少年科創不能只追求看起來新奇，而要逐步學會發現問題、檢索信息、判斷差異、保護成果和表達價值。"
+                            ]
+                      ],
+                      [
+                            "成果轉化：讓學生看到創意可以變成產品",
+                            [
+                                  "這場比賽的另一個重要設計，是引入成果轉化機制。對具有市場潛力的優秀創意，企業可以選擇進行產品開發，納入產品線，並給予學生榮譽、署名、獎金、參觀或參與後續開發的機會。",
+                                  "這能讓學生直接感受到，創意不只是紙面上的想法。創新有價值，知識產權保護也不是遙遠的法律概念，而是連接創意、產品和市場的橋樑。",
+                                  "對企業而言，青少年的視角也可能帶來新的產品靈感；對地方而言，這種機制能把學校教育、企業創新和區域品牌建設連接起來。"
+                            ]
+                      ],
+                      [
+                            "後續規劃：從一次比賽到一個教育品牌",
+                            [
+                                  "方案把雅梵杯設計為可持續舉辦的年度賽事，而不是一次性活動。後續可以根據首屆經驗優化賽制和培訓內容，逐步提升賽事質量與影響力。",
+                                  "更進一步，項目還可以依托企業研發實驗室和生產車間，聯合市場監管、教育管理中心和學校共建青少年科創與知識產權教育基地，把賽事資源與日常實踐課程深度結合。",
+                                  "如果首屆比賽運作成熟，未來還可以逐步拓展至周邊鎮街乃至全市，同時幫助優秀成果對接省級、國家級青少年科技創新賽事。"
+                            ]
+                      ],
+                      [
+                            "這個案例對我的個人 IP 意味著什麼",
+                            [
+                                  "雅梵杯謝崗青少年科技創新大賽，是我的創新方法論在青少年教育和地方產業場景中的一次落地。",
+                                  "它證明，創新可以被訓練並不是一句口號，而是可以被設計成課程、賽事、企業參訪、專利檢索、作品製作、路演答辯和產品轉化的一整套系統。",
+                                  "從專利審查員、發明人、專利代理師，到創新方法論研究者、青少年科創教材作者，我希望做的事情始終一致：幫助更多創新者找到真問題，形成可保護的技術方案，並讓創新成果真正落地。"
+                            ]
+                      ]
+                ]
+          },
+          "ja": {
+                "docTitle": "謝崗雅梵杯青少年科学技術イノベーションコンテスト企画事例 | Ma Su",
+                "docDescription": "青少年のイノベーション教育、知的財産リテラシー、企業の研究開発資源、成果の事業化をつなぐコンテスト企画事例。",
+                "eyebrow": "青少年イノベーション事例 / コンテスト設計",
+                "title": "雅梵杯謝崗青少年科学技術イノベーションコンテスト：イノベーション方法論を実際の産業現場へ",
+                "deck": "これは単なる学生向けアイデアコンテストではありません。地域教育、企業R&D、知的財産教育、特許調査、製品設計、成果の事業化をつなぐ青少年イノベーション教育モデルです。",
+                "meta": [
+                      "著者：Ma Su",
+                      "青少年イノベーションコンテスト事例",
+                      "Ma Su Team ナレッジセンター"
+                ],
+                "sections": [
+                      [
+                            "なぜこのようなコンテストを企画するのか",
+                            [
+                                  "近年、青少年向けの科学技術イノベーション教育は、興味活動から総合的な能力育成へと移りつつあります。創新教育がスローガンだけにとどまれば、子どもたちは一つのアイデアが観察、調査、設計、制作を経て、知的財産保護や産業化へ進む過程を本当には理解できません。",
+                                  "雅梵杯謝崗青少年科学技術イノベーションコンテストの出発点は、イノベーション教育と知的財産教育を結びつけ、学生が実際の産業環境の中で一連の創新体験を完結できるようにすることです。",
+                                  "この企画では、コンテストを謝崗鎮の青少年科学技術イノベーション教育ブランド活動と位置づけています。学生の創造的思考、実践力、知的財産意識を育てるとともに、企業資源と専門家の支援を活用し、教育的導き、実践的創新、成果保護、製品化をつなぐ循環を探ります。"
+                            ]
+                      ],
+                      [
+                            "地域、企業、方法論を結びつける",
+                            [
+                                  "謝崗鎮には良好な教育基盤と実践教育の場があります。地域では義務教育段階で週半日の実践活動を進め、銀瓶山森林公園や銀山湿地公園などの地域資源を活用した実践课程を開発しています。これは学校参加と地域ブランドづくりの土台になります。",
+                                  "雅梵が提供するのは実際の産業シナリオです。同社は長年、スマートで健康的かつ科学的な飲水に注力し、スマート恒温カップ、冷水カップ、指紋温度表示カップなどの革新的製品を持ち、研究開発、設計、生産能力も備えています。カップをテーマにすることで、学生のアイデアを材料、構造、機能、外観、スマートハードウェア、製造プロセスへ落とし込めます。",
+                                  "これは私が重視してきたイノベーション方法論そのものです。創新訓練は実際の問題から切り離せません。子どもがカップという日常製品をめぐって課題を発見し、解決案を出し、既存技術を調べ、モデルを設計し、価値を表現できれば、完全な創新能力の訓練を経験したことになります。"
+                            ]
+                      ],
+                      [
+                            "コンテストテーマ：科学技術で夢を築き、カップで未来を分かち合う",
+                            [
+                                  "提案されたテーマは、科学技術で夢を築き、カップで未来を分かち合う。カップの革新的デザインに焦点を当て、知的財産の力を照らす、というものです。",
+                                  "応募作品はカップの創意設計と実物制作を中心に、機能革新、材料革新、造形革新、スマート化の革新を含みます。このテーマは学生が理解しやすく実行しやすい一方で、年齢や能力の異なる学生のアイデアを受け止める開放性もあります。",
+                                  "コンテストは謝崗鎮内の小中学生を対象とし、小学生組と中学生組を設ける予定です。個人または3名以内のチームでの参加を奨励し、町内の義務教育段階の学校を対象とします。"
+                            ]
+                      ],
+                      [
+                            "四段階の流れ：アイデアからロードショーへ",
+                            [
+                                  "このコンテストは単発の作品募集ではなく、四つの段階として設計されています。",
+                                  "第一段階は広報、参加促進、アイデア募集です。学生はテーマを理解し、企業の生産現場や研究開発ラボを訪れ、カップが設計から生産に至るまでの全工程を見ます。",
+                                  "第二段階はイノベーション訓練と知的財産教育です。内容には創新方法論、知的財産の基礎、製品設計と制作指導、特許検索の実践が含まれます。重要なのは学生に創新しなさいと言うことではなく、方法を使って質の高いアイデアを生み出す方法を教えることです。",
+                                  "第三段階は作品提出と審査です。応募区分には創意設計、実物制作、ロードショー発表があり、図面、アイデア説明、実物モデル、機能実現、表現力、プロジェクト完成度などを評価します。",
+                                  "第四段階はロードショー決勝と表彰式です。ファイナリストは現場で自分のアイデアと作品を発表し、専門家の審査を受け、メディア発信を通じてイベントの影響力を広げます。"
+                            ]
+                      ],
+                      [
+                            "評価基準：知的財産意識を科創コンテストに組み込む",
+                            [
+                                  "企画の評価軸には、革新性、実用性、完成度、知的財産意識、発表表現が含まれます。",
+                                  "知的財産意識は付け足しではありません。このコンテストが一般的なアイデアコンテストと異なる核心です。学生は、一つのアイデアが本当に価値を生むには、既存技術がどこにあり、自分の改善点がどこにあり、保護可能な技術方案になり得るかを理解する必要があります。",
+                                  "これは私が長く強調してきた創新教育の論理でもあります。青少年の科創は見た目の目新しさだけを追うべきではなく、問題発見、情報検索、差異判断、成果保護、価値表現を少しずつ学ぶべきです。"
+                            ]
+                      ],
+                      [
+                            "成果転化：アイデアが製品になることを学生に見せる",
+                            [
+                                  "このコンテストのもう一つの重要な設計は、成果転化の仕組みを取り入れることです。市場性のある優れたアイデアについては、企業が製品開発の対象として選び、製品ラインに組み込み、学生に栄誉、氏名表示、賞金、見学、または後続開発への参加機会を与えることができます。",
+                                  "これにより学生は、創意が紙の上の考えだけではないことを直接感じられます。イノベーションには価値があり、知的財産保護も遠い法律概念ではなく、アイデア、製品、市場を結ぶ橋なのです。",
+                                  "企業にとって、若い世代の視点は新しい製品発想をもたらす可能性があります。地域にとっても、この仕組みは学校教育、企業創新、地域ブランド構築をつなぎます。"
+                            ]
+                      ],
+                      [
+                            "今後の展開：一度のコンテストから教育ブランドへ",
+                            [
+                                  "この企画では雅梵杯を一回限りの活動ではなく、継続的に開催できる年次コンテストとして設計しています。今後は初回の経験に基づいて制度と訓練内容を改善し、赛事の質と影響力を高めていけます。",
+                                  "さらに、企業の研究開発ラボと生産現場を基盤に、市場監督部門、教育管理センター、学校と連携して青少年科学技術イノベーション・知的財産教育基地を共同でつくり、コンテスト資源と日常の実践课程を深く結びつけることもできます。",
+                                  "初回コンテストの運営が成熟すれば、将来的には周辺の町や市全体へ広げ、優秀な成果を省級・国家級の青少年科学技術イノベーションコンテストにつなげることも可能です。"
+                            ]
+                      ],
+                      [
+                            "この事例が私の個人IPにとって意味すること",
+                            [
+                                  "雅梵杯謝崗青少年科学技術イノベーションコンテストは、私の創新方法論を青少年教育と地域産業の場に落とし込む一つの実践です。",
+                                  "それは、イノベーションは訓練できる、という考えが単なるスローガンではないことを示しています。课程、赛事、企業訪問、特許検索、作品制作、ロードショー答弁、製品化を含む一つのシステムとして設計できるのです。",
+                                  "特許審査官、発明者、弁理士から、創新方法論の研究者、青少年科創教材の著者へ。私がやりたいことは一貫しています。より多くの創新者が真の問題を見つけ、保護可能な技術方案を形成し、創新成果を実際に社会へ届けられるよう支援することです。"
+                            ]
+                      ]
+                ]
+          },
+          "tr": {
+                "docTitle": "Xiegang Yafan Cup Gençlik Bilim ve İnovasyon Yarışması Planlama Örneği | Ma Su",
+                "docDescription": "Gençlik inovasyon eğitimi, fikri mülkiyet okuryazarlığı, kurumsal Ar-Ge kaynakları ve sonuçların ticarileştirilmesini birleştiren bir yarışma planlama örneği.",
+                "eyebrow": "Gençlik İnovasyon Örneği / Yarışma Tasarımı",
+                "title": "Yafan Cup Xiegang Gençlik Bilim ve İnovasyon Yarışması: İnovasyon metodolojisini gerçek bir sanayi ortamına taşımak",
+                "deck": "Bu yalnızca öğrenciler için bir yaratıcılık yarışması değildir. Yerel eğitim, kurumsal Ar-Ge, fikri mülkiyet okuryazarlığı, patent araştırması, ürün tasarımı ve ticarileştirmeyi birleştiren bir gençlik inovasyon eğitimi modelidir.",
+                "meta": [
+                      "Yazar: Ma Su",
+                      "Gençlik inovasyon yarışması örneği",
+                      "Ma Su Team Bilgi Merkezi"
+                ],
+                "sections": [
+                      [
+                            "Neden Böyle Bir Yarışma Planlanmalı?",
+                            [
+                                  "Son yıllarda gençlere yönelik bilim ve teknoloji inovasyon eğitimi, ilgi etkinliklerinden kapsamlı yetkinlik gelişimine doğru ilerliyor. İnovasyon eğitimi yalnızca slogan düzeyinde kalırsa, öğrenciler bir fikrin gözlem, araştırma, tasarım ve üretimden fikri mülkiyet korumasına ve endüstriyel dönüşüme nasıl ilerlediğini gerçekten anlayamaz.",
+                                  "Yafan Cup Xiegang Gençlik Bilim ve İnovasyon Yarışması'nın temel çıkış noktası, inovasyon eğitimini fikri mülkiyet eğitimiyle birleştirmek ve öğrencilerin gerçek bir sanayi ortamında eksiksiz bir inovasyon deneyimi yaşamalarını sağlamaktır.",
+                                  "Plan, yarışmayı Xiegang Kasabası için bir gençlik bilim ve teknoloji inovasyon eğitimi marka etkinliği olarak konumlandırıyor. Öğrencilerin yaratıcı düşünme, uygulama becerisi ve fikri mülkiyet bilincini geliştirmeyi amaçlarken, kurumsal kaynaklar ve uzman desteğiyle eğitim rehberliği, pratik inovasyon, sonuç koruması ve ürün dönüşümünden oluşan bir döngüyü araştırıyor."
+                            ]
+                      ],
+                      [
+                            "Yerel Kaynaklar, Kurumsal Senaryolar ve Metodolojiyi Birleştirmek",
+                            [
+                                  "Xiegang Kasabası güçlü bir eğitim temelinin ve pratik eğitim senaryolarının üzerine kuruludur. Bölge, zorunlu eğitim aşamasında haftada yarım günlük uygulama planını teşvik ediyor ve Yinping Dağı Orman Parkı ile Yinshan Sulak Alan Parkı gibi yerel kaynaklar etrafında uygulamalı dersler geliştiriyor. Bu, okulların katılımı ve bölgesel marka inşası için bir temel sağlar.",
+                                  "Yafan ise gerçek bir sanayi senaryosu sunar. Şirket uzun süredir akıllı, sağlıklı ve bilimsel içme deneyimine odaklanıyor; akıllı sabit sıcaklık bardakları, soğutma bardakları ve parmak iziyle sıcaklık gösteren bardaklar gibi yenilikçi ürünlerin yanı sıra Ar-Ge, tasarım ve üretim yeteneklerine sahiptir. Bardak temasını kullanmak, öğrencilerin fikirlerini malzeme, yapı, işlev, görünüm, akıllı donanım ve üretim süreçlerine dayandırır.",
+                                  "Bu, inovasyon metodolojimde en çok önem verdiğim noktadır: inovasyon eğitimi gerçek problemlerden ayrılamaz. Bir çocuk bardak gibi günlük bir ürün etrafında sorun noktalarını keşfedebiliyor, çözüm önerebiliyor, mevcut teknolojileri araştırabiliyor, model tasarlayabiliyor ve değeri ifade edebiliyorsa, eksiksiz bir inovasyon yetkinliği çalışması yapmış demektir."
+                            ]
+                      ],
+                      [
+                            "Yarışma Teması: İnovasyonla Hayal Kurmak, Bardaklarla Geleceği Paylaşmak",
+                            [
+                                  "Önerilen tema şudur: İnovasyonla hayal kurmak, bardaklarla geleceği paylaşmak; bardak inovasyon tasarımına odaklanmak ve fikri mülkiyetin gücünü görünür kılmak.",
+                                  "Başvurular yaratıcı bardak tasarımı ve fiziksel üretime odaklanır; işlevsel inovasyon, malzeme inovasyonu, biçim inovasyonu ve akıllı inovasyonu kapsar. Bu tema öğrencilerin anlayıp uygulayabileceği kadar somut, farklı yaş ve yetenek düzeylerinden fikirleri barındıracak kadar da açıktır.",
+                                  "Yarışma, Xiegang Kasabası'ndaki ilkokul ve ortaokul öğrencilerine açıktır. İlkokul ve ortaokul gruplarının oluşturulması, bireysel katılımın veya üç kişiye kadar ekiplerin teşvik edilmesi ve kasabadaki zorunlu eğitim okullarının kapsanması planlanmaktadır."
+                            ]
+                      ],
+                      [
+                            "Dört Aşamalı Süreç: Fikirden Roadshow'a",
+                            [
+                                  "Yarışma tek seferlik bir eser toplama etkinliği olarak değil, dört aşamalı bir süreç olarak tasarlanmıştır.",
+                                  "İlk aşama tanıtım, mobilizasyon ve fikir toplamadır. Öğrenciler temayı anlar, üretim atölyelerini ve Ar-Ge laboratuvarlarını ziyaret eder, bir bardağın tasarımdan üretime uzanan tüm sürecini görür.",
+                                  "İkinci aşama inovasyon eğitimi ve fikri mülkiyet eğitimidir. Eğitim; inovasyon metodolojisi, fikri mülkiyet temelleri, ürün tasarımı ve üretim rehberliği ile patent araştırması uygulamasını kapsar. Asıl mesele öğrencilere inovasyon yapmalarını söylemek değil, yöntem kullanarak kaliteli fikir üretmeyi öğretmektir.",
+                                  "Üçüncü aşama eser teslimi ve değerlendirmedir. Başvuru kategorileri yaratıcı tasarım, fiziksel üretim ve roadshow sunumunu içerir; çizimler, fikir açıklamaları, fiziksel modeller, işlevin gerçekleştirilmesi, ifade becerisi ve proje bütünlüğü değerlendirilir.",
+                                  "Dördüncü aşama roadshow finali ve ödül törenidir. Finale kalan öğrenciler fikirlerini ve eserlerini sahada sunar, uzman değerlendirmesi alır ve medya duyurularıyla etkinliğin etkisi genişletilir."
+                            ]
+                      ],
+                      [
+                            "Değerlendirme Standartları: Fikri Mülkiyet Bilincini İnovasyon Yarışmasına Katmak",
+                            [
+                                  "Plandaki değerlendirme boyutları inovasyon, pratiklik, tamamlanma kalitesi, fikri mülkiyet bilinci ve sunumu içerir.",
+                                  "Fikri mülkiyet bilinci bir ek unsur değildir. Bu yarışmayı sıradan bir yaratıcılık yarışmasından ayıran temel farktır. Öğrenciler, bir fikrin gerçek değer yaratması için mevcut teknolojilerin nerede olduğunu, kendi iyileştirme noktasının nerede bulunduğunu ve korunabilir bir teknik çözüm oluşturup oluşturamayacağını anlamalıdır.",
+                                  "Bu, uzun süredir vurguladığım inovasyon eğitimi mantığıdır: gençlik inovasyonu yalnızca yeni görünen şeylerin peşinden gitmemeli; öğrenciler problem keşfetmeyi, bilgi aramayı, farklılıkları değerlendirmeyi, sonuçları korumayı ve değeri ifade etmeyi aşamalı olarak öğrenmelidir."
+                            ]
+                      ],
+                      [
+                            "Ticarileştirme: Öğrencilerin Fikirlerin Ürüne Dönüşebildiğini Görmesi",
+                            [
+                                  "Yarışmanın bir diğer önemli tasarımı, sonuçların ticarileştirilmesi mekanizmasını dahil etmesidir. Pazar potansiyeli olan seçkin fikirler için şirket ürün geliştirme yapmayı, bunları ürün hattına eklemeyi ve öğrencilere onur, isim atfı, ödül, ziyaret veya sonraki geliştirme sürecine katılım fırsatları sunmayı seçebilir.",
+                                  "Bu, öğrencilerin yaratıcılığın yalnızca kağıt üzerindeki bir fikir olmadığını doğrudan hissetmelerini sağlar. İnovasyonun değeri vardır; fikri mülkiyet koruması da uzak bir hukuki kavram değil, fikirleri, ürünleri ve pazarları birbirine bağlayan bir köprüdür.",
+                                  "Şirket için gençlerin bakış açısı yeni ürün ilhamı getirebilir. Yerel yönetim açısından ise bu mekanizma okul eğitimini, kurumsal inovasyonu ve bölgesel marka inşasını birbirine bağlar."
+                            ]
+                      ],
+                      [
+                            "Sonraki Plan: Tek Bir Yarışmadan Eğitim Markasına",
+                            [
+                                  "Plan, Yafan Cup'ı tek seferlik bir etkinlik yerine sürdürülebilir yıllık bir yarışma olarak tasarlar. Gelecek edisyonlar, ilk deneyime dayanarak yarışma sistemini ve eğitim içeriğini optimize edebilir, kaliteyi ve etkiyi kademeli olarak artırabilir.",
+                                  "Daha ileri aşamada proje, şirketin Ar-Ge laboratuvarlarına ve üretim atölyelerine dayanarak piyasa düzenleme birimleri, eğitim yönetim merkezleri ve okullarla birlikte Gençlik İnovasyon ve Fikri Mülkiyet Eğitim Üssü kurabilir; yarışma kaynaklarını günlük uygulamalı derslerle derinlemesine bütünleştirebilir.",
+                                  "İlk yarışma olgun biçimde işlerse, gelecekte çevre kasabalara ve hatta tüm şehre kademeli olarak genişleyebilir; aynı zamanda başarılı sonuçların il düzeyi ve ulusal gençlik bilim ve teknoloji inovasyon yarışmalarıyla bağlantı kurmasına yardımcı olabilir."
+                            ]
+                      ],
+                      [
+                            "Bu Örneğin Kişisel IP'm İçin Anlamı",
+                            [
+                                  "Yafan Cup Xiegang Gençlik Bilim ve İnovasyon Yarışması, inovasyon metodolojimin gençlik eğitimi ve yerel sanayi ortamlarında uygulanmasıdır.",
+                                  "Bu örnek, inovasyon eğitilebilir sözünün bir slogan olmadığını kanıtlar. Dersler, yarışmalar, şirket ziyaretleri, patent araştırması, eser üretimi, roadshow savunması ve ürün dönüşümünden oluşan eksiksiz bir sisteme tasarlanabilir.",
+                                  "Patent inceleme uzmanı, mucit ve patent vekilinden inovasyon metodolojisi araştırmacısına ve gençlik inovasyon ders kitabı yazarına uzanan yolda yapmak istediğim şey hep aynıdır: daha fazla yenilikçinin gerçek problemleri bulmasına, korunabilir teknik çözümler oluşturmasına ve inovasyon sonuçlarını gerçekten hayata geçirmesine yardımcı olmak."
+                            ]
+                      ]
+                ]
+          },
+          "vi": {
+                "docTitle": "Trường hợp lập kế hoạch Cuộc thi Sáng tạo Khoa học Thanh thiếu niên Xiegang Yafan Cup | Ma Su",
+                "docDescription": "Một trường hợp lập kế hoạch cuộc thi kết nối giáo dục đổi mới thanh thiếu niên, hiểu biết sở hữu trí tuệ, nguồn lực R&D của doanh nghiệp và chuyển hóa kết quả.",
+                "eyebrow": "Trường hợp đổi mới thanh thiếu niên / Thiết kế cuộc thi",
+                "title": "Yafan Cup Xiegang: Đưa phương pháp luận đổi mới vào bối cảnh công nghiệp thực tế",
+                "deck": "Đây không chỉ là một cuộc thi ý tưởng của học sinh, mà là mô hình giáo dục đổi mới thanh thiếu niên kết nối giáo dục địa phương, R&D doanh nghiệp, hiểu biết sở hữu trí tuệ, tra cứu sáng chế, thiết kế sản phẩm và thương mại hóa.",
+                "meta": [
+                      "Tác giả: Ma Su",
+                      "Trường hợp cuộc thi đổi mới thanh thiếu niên",
+                      "Trung tâm tri thức Ma Su Team"
+                ],
+                "sections": [
+                      [
+                            "Vì sao cần lập kế hoạch cho một cuộc thi như vậy?",
+                            [
+                                  "Những năm gần đây, giáo dục đổi mới khoa học và công nghệ cho thanh thiếu niên đang chuyển từ hoạt động sở thích sang bồi dưỡng năng lực tổng hợp. Nếu giáo dục đổi mới chỉ dừng ở khẩu hiệu, học sinh khó có thể thật sự hiểu một ý tưởng đi từ quan sát, nghiên cứu, thiết kế, chế tạo đến bảo hộ sở hữu trí tuệ và chuyển hóa công nghiệp như thế nào.",
+                                  "Điểm xuất phát cốt lõi của Cuộc thi Sáng tạo Khoa học Thanh thiếu niên Xiegang Yafan Cup là kết hợp giáo dục đổi mới với giáo dục sở hữu trí tuệ, để học sinh hoàn thành một trải nghiệm đổi mới trọn vẹn trong bối cảnh công nghiệp thực tế.",
+                                  "Kế hoạch định vị cuộc thi là hoạt động thương hiệu giáo dục đổi mới khoa học và công nghệ thanh thiếu niên của thị trấn Xiegang. Hoạt động phục vụ việc bồi dưỡng tư duy sáng tạo, năng lực thực hành và ý thức sở hữu trí tuệ của học sinh, đồng thời dựa vào nguồn lực doanh nghiệp và hỗ trợ chuyên gia để khám phá vòng khép kín gồm định hướng giáo dục, đổi mới thực tiễn, bảo vệ thành quả và chuyển hóa sản phẩm."
+                            ]
+                      ],
+                      [
+                            "Kết hợp địa phương, doanh nghiệp và phương pháp luận",
+                            [
+                                  "Thị trấn Xiegang có nền tảng giáo dục và bối cảnh thực hành tốt. Địa phương đang thúc đẩy kế hoạch nửa ngày mỗi tuần trong giai đoạn giáo dục bắt buộc, đồng thời phát triển các khóa học thực hành quanh những tài nguyên như Công viên rừng núi Yinping và Công viên đất ngập nước Yinshan. Điều này tạo nền tảng cho sự tham gia của nhà trường và xây dựng thương hiệu khu vực.",
+                                  "Yafan cung cấp một bối cảnh công nghiệp thực tế. Doanh nghiệp này lâu nay tập trung vào uống nước thông minh, lành mạnh và khoa học, có các sản phẩm đổi mới như cốc giữ nhiệt thông minh, cốc làm mát, cốc hiển thị nhiệt độ bằng vân tay, đồng thời có năng lực R&D, thiết kế và sản xuất. Lấy chiếc cốc làm chủ đề giúp ý tưởng của học sinh bám vào vật liệu, kết cấu, chức năng, hình dáng, phần cứng thông minh và quy trình chế tạo.",
+                                  "Đây chính là điều phương pháp luận đổi mới của tôi coi trọng nhất: huấn luyện đổi mới không thể tách khỏi vấn đề thật. Nếu một đứa trẻ có thể phát hiện điểm đau, đề xuất giải pháp, tra cứu công nghệ hiện có, thiết kế mô hình và diễn đạt giá trị quanh một sản phẩm hằng ngày như chiếc cốc, em đó đã hoàn thành một bài luyện năng lực đổi mới trọn vẹn."
+                            ]
+                      ],
+                      [
+                            "Chủ đề cuộc thi: Dựng ước mơ bằng khoa học, cùng chiếc cốc chia sẻ tương lai",
+                            [
+                                  "Chủ đề đề xuất là: Dựng ước mơ bằng khoa học, cùng chiếc cốc chia sẻ tương lai; tập trung vào thiết kế đổi mới cho cốc và thắp sáng sức mạnh của sở hữu trí tuệ.",
+                                  "Tác phẩm dự thi tập trung vào thiết kế sáng tạo và chế tạo vật thật của cốc, bao gồm đổi mới chức năng, đổi mới vật liệu, đổi mới tạo hình và đổi mới thông minh. Chủ đề này đủ cụ thể để học sinh hiểu và thao tác, nhưng cũng đủ mở để chứa đựng ý tưởng của các độ tuổi và mức năng lực khác nhau.",
+                                  "Cuộc thi hướng tới học sinh tiểu học và trung học trong thị trấn Xiegang. Kế hoạch dự kiến lập nhóm tiểu học và nhóm trung học, khuyến khích cá nhân hoặc đội tối đa ba học sinh tham gia, bao phủ các trường trong giai đoạn giáo dục bắt buộc của toàn thị trấn."
+                            ]
+                      ],
+                      [
+                            "Quy trình bốn giai đoạn: Từ ý tưởng đến roadshow",
+                            [
+                                  "Cuộc thi được thiết kế thành bốn giai đoạn, không phải một lần thu tác phẩm đơn lẻ.",
+                                  "Giai đoạn thứ nhất là truyền thông, vận động và thu thập ý tưởng. Học sinh hiểu chủ đề, tham quan xưởng sản xuất và phòng thí nghiệm R&D của doanh nghiệp, nhìn thấy toàn bộ quá trình một chiếc cốc đi từ thiết kế đến sản xuất.",
+                                  "Giai đoạn thứ hai là đào tạo đổi mới và giáo dục sở hữu trí tuệ. Nội dung bao gồm phương pháp luận đổi mới, kiến thức cơ bản về sở hữu trí tuệ, hướng dẫn thiết kế và chế tạo sản phẩm, thực hành tra cứu sáng chế. Điều quan trọng không phải là bảo học sinh hãy đổi mới, mà là dạy các em dùng phương pháp để tạo ra ý tưởng chất lượng cao.",
+                                  "Giai đoạn thứ ba là nộp tác phẩm và đánh giá. Các hạng mục dự thi gồm thiết kế sáng tạo, chế tạo vật thật và trình bày roadshow; đánh giá qua bản vẽ, thuyết minh ý tưởng, mô hình thực vật, mức độ hiện thực hóa chức năng, năng lực diễn đạt và độ hoàn chỉnh của dự án.",
+                                  "Giai đoạn thứ tư là chung kết roadshow và lễ trao giải. Học sinh vào chung kết trình bày ý tưởng và tác phẩm tại hiện trường, nhận đánh giá từ chuyên gia, đồng thời mở rộng ảnh hưởng của sự kiện thông qua truyền thông."
+                            ]
+                      ],
+                      [
+                            "Tiêu chuẩn đánh giá: Đưa ý thức sở hữu trí tuệ vào cuộc thi khoa học sáng tạo",
+                            [
+                                  "Các chiều đánh giá trong kế hoạch bao gồm tính đổi mới, tính thực dụng, mức độ hoàn thành, ý thức sở hữu trí tuệ và khả năng trình bày.",
+                                  "Ý thức sở hữu trí tuệ không phải là phần thêm vào. Đây là điểm khác biệt then chốt giữa cuộc thi này và một cuộc thi sáng tạo thông thường. Học sinh cần hiểu rằng nếu một ý tưởng muốn tạo ra giá trị thật, các em phải biết công nghệ hiện có nằm ở đâu, điểm cải tiến của mình ở đâu, và liệu nó có thể hình thành một giải pháp kỹ thuật có thể được bảo hộ hay không.",
+                                  "Đây cũng là logic giáo dục đổi mới mà tôi luôn nhấn mạnh: khoa học sáng tạo thanh thiếu niên không nên chỉ theo đuổi thứ trông có vẻ mới lạ. Học sinh cần dần học cách phát hiện vấn đề, tra cứu thông tin, phán đoán khác biệt, bảo vệ kết quả và trình bày giá trị."
+                            ]
+                      ],
+                      [
+                            "Chuyển hóa kết quả: Để học sinh thấy ý tưởng có thể thành sản phẩm",
+                            [
+                                  "Một thiết kế quan trọng khác của cuộc thi là đưa vào cơ chế chuyển hóa kết quả. Với những ý tưởng xuất sắc có tiềm năng thị trường, doanh nghiệp có thể chọn phát triển sản phẩm, đưa vào dòng sản phẩm, đồng thời trao cho học sinh danh dự, ghi tên, tiền thưởng, chuyến tham quan hoặc cơ hội tham gia phát triển tiếp theo.",
+                                  "Điều này giúp học sinh trực tiếp cảm nhận rằng sáng tạo không chỉ là ý tưởng trên giấy. Đổi mới có giá trị, và bảo hộ sở hữu trí tuệ cũng không phải khái niệm pháp lý xa vời mà là cây cầu kết nối ý tưởng, sản phẩm và thị trường.",
+                                  "Đối với doanh nghiệp, góc nhìn của người trẻ cũng có thể mang đến cảm hứng sản phẩm mới. Đối với địa phương, cơ chế này kết nối giáo dục nhà trường, đổi mới của doanh nghiệp và xây dựng thương hiệu khu vực."
+                            ]
+                      ],
+                      [
+                            "Kế hoạch tiếp theo: Từ một cuộc thi thành một thương hiệu giáo dục",
+                            [
+                                  "Kế hoạch thiết kế Yafan Cup như một cuộc thi thường niên bền vững, không phải sự kiện một lần. Các kỳ sau có thể dựa trên kinh nghiệm kỳ đầu để tối ưu hệ thống thi và nội dung đào tạo, từng bước nâng cao chất lượng và ảnh hưởng.",
+                                  "Xa hơn, dự án có thể dựa vào phòng thí nghiệm R&D và xưởng sản xuất của doanh nghiệp, cùng cơ quan quản lý thị trường, trung tâm quản lý giáo dục và nhà trường xây dựng Cơ sở Giáo dục Đổi mới Thanh thiếu niên và Sở hữu trí tuệ, kết hợp sâu tài nguyên cuộc thi với các khóa học thực hành hằng ngày.",
+                                  "Nếu cuộc thi đầu tiên vận hành chín muồi, tương lai có thể từng bước mở rộng sang các thị trấn lân cận, thậm chí toàn thành phố, đồng thời giúp các kết quả xuất sắc kết nối với các cuộc thi đổi mới khoa học và công nghệ thanh thiếu niên cấp tỉnh và cấp quốc gia."
+                            ]
+                      ],
+                      [
+                            "Trường hợp này có ý nghĩa gì với IP cá nhân của tôi",
+                            [
+                                  "Cuộc thi Sáng tạo Khoa học Thanh thiếu niên Xiegang Yafan Cup là một lần triển khai phương pháp luận đổi mới của tôi trong giáo dục thanh thiếu niên và bối cảnh công nghiệp địa phương.",
+                                  "Nó chứng minh rằng câu nói đổi mới có thể được huấn luyện không phải khẩu hiệu. Nó có thể được thiết kế thành một hệ thống hoàn chỉnh gồm khóa học, cuộc thi, tham quan doanh nghiệp, tra cứu sáng chế, chế tạo tác phẩm, bảo vệ roadshow và chuyển hóa sản phẩm.",
+                                  "Từ thẩm định viên sáng chế, nhà phát minh, đại diện sáng chế, đến người nghiên cứu phương pháp luận đổi mới và tác giả giáo trình khoa học sáng tạo thanh thiếu niên, điều tôi muốn làm luôn nhất quán: giúp nhiều nhà đổi mới hơn tìm thấy vấn đề thật, hình thành giải pháp kỹ thuật có thể bảo hộ và đưa thành quả đổi mới thật sự đi vào thực tế."
+                            ]
+                      ]
+                ]
+          }
+    },
     "ai-era-youth-science-innovation-practical-textbook": {
       "zh-hk": {
         docTitle: "AI 時代青少年科創實戰教程 | Ma Su",
