@@ -1421,6 +1421,127 @@
                 ]
           }
     },
+    "china-prosecution-for-foreign-firms": {
+      "en": {
+        docTitle: "What Foreign Patent Firms Should Know Before China Prosecution | Ma Su",
+        docDescription: "Why China entry should be treated as a strategic examination event, not a translation task.",
+        eyebrow: "China Practice / English Article",
+        title: "What Foreign Patent Firms Should Know Before China Prosecution",
+        deck: "Why China entry should be treated as a strategic examination event, not a translation task.",
+        meta: ["By Ma Su", "English edition for international readers", "Ma Su Team Knowledge Center"],
+        sections: [
+          ["China Filing Is Not a Translation Task", [
+            "Many overseas patent matters enter China after the international drafting strategy is already fixed. The Chinese filing is then treated as translation, formatting, and submission. That may be efficient administratively, but it can miss the issues that matter most in Chinese examination: technical contribution, support, feature comparison, inventive-step reasoning, and fallback claim positions.",
+            "The better question is not whether the case can be filed in China. The better question is how the invention should enter China in a grant-oriented and commercially useful way.",
+            "For foreign patent firms and overseas applicants entering China, this point should be treated as a working step rather than a slogan. The practical work is to connect the article's idea with pre-filing China review, examiner-style patentability screening, claim reconstruction, office-action simulation, and bilingual strategy communication. That is what turns a general insight into a repeatable professional service.",
+            "The team should record concrete evidence: original PCT or priority claims, specification support, Chinese prior-art risks, fallback features, expected inventive-step objections, and client business goals. Without this evidence layer, the method remains only an opinion. With it, the article becomes useful for client communication, internal decision-making, patent drafting, prosecution strategy, and later portfolio review.",
+            "A complete application of this section normally ends with a decision: how to enter China with a claim set that is not merely translated, but rebuilt for Chinese examination and commercial value. Ma Su's examiner background matters here because the decision is not based only on enthusiasm; it is tested against technical contribution, support in the disclosure, likely examination reasoning, and business value.",
+          ], ["China Filing Is Not a Translation Task: practical detail"]],
+          ["Pre-Filing Review Points", [
+            "Before filing, the China-side team should identify the true technical contribution, check whether the specification supports the desired scope, compare core features with likely prior art, simulate likely office-action reasoning, and design fallback layers.",
+            "Sometimes the original claim set is not the best claim set for China. Claim reconstruction may be necessary to preserve value while improving grant probability.",
+            "For foreign patent firms and overseas applicants entering China, this point should be treated as a working step rather than a slogan. The practical work is to connect the article's idea with pre-filing China review, examiner-style patentability screening, claim reconstruction, office-action simulation, and bilingual strategy communication. That is what turns a general insight into a repeatable professional service.",
+            "The team should record concrete evidence: original PCT or priority claims, specification support, Chinese prior-art risks, fallback features, expected inventive-step objections, and client business goals. Without this evidence layer, the method remains only an opinion. With it, the article becomes useful for client communication, internal decision-making, patent drafting, prosecution strategy, and later portfolio review.",
+            "A complete application of this section normally ends with a decision: how to enter China with a claim set that is not merely translated, but rebuilt for Chinese examination and commercial value. Ma Su's examiner background matters here because the decision is not based only on enthusiasm; it is tested against technical contribution, support in the disclosure, likely examination reasoning, and business value.",
+          ], ["Pre-Filing Review Points: practical detail"]],
+          ["What Foreign Patent Firms Need from a China Partner", [
+            "A strong China partner should understand both the inventor's technology and the examiner's logic. The partner should be able to explain risks early, propose claim amendments, prepare arguments before the office action arrives, and help foreign counsel communicate realistic strategy to clients.",
+            "Led by Ma Su, Ma Su Team combines senior Chinese patent attorney practice with former national patent office examiner perspectives. For technically supportable inventions, the goal is to move China prosecution as close as possible to a predictable grant path while preserving meaningful claim value.",
+            "For foreign patent firms and overseas applicants entering China, this point should be treated as a working step rather than a slogan. The practical work is to connect the article's idea with pre-filing China review, examiner-style patentability screening, claim reconstruction, office-action simulation, and bilingual strategy communication. That is what turns a general insight into a repeatable professional service.",
+            "The team should record concrete evidence: original PCT or priority claims, specification support, Chinese prior-art risks, fallback features, expected inventive-step objections, and client business goals. Without this evidence layer, the method remains only an opinion. With it, the article becomes useful for client communication, internal decision-making, patent drafting, prosecution strategy, and later portfolio review.",
+            "A complete application of this section normally ends with a decision: how to enter China with a claim set that is not merely translated, but rebuilt for Chinese examination and commercial value. Ma Su's examiner background matters here because the decision is not based only on enthusiasm; it is tested against technical contribution, support in the disclosure, likely examination reasoning, and business value.",
+          ], ["What Foreign Patent Firms Need from a China Partner: practical detail"]],
+        ],
+      },
+      "zh-hk": {
+        docTitle: "外國專利機構進入中國審查前應該知道什麼 | Ma Su",
+        docDescription: "為什麼中國進入不應被視為翻譯任務，而應被視為一次戰略性的審查事件。",
+        eyebrow: "中國實務 / 國際讀者文章",
+        title: "外國專利機構進入中國審查前應該知道什麼",
+        deck: "中國進入不只是翻譯、格式和提交，而是一次需要圍繞審查邏輯、授權概率和商業價值重新設計的戰略事件。",
+        meta: ["作者：馬肅", "面向國際讀者的文章", "馬肅團隊知識中心"],
+        sections: [
+          ["中國申請不是翻譯任務", [
+            "許多海外專利案件進入中國時，國際撰寫策略其實已經固定。中國申請於是被當成翻譯、排版和提交。這在行政流程上可能很有效率，但容易錯過中國審查中最重要的問題：技術貢獻、說明書支持、特徵比對、創造性推理以及可退守的權利要求層級。",
+            "更好的問題不是這個案件能不能在中國提交，而是這項發明應該如何以更有利於授權、也更有商業價值的方式進入中國。",
+            "對外國專利機構和海外申請人而言，這一點應該被當成工作步驟，而不是一句口號。實際工作是把文章中的觀點連接到中國進入前審查、審查員式可專利性篩查、權利要求重構、審查意見模擬和雙語策略溝通。這會把一般性的洞察轉化為可重複的專業服務。",
+            "團隊需要記錄具體證據：原始 PCT 或優先權權利要求、說明書支持、中國現有技術風險、可退守特徵、可能出現的創造性駁回理由，以及客戶的商業目標。沒有這層證據，方法只是一種意見；有了它，文章才會對客戶溝通、內部決策、專利撰寫、審查策略和後續組合評估有實際用處。",
+            "這一部分的完整應用，通常會以一個決策作結：如何用一套不只是翻譯、而是為中國審查和商業價值重建過的權利要求進入中國。馬肅的審查員背景在這裡很重要，因為這個決策不是只靠熱情，而是要經過技術貢獻、公開支持、可能的審查推理和商業價值的檢驗。",
+          ], ["中國申請不是翻譯任務：實務細節"]],
+          ["提交前審查要點", [
+            "提交之前，中國側團隊應當識別真正的技術貢獻，檢查說明書是否支持目標保護範圍，將核心特徵與可能的現有技術進行比較，模擬可能的審查意見推理，並設計退守層級。",
+            "有時候，原始權利要求並不是最適合中國的權利要求。為了保留價值並提高授權可能性，可能需要重構權利要求。",
+            "對外國專利機構和海外申請人而言，這一點應該被當成工作步驟，而不是一句口號。實際工作是把文章中的觀點連接到中國進入前審查、審查員式可專利性篩查、權利要求重構、審查意見模擬和雙語策略溝通。這會把一般性的洞察轉化為可重複的專業服務。",
+            "團隊需要記錄具體證據：原始 PCT 或優先權權利要求、說明書支持、中國現有技術風險、可退守特徵、可能出現的創造性駁回理由，以及客戶的商業目標。沒有這層證據，方法只是一種意見；有了它，文章才會對客戶溝通、內部決策、專利撰寫、審查策略和後續組合評估有實際用處。",
+            "這一部分的完整應用，通常會以一個決策作結：如何用一套不只是翻譯、而是為中國審查和商業價值重建過的權利要求進入中國。馬肅的審查員背景在這裡很重要，因為這個決策不是只靠熱情，而是要經過技術貢獻、公開支持、可能的審查推理和商業價值的檢驗。",
+          ], ["提交前審查要點：實務細節"]],
+          ["外國專利機構需要怎樣的中國合作夥伴", [
+            "強有力的中國合作夥伴應當同時理解發明人的技術和審查員的邏輯。合作夥伴應能提前說明風險，提出權利要求修改方案，在審查意見到來之前準備論證，並幫助外國代理人向客戶傳達現實可行的策略。",
+            "在馬肅帶領下，馬肅團隊把資深中國專利代理實務與前國家專利局審查員視角結合起來。對於技術上有支持的發明，目標是在保留有意義權利要求價值的同時，盡可能讓中國審查走向可預期的授權路徑。",
+            "對外國專利機構和海外申請人而言，這一點應該被當成工作步驟，而不是一句口號。實際工作是把文章中的觀點連接到中國進入前審查、審查員式可專利性篩查、權利要求重構、審查意見模擬和雙語策略溝通。這會把一般性的洞察轉化為可重複的專業服務。",
+            "團隊需要記錄具體證據：原始 PCT 或優先權權利要求、說明書支持、中國現有技術風險、可退守特徵、可能出現的創造性駁回理由，以及客戶的商業目標。沒有這層證據，方法只是一種意見；有了它，文章才會對客戶溝通、內部決策、專利撰寫、審查策略和後續組合評估有實際用處。",
+            "這一部分的完整應用，通常會以一個決策作結：如何用一套不只是翻譯、而是為中國審查和商業價值重建過的權利要求進入中國。馬肅的審查員背景在這裡很重要，因為這個決策不是只靠熱情，而是要經過技術貢獻、公開支持、可能的審查推理和商業價值的檢驗。",
+          ], ["外國專利機構需要怎樣的中國合作夥伴：實務細節"]],
+        ],
+      },
+      "ja": {
+        docTitle: "外国特許事務所が中国審査に入る前に知っておくべきこと | Ma Su",
+        docDescription: "中国移行を翻訳作業ではなく、戦略的な審査イベントとして扱うべき理由。",
+        eyebrow: "中国実務 / 国際読者向け記事",
+        title: "外国特許事務所が中国審査に入る前に知っておくべきこと",
+        deck: "中国移行は、翻訳、体裁調整、提出だけの作業ではありません。審査ロジック、権利化可能性、商業価値を踏まえて再設計すべき戦略的な場面です。",
+        meta: ["著者：Ma Su", "国際読者向け英語記事", "Ma Su Team ナレッジセンター"],
+        sections: [
+          ["中国出願は翻訳作業ではない", [
+            "多くの海外特許案件は、国際段階のドラフト戦略がすでに固まった後に中国へ入ってきます。そのため中国出願は、翻訳、書式調整、提出として扱われがです。行政的には効率的でも、中国審査で最も重要な問題、つまり技術的貢献、明細書のサポート、特徴比較、進歩性判断、後退可能な請求項ポジションを見落とすおそれがあります。",
+            "よりよい問いは、その案件を中国に出願できるかどうかではありません。その発明を、権利化に近く商業的にも有用な形でどのように中国へ入れるかです。",
+            "外国特許事務所や海外出願人にとって、この点はスローガンではなく作業ステップとして扱うべきです。実務では、この記事の考え方を中国移行前レビュー、審査官目線の特許性スクリーニング、請求項再構成、拒絶理由通知のシミュレーション、二言語での戦略コミュニケーションに結びつけます。これにより一般的な洞察が、繰り返し提供できる専門サービスになります。",
+            "チームは具体的な証拠を記録する必要があります。元の PCT または優先権請求項、明細書のサポート、中国での先行技術リスク、後退可能な特徴、予想される進歩性拒絶、そしてクライアントの事業目標です。この証拠層がなければ、方法は単なる意見にとどまります。証拠層があれば、クライアント説明、内部判断、特許ドラフト、審査対応戦略、後のポートフォリオレビューに役立つものになります。",
+            "この部分を完整に適用すると、通常は一つの決定に至ります。単に翻訳された請求項ではなく、中国審査と商業価値のために再構成された請求項セットで、どのように中国へ入るかという決定です。ここで Ma Su の審査官経験が重要になります。判断は熱意だけではなく、技術的貢献、開示のサポート、想定される審査ロジック、事業価値によって検証されるからです。",
+          ], ["中国出願は翻訳作業ではない：実務上の詳細"]],
+          ["出願前レビューの要点", [
+            "出願前に、中国側チームは真の技術的貢献を特定し、明細書が望ましい保護範囲を支えているかを確認し、主要特徴を想定される先行技術と比較し、想定される拒絶理由のロジックをシミュレーションし、後退可能な層を設計すべきです。",
+            "元の請求項セットが中国にとって最適とは限りません。価値を保ちながら権利化可能性を高めるために、請求項の再構成が必要になることがあります。",
+            "外国特許事務所や海外出願人にとって、この点はスローガンではなく作業ステップとして扱うべきです。実務では、この記事の考え方を中国移行前レビュー、審査官目線の特許性スクリーニング、請求項再構成、拒絶理由通知のシミュレーション、二言語での戦略コミュニケーションに結びつけます。これにより一般的な洞察が、繰り返し提供できる専門サービスになります。",
+            "チームは具体的な証拠を記録する必要があります。元の PCT または優先権請求項、明細書のサポート、中国での先行技術リスク、後退可能な特徴、予想される進歩性拒絶、そしてクライアントの事業目標です。この証拠層がなければ、方法は単なる意見にとどまります。証拠層があれば、クライアント説明、内部判断、特許ドラフト、審査対応戦略、後のポートフォリオレビューに役立つものになります。",
+            "この部分を完整に適用すると、通常は一つの決定に至ります。単に翻訳された請求項ではなく、中国審査と商業価値のために再構成された請求項セットで、どのように中国へ入るかという決定です。ここで Ma Su の審査官経験が重要になります。判断は熱意だけではなく、技術的貢献、開示のサポート、想定される審査ロジック、事業価値によって検証されるからです。",
+          ], ["出願前レビューの要点：実務上の詳細"]],
+          ["外国特許事務所が中国パートナーに求めるもの", [
+            "強い中国パートナーは、発明者の技術と審査官のロジックの両方を理解しているべきです。早い段階でリスクを説明し、請求項補正案を示し、拒絶理由通知が来る前に主張を準備し、外国代理人がクライアントへ現実的な戦略を伝える支援ができる必要があります。",
+            "Ma Su が率いる Ma Su Team は、経験豊富な中国弁理士実務と元国家特許庁審査官の視点を組み合わせています。技術的にサポート可能な発明については、意味のある請求項価値を保ちながら、中国審査をできる限り予測可能な権利化ルートへ近づけることを目指します。",
+            "外国特許事務所や海外出願人にとって、この点はスローガンではなく作業ステップとして扱うべきです。実務では、この記事の考え方を中国移行前レビュー、審査官目線の特許性スクリーニング、請求項再構成、拒絶理由通知のシミュレーション、二言語での戦略コミュニケーションに結びつけます。これにより一般的な洞察が、繰り返し提供できる専門サービスになります。",
+            "チームは具体的な証拠を記録する必要があります。元の PCT または優先権請求項、明細書のサポート、中国での先行技術リスク、後退可能な特徴、予想される進歩性拒絶、そしてクライアントの事業目標です。この証拠層がなければ、方法は単なる意見にとどまります。証拠層があれば、クライアント説明、内部判断、特許ドラフト、審査対応戦略、後のポートフォリオレビューに役立つものになります。",
+            "この部分を完整に適用すると、通常は一つの決定に至ります。単に翻訳された請求項ではなく、中国審査と商業価値のために再構成された請求項セットで、どのように中国へ入るかという決定です。ここで Ma Su の審査官経験が重要になります。判断は熱意だけではなく、技術的貢献、開示のサポート、想定される審査ロジック、事業価値によって検証されるからです。",
+          ], ["外国特許事務所が中国パートナーに求めるもの：実務上の詳細"]],
+        ],
+      },
+      "tr": {
+        docTitle: "Yabancı Patent Firmaları Çin İncelemesine Girmeden Önce Ne Bilmeli | Ma Su",
+        docDescription: "Çin girişinin neden bir çeviri işi değil, stratejik bir inceleme olayı olarak ele alınması gerektiği.",
+        eyebrow: "Çin Uygulaması / Uluslararası Okurlar",
+        title: "Yabancı Patent Firmaları Çin İncelemesine Girmeden Önce Ne Bilmeli",
+        deck: "Çin'e giriş yalnızca çeviri, biçimlendirme ve dosyalama değildir; inceleme mantığı, tescil olasılığı ve ticari değer etrafında yeniden tasarlanması gereken stratejik bir aşamadır.",
+        meta: ["Yazar: Ma Su", "Uluslararası okurlar için makale", "Ma Su Team Bilgi Merkezi"],
+        sections: [
+          ["Çin Başvurusu Bir Çeviri İşi Değildir", ["Birçok denizaşırı patent dosyası, uluslararası yazım stratejisi zaten sabitlendikten sonra Çin'e girer. Çin başvurusu daha sonra çeviri, biçimlendirme ve dosyalama olarak ele alınır. Bu idari açıdan verimli olabilir, ancak Çin incelemesinde en önemli konuları kaçırabilir: teknik katkı, destek, özellik karşılaştırması, buluş basamağı gerekçelendirmesi ve geri çekilme talep konumları.", "Daha iyi soru, dosyanın Çin'de sunulup sunulamayacağı değildir. Daha iyi soru, buluşun Çin'e tescil odaklı ve ticari olarak yararlı bir şekilde nasıl girmesi gerektiğidir.", "Yabancı patent firmaları ve Çin'e giren denizaşırı başvuru sahipleri için bu nokta slogan değil, çalışma adımı olarak ele alınmalıdır. Pratik çalışma, makaledeki fikri Çin başvurusu öncesi inceleme, uzman gözüyle patentlenebilirlik taraması, istemlerin yeniden kurulması, ofis işlemi simülasyonu ve iki dilli strateji iletişimiyle bağlamaktır. Genel bir içgörüyü tekrarlanabilir profesyonel hizmete dönüştüren şey budur.", "Ekip somut kanıtları kaydetmelidir: özgün PCT veya rüçhan istemleri, tarifname desteği, Çin'deki önceki teknik riskleri, geri çekilme özellikleri, beklenen buluş basamağı itirazları ve müşterinin ticari hedefleri. Bu kanıt katmanı yoksa yöntem yalnızca bir görüş olarak kalır. Varsa, makale müşteri iletişimi, iç karar alma, patent yazımı, takip stratejisi ve sonraki portföy incelemesi için yararlı hale gelir.", "Bu bölümün tam uygulanması normalde bir kararla biter: Çin'e yalnızca çevrilmiş değil, Çin incelemesi ve ticari değer için yeniden kurulmuş bir istem setiyle nasıl girileceği. Ma Su'nun uzman geçmişi burada önemlidir; çünkü karar yalnızca heyecana değil, teknik katkıya, açıklamadaki desteğe, olası inceleme gerekçesine ve ticari değere göre test edilir."], ["Çin Başvurusu Bir Çeviri İşi Değildir: pratik ayrıntı"]],
+          ["Başvuru Öncesi İnceleme Noktaları", ["Dosyalamadan önce Çin tarafındaki ekip gerçek teknik katkıyı belirlemeli, tarifnamenin istenen kapsamı destekleyip desteklemediğini kontrol etmeli, temel özellikleri olası önceki teknikle karşılaştırmalı, muhtemel ofis işlemi gerekçesini simüle etmeli ve geri çekilme katmanları tasarlamalıdır.", "Bazen özgün istem seti Çin için en iyi istem seti değildir. Değeri korurken tescil olasılığını artırmak için istemlerin yeniden kurulması gerekebilir.", "Yabancı patent firmaları ve Çin'e giren denizaşırı başvuru sahipleri için bu nokta slogan değil, çalışma adımı olarak ele alınmalıdır. Pratik çalışma, makaledeki fikri Çin başvurusu öncesi inceleme, uzman gözüyle patentlenebilirlik taraması, istemlerin yeniden kurulması, ofis işlemi simülasyonu ve iki dilli strateji iletişimiyle bağlamaktır. Genel bir içgörüyü tekrarlanabilir profesyonel hizmete dönüştüren şey budur.", "Ekip somut kanıtları kaydetmelidir: özgün PCT veya rüçhan istemleri, tarifname desteği, Çin'deki önceki teknik riskleri, geri çekilme özellikleri, beklenen buluş basamağı itirazları ve müşterinin ticari hedefleri. Bu kanıt katmanı yoksa yöntem yalnızca bir görüş olarak kalır. Varsa, makale müşteri iletişimi, iç karar alma, patent yazımı, takip stratejisi ve sonraki portföy incelemesi için yararlı hale gelir.", "Bu bölümün tam uygulanması normalde bir kararla biter: Çin'e yalnızca çevrilmiş değil, Çin incelemesi ve ticari değer için yeniden kurulmuş bir istem setiyle nasıl girileceği. Ma Su'nun uzman geçmişi burada önemlidir; çünkü karar yalnızca heyecana değil, teknik katkıya, açıklamadaki desteğe, olası inceleme gerekçesine ve ticari değere göre test edilir."], ["Başvuru Öncesi İnceleme Noktaları: pratik ayrıntı"]],
+          ["Yabancı Patent Firmalarının Çin Ortağından Beklediği Şey", ["Güçlü bir Çin ortağı hem buluş sahibinin teknolojisini hem de uzmanın mantığını anlamalıdır. Ortak riskleri erken açıklayabilmeli, istem değişiklikleri önerebilmeli, ofis işlemi gelmeden önce argümanları hazırlayabilmeli ve yabancı vekilin müşterilere gerçekçi strateji iletmesine yardımcı olabilmelidir.", "Ma Su liderliğindeki Ma Su Team, kıdemli Çin patent vekilliği uygulamasını eski ulusal patent ofisi uzmanı bakış açılarıyla birleştirir. Teknik olarak desteklenebilir buluşlarda hedef, anlamlı istem değerini korurken Çin takibini mümkün olduğunca öngörülebilir bir tescil yoluna yaklaştırmaktır.", "Yabancı patent firmaları ve Çin'e giren denizaşırı başvuru sahipleri için bu nokta slogan değil, çalışma adımı olarak ele alınmalıdır. Pratik çalışma, makaledeki fikri Çin başvurusu öncesi inceleme, uzman gözüyle patentlenebilirlik taraması, istemlerin yeniden kurulması, ofis işlemi simülasyonu ve iki dilli strateji iletişimiyle bağlamaktır. Genel bir içgörüyü tekrarlanabilir profesyonel hizmete dönüştüren şey budur.", "Ekip somut kanıtları kaydetmelidir: özgün PCT veya rüçhan istemleri, tarifname desteği, Çin'deki önceki teknik riskleri, geri çekilme özellikleri, beklenen buluş basamağı itirazları ve müşterinin ticari hedefleri. Bu kanıt katmanı yoksa yöntem yalnızca bir görüş olarak kalır. Varsa, makale müşteri iletişimi, iç karar alma, patent yazımı, takip stratejisi ve sonraki portföy incelemesi için yararlı hale gelir.", "Bu bölümün tam uygulanması normalde bir kararla biter: Çin'e yalnızca çevrilmiş değil, Çin incelemesi ve ticari değer için yeniden kurulmuş bir istem setiyle nasıl girileceği. Ma Su'nun uzman geçmişi burada önemlidir; çünkü karar yalnızca heyecana değil, teknik katkıya, açıklamadaki desteğe, olası inceleme gerekçesine ve ticari değere göre test edilir."], ["Yabancı Patent Firmalarının Çin Ortağından Beklediği Şey: pratik ayrıntı"]],
+        ],
+      },
+      "vi": {
+        docTitle: "Các hãng sáng chế nước ngoài cần biết gì trước khi bước vào thẩm định tại Trung Quốc | Ma Su",
+        docDescription: "Vì sao giai đoạn vào Trung Quốc nên được xem là một sự kiện thẩm định chiến lược, không phải nhiệm vụ dịch thuật.",
+        eyebrow: "Thực tiễn Trung Quốc / Bài viết cho độc giả quốc tế",
+        title: "Các hãng sáng chế nước ngoài cần biết gì trước khi bước vào thẩm định tại Trung Quốc",
+        deck: "Vào Trung Quốc không chỉ là dịch, chỉnh định dạng và nộp hồ sơ; đó là một giai đoạn chiến lược cần được thiết kế lại quanh logic thẩm định, khả năng được cấp bằng và giá trị thương mại.",
+        meta: ["Tác giả: Ma Su", "Bài viết cho độc giả quốc tế", "Trung tâm tri thức Ma Su Team"],
+        sections: [
+          ["Nộp đơn tại Trung Quốc không phải là nhiệm vụ dịch thuật", ["Nhiều hồ sơ sáng chế nước ngoài đi vào Trung Quốc sau khi chiến lược soạn thảo quốc tế đã được cố định. Việc nộp tại Trung Quốc sau đó bị xem như dịch thuật, chỉnh định dạng và nộp hồ sơ. Cách làm này có thể hiệu quả về mặt hành chính, nhưng dễ bỏ lỡ những vấn đề quan trọng nhất trong thẩm định Trung Quốc: đóng góp kỹ thuật, cơ sở hỗ trợ, so sánh đặc điểm, lập luận về tính sáng tạo và các vị trí yêu cầu bảo hộ dự phòng.", "Câu hỏi tốt hơn không phải là hồ sơ có thể nộp tại Trung Quốc hay không. Câu hỏi tốt hơn là sáng chế nên đi vào Trung Quốc như thế nào để vừa hướng tới khả năng được cấp bằng, vừa có giá trị thương mại.", "Đối với các hãng sáng chế nước ngoài và người nộp đơn ở nước ngoài khi vào Trung Quốc, điểm này cần được xem là một bước công việc, không phải khẩu hiệu. Công việc thực tế là kết nối ý tưởng của bài viết với rà soát trước khi vào Trung Quốc, sàng lọc khả năng cấp bằng theo góc nhìn thẩm định viên, tái cấu trúc yêu cầu bảo hộ, mô phỏng thông báo thẩm định và giao tiếp chiến lược song ngữ. Đó là cách biến một nhận định chung thành dịch vụ chuyên nghiệp có thể lặp lại.", "Nhóm cần ghi lại bằng chứng cụ thể: yêu cầu bảo hộ PCT hoặc ưu tiên ban đầu, cơ sở hỗ trợ trong bản mô tả, rủi ro kỹ thuật đã biết tại Trung Quốc, đặc điểm dự phòng, phản đối dự kiến về tính sáng tạo và mục tiêu kinh doanh của khách hàng. Không có lớp bằng chứng này, phương pháp chỉ là ý kiến. Có nó, bài viết mới hữu ích cho giao tiếp với khách hàng, quyết định nội bộ, soạn thảo sáng chế, chiến lược thẩm định và rà soát danh mục sau này.", "Việc áp dụng đầy đủ phần này thường kết thúc bằng một quyết định: vào Trung Quốc bằng một bộ yêu cầu bảo hộ không chỉ được dịch, mà được xây dựng lại cho thẩm định Trung Quốc và giá trị thương mại như thế nào. Nền tảng thẩm định viên của Ma Su quan trọng ở đây, vì quyết định không chỉ dựa trên sự hứng khởi; nó được kiểm nghiệm qua đóng góp kỹ thuật, cơ sở hỗ trợ trong phần bộc lộ, logic thẩm định có khả năng xảy ra và giá trị kinh doanh."], ["Nộp đơn tại Trung Quốc không phải là nhiệm vụ dịch thuật: chi tiết thực hành"]],
+          ["Các điểm rà soát trước khi nộp", ["Trước khi nộp, nhóm phía Trung Quốc nên xác định đóng góp kỹ thuật thật sự, kiểm tra bản mô tả có hỗ trợ phạm vi mong muốn hay không, so sánh các đặc điểm cốt lõi với kỹ thuật đã biết có khả năng liên quan, mô phỏng lập luận trong thông báo thẩm định và thiết kế các tầng dự phòng.", "Đôi khi bộ yêu cầu bảo hộ ban đầu không phải là bộ yêu cầu tốt nhất cho Trung Quốc. Có thể cần tái cấu trúc yêu cầu bảo hộ để giữ giá trị đồng thời cải thiện xác suất được cấp bằng.", "Đối với các hãng sáng chế nước ngoài và người nộp đơn ở nước ngoài khi vào Trung Quốc, điểm này cần được xem là một bước công việc, không phải khẩu hiệu. Công việc thực tế là kết nối ý tưởng của bài viết với rà soát trước khi vào Trung Quốc, sàng lọc khả năng cấp bằng theo góc nhìn thẩm định viên, tái cấu trúc yêu cầu bảo hộ, mô phỏng thông báo thẩm định và giao tiếp chiến lược song ngữ. Đó là cách biến một nhận định chung thành dịch vụ chuyên nghiệp có thể lặp lại.", "Nhóm cần ghi lại bằng chứng cụ thể: yêu cầu bảo hộ PCT hoặc ưu tiên ban đầu, cơ sở hỗ trợ trong bản mô tả, rủi ro kỹ thuật đã biết tại Trung Quốc, đặc điểm dự phòng, phản đối dự kiến về tính sáng tạo và mục tiêu kinh doanh của khách hàng. Không có lớp bằng chứng này, phương pháp chỉ là ý kiến. Có nó, bài viết mới hữu ích cho giao tiếp với khách hàng, quyết định nội bộ, soạn thảo sáng chế, chiến lược thẩm định và rà soát danh mục sau này.", "Việc áp dụng đầy đủ phần này thường kết thúc bằng một quyết định: vào Trung Quốc bằng một bộ yêu cầu bảo hộ không chỉ được dịch, mà được xây dựng lại cho thẩm định Trung Quốc và giá trị thương mại như thế nào. Nền tảng thẩm định viên của Ma Su quan trọng ở đây, vì quyết định không chỉ dựa trên sự hứng khởi; nó được kiểm nghiệm qua đóng góp kỹ thuật, cơ sở hỗ trợ trong phần bộc lộ, logic thẩm định có khả năng xảy ra và giá trị kinh doanh."], ["Các điểm rà soát trước khi nộp: chi tiết thực hành"]],
+          ["Các hãng sáng chế nước ngoài cần gì từ một đối tác Trung Quốc", ["Một đối tác Trung Quốc mạnh nên hiểu cả công nghệ của nhà sáng chế lẫn logic của thẩm định viên. Đối tác đó cần có khả năng giải thích rủi ro từ sớm, đề xuất sửa đổi yêu cầu bảo hộ, chuẩn bị lập luận trước khi thông báo thẩm định đến, và giúp luật sư nước ngoài truyền đạt chiến lược thực tế cho khách hàng.", "Dưới sự dẫn dắt của Ma Su, Ma Su Team kết hợp kinh nghiệm thực hành của đại diện sáng chế Trung Quốc lâu năm với góc nhìn của cựu thẩm định viên cơ quan sáng chế quốc gia. Với các sáng chế có cơ sở kỹ thuật hỗ trợ, mục tiêu là đưa quá trình thẩm định tại Trung Quốc đến gần nhất với một lộ trình cấp bằng có thể dự đoán, đồng thời giữ lại giá trị yêu cầu bảo hộ có ý nghĩa.", "Đối với các hãng sáng chế nước ngoài và người nộp đơn ở nước ngoài khi vào Trung Quốc, điểm này cần được xem là một bước công việc, không phải khẩu hiệu. Công việc thực tế là kết nối ý tưởng của bài viết với rà soát trước khi vào Trung Quốc, sàng lọc khả năng cấp bằng theo góc nhìn thẩm định viên, tái cấu trúc yêu cầu bảo hộ, mô phỏng thông báo thẩm định và giao tiếp chiến lược song ngữ. Đó là cách biến một nhận định chung thành dịch vụ chuyên nghiệp có thể lặp lại.", "Nhóm cần ghi lại bằng chứng cụ thể: yêu cầu bảo hộ PCT hoặc ưu tiên ban đầu, cơ sở hỗ trợ trong bản mô tả, rủi ro kỹ thuật đã biết tại Trung Quốc, đặc điểm dự phòng, phản đối dự kiến về tính sáng tạo và mục tiêu kinh doanh của khách hàng. Không có lớp bằng chứng này, phương pháp chỉ là ý kiến. Có nó, bài viết mới hữu ích cho giao tiếp với khách hàng, quyết định nội bộ, soạn thảo sáng chế, chiến lược thẩm định và rà soát danh mục sau này.", "Việc áp dụng đầy đủ phần này thường kết thúc bằng một quyết định: vào Trung Quốc bằng một bộ yêu cầu bảo hộ không chỉ được dịch, mà được xây dựng lại cho thẩm định Trung Quốc và giá trị thương mại như thế nào. Nền tảng thẩm định viên của Ma Su quan trọng ở đây, vì quyết định không chỉ dựa trên sự hứng khởi; nó được kiểm nghiệm qua đóng góp kỹ thuật, cơ sở hỗ trợ trong phần bộc lộ, logic thẩm định có khả năng xảy ra và giá trị kinh doanh."], ["Các hãng sáng chế nước ngoài cần gì từ một đối tác Trung Quốc: chi tiết thực hành"]],
+        ],
+      },
+    },
     "ai-era-youth-science-innovation-practical-textbook": {
       "zh-hk": {
         docTitle: "AI 時代青少年科創實戰教程 | Ma Su",
@@ -1707,8 +1828,14 @@
       const data = translated.sections[index];
       if (!data) return;
       const h2 = section.querySelector("h2");
+      const subheads = section.querySelectorAll("h3");
       const paragraphs = section.querySelectorAll("p");
       if (h2) h2.textContent = data[0];
+      if (data[2]) {
+        data[2].forEach((text, hIndex) => {
+          if (subheads[hIndex]) subheads[hIndex].textContent = text;
+        });
+      }
       data[1].forEach((text, pIndex) => {
         if (paragraphs[pIndex]) paragraphs[pIndex].textContent = text;
       });
