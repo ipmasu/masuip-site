@@ -426,7 +426,19 @@
   };
 
   const supplementalTextMap = {
+    "zh-hk": {
+      "Ma Su helps Chinese companies and individual inventors plan overseas patent portfolios, while also helping overseas innovation teams enter China with examiner-style patentability screening, claim reconstruction, and portfolio strategy. The team also turns FTO analysis into design-around options, invention mining opportunities, and patent portfolio layout.": "馬肅協助中國企業及個人發明人規劃海外專利組合，同時也協助境外創新團隊進入中國，完成審查員視角的可授權性篩選、權利要求重構與專利組合策略。團隊也特別擅長把 FTO 分析轉化為規避設計方案、專利挖掘機會和專利組合佈局。",
+      "FTO-driven layout": "FTO 驅動佈局",
+      "Turn freedom-to-operate findings into design-around routes, invention mining, and patent portfolio decisions.": "把自由實施分析結果轉化為規避設計路線、發明挖掘和專利組合決策。",
+      "FTO, Patent Mining & Portfolio Layout": "FTO、專利挖掘與專利佈局",
+      "Freedom-to-operate analysis, risk mapping, design-around suggestions, invention mining, and patent portfolio planning based on real product and competitor landscapes.": "基於真實產品與競爭對手格局，提供自由實施分析、風險地圖、規避設計建議、發明挖掘與專利組合規劃。",
+    },
     ja: {
+      "Ma Su helps Chinese companies and individual inventors plan overseas patent portfolios, while also helping overseas innovation teams enter China with examiner-style patentability screening, claim reconstruction, and portfolio strategy. The team also turns FTO analysis into design-around options, invention mining opportunities, and patent portfolio layout.": "Ma Su は、中国企業と個人発明家の海外特許ポートフォリオ設計を支援し、海外のイノベーションチームが中国に入る際には、審査官視点の特許性スクリーニング、クレーム再構成、ポートフォリオ戦略を提供します。さらに FTO 分析を、設計回避案、発明発掘の機会、特許ポートフォリオ設計へとつなげます。",
+      "FTO-driven layout": "FTO起点の特許レイアウト",
+      "Turn freedom-to-operate findings into design-around routes, invention mining, and patent portfolio decisions.": "FTO の結果を、設計回避ルート、発明発掘、特許ポートフォリオ判断へ変換します。",
+      "FTO, Patent Mining & Portfolio Layout": "FTO・発明発掘・特許ポートフォリオ設計",
+      "Freedom-to-operate analysis, risk mapping, design-around suggestions, invention mining, and patent portfolio planning based on real product and competitor landscapes.": "実際の製品と競合状況を踏まえ、FTO 分析、リスクマッピング、設計回避提案、発明発掘、特許ポートフォリオ計画を提供します。",
       "Ma Su | Cross-border Patent Strategy and Innovation": "馬粛 | クロスボーダー特許戦略とイノベーション",
       "Articles and Insights | Ma Su": "記事と洞察 | 馬粛",
       "About Ma Su | Ma Su Team": "馬粛について | Ma Su Team",
@@ -494,6 +506,11 @@
       "Contact Ma Su Team.": "Ma Su Team にお問い合わせください。"
     },
     tr: {
+      "Ma Su helps Chinese companies and individual inventors plan overseas patent portfolios, while also helping overseas innovation teams enter China with examiner-style patentability screening, claim reconstruction, and portfolio strategy. The team also turns FTO analysis into design-around options, invention mining opportunities, and patent portfolio layout.": "Ma Su, Çinli şirketlerin ve bireysel mucitlerin yurt dışı patent portföylerini planlamasına; yabancı inovasyon ekiplerinin Çin'e girerken incelemeci bakışıyla patentlenebilirlik taraması, istem yeniden kurgusu ve portföy stratejisi oluşturmasına yardımcı olur. Ekip ayrıca FTO analizini tasarım etrafından dolaşma seçeneklerine, buluş madenciliği fırsatlarına ve patent portföyü yerleşimine dönüştürür.",
+      "FTO-driven layout": "FTO odaklı portföy yerleşimi",
+      "Turn freedom-to-operate findings into design-around routes, invention mining, and patent portfolio decisions.": "FTO bulgularını tasarım etrafından dolaşma rotalarına, buluş madenciliğine ve patent portföyü kararlarına dönüştürür.",
+      "FTO, Patent Mining & Portfolio Layout": "FTO, Patent Madenciliği ve Portföy Yerleşimi",
+      "Freedom-to-operate analysis, risk mapping, design-around suggestions, invention mining, and patent portfolio planning based on real product and competitor landscapes.": "Gerçek ürün ve rakip ortamlarına dayalı FTO analizi, risk haritalama, tasarım etrafından dolaşma önerileri, buluş madenciliği ve patent portföyü planlaması.",
       "Ma Su | Cross-border Patent Strategy and Innovation": "Ma Su | Sınır Ötesi Patent Stratejisi ve İnovasyon",
       "Articles and Insights | Ma Su": "Makaleler ve İçgörüler | Ma Su",
       "About Ma Su | Ma Su Team": "Ma Su Hakkında | Ma Su Team",
@@ -553,6 +570,11 @@
       "Contact Ma Su Team.": "Ma Su Team ile iletişime geçin."
     },
     vi: {
+      "Ma Su helps Chinese companies and individual inventors plan overseas patent portfolios, while also helping overseas innovation teams enter China with examiner-style patentability screening, claim reconstruction, and portfolio strategy. The team also turns FTO analysis into design-around options, invention mining opportunities, and patent portfolio layout.": "Ma Su hỗ trợ doanh nghiệp Trung Quốc và nhà sáng chế cá nhân lập danh mục sáng chế ở nước ngoài; đồng thời hỗ trợ nhóm đổi mới nước ngoài vào Trung Quốc bằng sàng lọc khả năng cấp bằng theo góc nhìn thẩm định viên, tái cấu trúc yêu cầu bảo hộ và chiến lược danh mục. Đội ngũ cũng chuyển phân tích FTO thành phương án thiết kế tránh rủi ro, cơ hội khai thác sáng chế và bố cục danh mục sáng chế.",
+      "FTO-driven layout": "Bố cục dựa trên FTO",
+      "Turn freedom-to-operate findings into design-around routes, invention mining, and patent portfolio decisions.": "Chuyển kết quả tự do thực hiện thành lộ trình thiết kế tránh rủi ro, khai thác sáng chế và quyết định danh mục sáng chế.",
+      "FTO, Patent Mining & Portfolio Layout": "FTO, khai thác sáng chế và bố cục danh mục",
+      "Freedom-to-operate analysis, risk mapping, design-around suggestions, invention mining, and patent portfolio planning based on real product and competitor landscapes.": "Phân tích tự do thực hiện, lập bản đồ rủi ro, đề xuất thiết kế tránh rủi ro, khai thác sáng chế và lập kế hoạch danh mục dựa trên sản phẩm thực tế và bối cảnh đối thủ.",
       "Ma Su | Cross-border Patent Strategy and Innovation": "Ma Su | Chiến lược sáng chế xuyên biên giới và đổi mới",
       "Articles and Insights | Ma Su": "Bài viết và góc nhìn | Ma Su",
       "About Ma Su | Ma Su Team": "Giới thiệu Ma Su | Ma Su Team",
