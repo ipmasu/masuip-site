@@ -1,7 +1,7 @@
 (() => {
   const languages = [
     ["en", "English"],
-    ["zh-hk", "香港中文"],
+    ["zh-hk", "中文"],
     ["ja", "日本語"],
     ["tr", "Türkçe"],
     ["vi", "Tiếng Việt"],
