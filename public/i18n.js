@@ -1,6 +1,7 @@
 (() => {
   const languages = [
     ["en", "English"],
+    ["zh-cn", "简体中文"],
     ["zh-hk", "香港中文"],
     ["ja", "日本語"],
     ["tr", "Türkçe"],
@@ -9,6 +10,7 @@
 
   const navLabels = {
     en: ["Home", "Knowledge", "Articles", "Methodology", "About", "Contact"],
+    "zh-cn": ["首页", "知识库", "文章中心", "方法论", "关于我", "联系"],
     "zh-hk": ["首頁", "知識庫", "文章中心", "方法論", "關於我", "聯絡"],
     ja: ["ホーム", "ナレッジ", "記事", "方法論", "プロフィール", "お問い合わせ"],
     tr: ["Ana sayfa", "Bilgi bankası", "Makaleler", "Metodoloji", "Hakkımda", "İletişim"],
@@ -29,6 +31,20 @@
       copied: "Copied",
       related: "Related Articles",
       continueSeries: "Continue this series",
+    },
+    "zh-cn": {
+      language: "语言",
+      readArticle: "阅读文章",
+      exploreSeries: "查看系列",
+      sort: "排序",
+      newest: "最新优先",
+      oldest: "最早优先",
+      author: "作者",
+      share: "分享",
+      copy: "复制链接",
+      copied: "已复制",
+      related: "相关文章",
+      continueSeries: "继续阅读本系列",
     },
     "zh-hk": {
       language: "語言",
@@ -1479,7 +1495,18 @@
         title: "A Correct Understanding of Patent Mining",
         deck: "Original article from Topology Innovation. The key point is that effective patent mining is not a reward for hard work alone, but a method for finding protectable technical variation before and around R&D.",
         meta: ["By uncle ma", "2018-08-21", "Topology Innovation WeChat article"],
-        sections: [["Original Text", ["Official account: Topology Innovation. Author: uncle ma. Published: 2018-08-21. Original link: https://mp.weixin.qq.com/s/-FBUOjLO6HsrBRrtyObhGg.", "Technological innovation affects people's lives in many ways, and it has also become one of the most important components of enterprise economic activity.", "As a successful sign of technological innovation, patents play a complex and subtle role in social innovation. On one hand, they protect operating companies that actively innovate and know how to use patents, as well as non-practicing entities that are especially skilled at using patent weapons. On the other hand, patents can ruthlessly eliminate companies that cannot innovate technologically or cannot use patents effectively.", "As intellectual property enforcement becomes increasingly strict, patents have become an increasingly real issue that enterprises must face for development and even survival. Yet for many companies, how to obtain patent protection remains unclear, and a considerable number still do not understand how to carry out patent mining.", "So how should patent mining be done? First, we must correctly understand patent mining. A common misconception is that most companies treat patent mining as extracting the R&D process or results into patent application documents, and naturally assume that the probability of invention grant is proportional to the hardship of the R&D process. In short, they understand patent mining as a process in which hard work will automatically be rewarded.", "But patent mining is by no means a simple matter of heaven rewarding diligence. Just as many applicants repeatedly emphasize in responses to inventive-step objections how hard they worked on the invention yet still receive rejections, the idea that effort naturally brings the corresponding patent result is only wishful thinking. In many cases, hard work merely increases the number of patent applications, without improving the number of granted patents, let alone helping a company use patents to defend itself or attack competitors.", "Patent mining, or correct and effective patent mining, should be this: on the basis of a large amount of existing technology, use patent application documents, mainly claims, to describe possible variations of existing technology. In other words, contrary to common corporate understanding, patent mining can exist independently from the R&D process. In fact, many successful cases show that patent mining can move ahead of enterprise R&D and guide its direction.", "Therefore, when patent mining professionals, or what I often call patent mining engineers, understand existing technology and possess certain patent skills, they can carry out efficient, high-quality patent mining and obtain a considerable number of high-quality patents.", "The patent skills involved in patent mining will be discussed with everyone next."]]],
+        sections: [["Original Text", [
+          "Official account: Topology Innovation. Author: uncle ma. Published: 2018-08-21. Original link: https://mp.weixin.qq.com/s/-FBUOjLO6HsrBRrtyObhGg.",
+          "Technological innovation affects people's lives in many ways, and it has also become one of the most important components of enterprise economic activity.",
+          "As a successful sign of technological innovation, patents play a complex and subtle role in social innovation. On one hand, they protect operating companies that actively innovate and know how to use patents, as well as non-practicing entities that are especially skilled at using patent weapons. On the other hand, patents can ruthlessly eliminate companies that cannot innovate technologically or cannot use patents effectively.",
+          "As intellectual property enforcement becomes increasingly strict, patents have become an increasingly real issue that enterprises must face for development and even survival. Yet for many companies, how to obtain patent protection remains unclear, and a considerable number still do not understand how to carry out patent mining.",
+          "So how should patent mining be done? First, we must correctly understand patent mining. A common misconception is that most companies treat patent mining as extracting the R&D process or results into patent application documents, and naturally assume that the probability of invention grant is proportional to the hardship of the R&D process. In short, they understand patent mining as a process in which hard work will automatically be rewarded.",
+          "But patent mining is by no means a simple matter of heaven rewarding diligence. Just as many applicants repeatedly emphasize in responses to inventive-step objections how hard they worked on the invention yet still receive rejections, the idea that effort naturally brings the corresponding patent result is only wishful thinking. In many cases, hard work merely increases the number of patent applications, without improving the number of granted patents, let alone helping a company use patents to defend itself or attack competitors.",
+          "Patent mining, or correct and effective patent mining, should be this: on the basis of a large amount of existing technology, use patent application documents, mainly claims, to describe possible variations of existing technology. In other words, contrary to common corporate understanding, patent mining can exist independently from the R&D process. In fact, many successful cases show that patent mining can move ahead of enterprise R&D and guide its direction.",
+          "Therefore, when patent mining professionals, or what I often call patent mining engineers, understand existing technology and possess certain patent skills, they can carry out efficient, high-quality patent mining and obtain a considerable number of high-quality patents.",
+          "The patent skills involved in patent mining will be discussed with everyone next.",
+        ]],
+        ],
       },
       "zh-hk": {
         docTitle: "專利挖掘的正確認知 | Ma Su",
@@ -1488,7 +1515,18 @@
         title: "專利挖掘的正確認知",
         deck: "原載拓撲科創。真正有效的專利挖掘，不是把研發辛苦程度換成授權概率，而是在研發前後發現可保護的技術變化。",
         meta: ["作者：uncle ma", "2018-08-21", "拓撲科創公眾號文章"],
-        sections: [["原文", ["公眾號：拓撲科創。作者：uncle ma。發布日期：2018-08-21。原文鏈接：https://mp.weixin.qq.com/s/-FBUOjLO6HsrBRrtyObhGg。", "技術創新以各種方式影響着人們的生活，同時也已經成為企業經濟活動中最重要的組成部分。", "作為技術創新的成功標誌，專利對社會技術創新的作用是複雜而微妙的。它一方面保護積極創新、又善於運用專利武器的實體企業，以及那些特別善於運用專利武器的非專利實施主體（NPE）；另一方面，它又會殘酷淘汰那些不能進行技術創新和/或不能運用專利武器的實體企業。", "隨着知識產權執法愈加嚴厲，專利已經成為企業發展乃至生存不得不面對的現實問題。但對很多企業而言，怎樣才能獲得專利保護往往不得其法，甚至相當一部分企業不能理解如何進行專利挖掘。", "那麼如何進行專利挖掘呢？首先我們要正確理解專利挖掘。這裡先要探討一個普遍認知誤區：絕大多數企業把專利挖掘理解為將研發過程或成果提煉成專利申請文件，並順理成章地認為發明授權概率與研發過程的艱辛程度成正比。簡言之，就是把專利挖掘理解為一個種瓜得瓜、種豆得豆，辛苦就能獲得回報的過程。", "但是專利挖掘絕非簡單的天道酬勤。正如很多申請人在答覆創造性審查意見時反覆強調自己如何千辛萬苦做出本發明，卻仍然被駁回一樣，所謂種瓜得瓜、種豆得豆只是一廂情願。很多情況下，辛苦換來的只是專利申請量增加，對專利授權量毫無影響，更談不上如何利用專利武器保衛企業和進攻對手。", "專利挖掘，或者說正確有效的專利挖掘，應當是在大量現有技術的現實基礎上，用專利申請文件，主要是權利要求書，描繪現有技術的可能變化。換句話說，與企業的普遍認知相反，專利挖掘可以完全脫離研發過程而單獨存在。事實上，大量成功案例都證明，專利挖掘完全可以走在企業研發前面，去指導研發方向。", "因此，專利挖掘工作者，也就是我常說的專利挖掘師，只要能把握現有技術並具備一定專利技巧，就能進行高效、高質量的專利挖掘，並獲得相當數量的高質量專利。", "專利挖掘中的專利技巧，接下來繼續與大家探討。"]]],
+        sections: [["原文", [
+          "公眾號：拓撲科創。作者：uncle ma。發布日期：2018-08-21。原文鏈接：https://mp.weixin.qq.com/s/-FBUOjLO6HsrBRrtyObhGg。",
+          "技術創新以各種方式影響着人們的生活，同時也已經成為企業經濟活動中最重要的組成部分。",
+          "作為技術創新的成功標誌，專利對社會技術創新的作用是複雜而微妙的。它一方面保護積極創新、又善於運用專利武器的實體企業，以及那些特別善於運用專利武器的非專利實施主體（NPE）；另一方面，它又會殘酷淘汰那些不能進行技術創新和/或不能運用專利武器的實體企業。",
+          "隨着知識產權執法愈加嚴厲，專利已經成為企業發展乃至生存不得不面對的現實問題。但對很多企業而言，怎樣才能獲得專利保護往往不得其法，甚至相當一部分企業不能理解如何進行專利挖掘。",
+          "那麼如何進行專利挖掘呢？首先我們要正確理解專利挖掘。這裡先要探討一個普遍認知誤區：絕大多數企業把專利挖掘理解為將研發過程或成果提煉成專利申請文件，並順理成章地認為發明授權概率與研發過程的艱辛程度成正比。簡言之，就是把專利挖掘理解為一個種瓜得瓜、種豆得豆，辛苦就能獲得回報的過程。",
+          "但是專利挖掘絕非簡單的天道酬勤。正如很多申請人在答覆創造性審查意見時反覆強調自己如何千辛萬苦做出本發明，卻仍然被駁回一樣，所謂種瓜得瓜、種豆得豆只是一廂情願。很多情況下，辛苦換來的只是專利申請量增加，對專利授權量毫無影響，更談不上如何利用專利武器保衛企業和進攻對手。",
+          "專利挖掘，或者說正確有效的專利挖掘，應當是在大量現有技術的現實基礎上，用專利申請文件，主要是權利要求書，描繪現有技術的可能變化。換句話說，與企業的普遍認知相反，專利挖掘可以完全脫離研發過程而單獨存在。事實上，大量成功案例都證明，專利挖掘完全可以走在企業研發前面，去指導研發方向。",
+          "因此，專利挖掘工作者，也就是我常說的專利挖掘師，只要能把握現有技術並具備一定專利技巧，就能進行高效、高質量的專利挖掘，並獲得相當數量的高質量專利。",
+          "專利挖掘中的專利技巧，接下來繼續與大家探討。",
+        ]],
+        ],
       },
       "ja": {
         docTitle: "特許発掘を正しく理解する | Ma Su",
@@ -1497,7 +1535,18 @@
         title: "特許発掘を正しく理解する",
         deck: "Topology Innovation 掲載記事。効果的な特許発掘とは、努力量を権利化可能性に置き換えることではなく、研究開発の前後で保護可能な技術変化を見つけることです。",
         meta: ["著者：uncle ma", "2018-08-21", "Topology Innovation WeChat 記事"],
-        sections: [["原文", ["公式アカウント：Topology Innovation。著者：uncle ma。公開日：2018-08-21。原文リンク：https://mp.weixin.qq.com/s/-FBUOjLO6HsrBRrtyObhGg。", "技術革新はさまざまな形で人々の生活に影響を与えており、同時に企業の経済活動において最も重要な構成要素の一つになっています。", "技術革新の成功を示すものとして、特許が社会の技術革新に果たす役割は複雑で繊細です。一方では、積極的に革新し、特許という武器を上手に使う事業会社や、特許活用に非常に長けた非実施主体（NPE）を保護します。他方では、技術革新ができない、または特許を活用できない事業会社を厳しく淘汰します。", "知的財産権の執行がますます厳しくなる中で、特許は企業の発展、さらには生存において避けて通れない現実的な問題になっています。しかし多くの企業にとって、どのように特許保護を得るべきかは十分に理解されておらず、特許発掘の進め方を理解していない企業も少なくありません。", "では、特許発掘はどのように行うべきでしょうか。まず特許発掘を正しく理解する必要があります。ここで取り上げたい一般的な誤解は、多くの企業が特許発掘を、研究開発の過程や成果を抽出して特許出願書類にすることだと考えている点です。そして、発明の権利化確率は研究開発の苦労の大きさに比例すると自然に考えてしまいます。要するに、努力すれば相応の成果が得られる過程として特許発掘を理解しているのです。", "しかし特許発掘は、単純に努力が報われる行為ではありません。多くの出願人が進歩性拒絶への応答で、自分たちがどれほど苦労して発明を完成させたかを繰り返し強調しても拒絶されることがあります。努力すればそのまま特許になるという考えは願望にすぎません。多くの場合、努力で増えるのは特許出願件数だけで、特許登録件数には影響せず、ましてや特許を使って企業を守り競合を攻めることにはつながりません。", "特許発掘、あるいは正しく有効な特許発掘とは、大量の既存技術という現実を前提に、特許出願書類、主に請求項によって既存技術の可能な変化を描くことです。つまり企業の一般的な理解とは反対に、特許発掘は研究開発過程から独立して存在できます。実際、多くの成功例は、特許発掘が企業の研究開発に先行し、その方向を導けることを示しています。", "したがって、特許発掘の担当者、私がよく特許発掘師と呼ぶ人は、既存技術を把握し一定の特許スキルを備えていれば、効率よく高品質な特許発掘を行い、相当数の高品質な特許を得ることができます。", "特許発掘における特許スキルについては、次回引き続き議論します。"]]],
+        sections: [["原文", [
+          "公式アカウント：Topology Innovation。著者：uncle ma。公開日：2018-08-21。原文リンク：https://mp.weixin.qq.com/s/-FBUOjLO6HsrBRrtyObhGg。",
+          "技術革新はさまざまな形で人々の生活に影響を与えており、同時に企業の経済活動において最も重要な構成要素の一つになっています。",
+          "技術革新の成功を示すものとして、特許が社会の技術革新に果たす役割は複雑で繊細です。一方では、積極的に革新し、特許という武器を上手に使う事業会社や、特許活用に非常に長けた非実施主体（NPE）を保護します。他方では、技術革新ができない、または特許を活用できない事業会社を厳しく淘汰します。",
+          "知的財産権の執行がますます厳しくなる中で、特許は企業の発展、さらには生存において避けて通れない現実的な問題になっています。しかし多くの企業にとって、どのように特許保護を得るべきかは十分に理解されておらず、特許発掘の進め方を理解していない企業も少なくありません。",
+          "では、特許発掘はどのように行うべきでしょうか。まず特許発掘を正しく理解する必要があります。ここで取り上げたい一般的な誤解は、多くの企業が特許発掘を、研究開発の過程や成果を抽出して特許出願書類にすることだと考えている点です。そして、発明の権利化確率は研究開発の苦労の大きさに比例すると自然に考えてしまいます。要するに、努力すれば相応の成果が得られる過程として特許発掘を理解しているのです。",
+          "しかし特許発掘は、単純に努力が報われる行為ではありません。多くの出願人が進歩性拒絶への応答で、自分たちがどれほど苦労して発明を完成させたかを繰り返し強調しても拒絶されることがあります。努力すればそのまま特許になるという考えは願望にすぎません。多くの場合、努力で増えるのは特許出願件数だけで、特許登録件数には影響せず、ましてや特許を使って企業を守り競合を攻めることにはつながりません。",
+          "特許発掘、あるいは正しく有効な特許発掘とは、大量の既存技術という現実を前提に、特許出願書類、主に請求項によって既存技術の可能な変化を描くことです。つまり企業の一般的な理解とは反対に、特許発掘は研究開発過程から独立して存在できます。実際、多くの成功例は、特許発掘が企業の研究開発に先行し、その方向を導けることを示しています。",
+          "したがって、特許発掘の担当者、私がよく特許発掘師と呼ぶ人は、既存技術を把握し一定の特許スキルを備えていれば、効率よく高品質な特許発掘を行い、相当数の高品質な特許を得ることができます。",
+          "特許発掘における特許スキルについては、次回引き続き議論します。",
+        ]],
+        ],
       },
       "tr": {
         docTitle: "Patent Madenciliğini Doğru Anlamak | Ma Su",
@@ -1506,7 +1555,18 @@
         title: "Patent Madenciliğini Doğru Anlamak",
         deck: "Topology Innovation'dan orijinal yazı. Etkili patent madenciliği, emeği doğrudan tescil olasılığına çevirmek değil, Ar-Ge'nin önünde ve çevresinde korunabilir teknik varyasyonları bulmaktır.",
         meta: ["Yazar: uncle ma", "2018-08-21", "Topology Innovation WeChat yazısı"],
-        sections: [["Orijinal Metin", ["Resmi hesap: Topology Innovation. Yazar: uncle ma. Yayın tarihi: 2018-08-21. Orijinal bağlantı: https://mp.weixin.qq.com/s/-FBUOjLO6HsrBRrtyObhGg.", "Teknolojik inovasyon insanların yaşamını çeşitli biçimlerde etkiler ve aynı zamanda işletmelerin ekonomik faaliyetlerinin en önemli parçalarından biri haline gelmiştir.", "Teknolojik inovasyonun başarılı bir göstergesi olarak patentlerin toplumsal inovasyondaki rolü karmaşık ve inceliklidir. Bir yandan aktif biçimde yenilik yapan ve patent silahını iyi kullanan işletmeleri, ayrıca patent silahını özellikle iyi kullanan patent dışı uygulama kuruluşlarını (NPE) korur. Diğer yandan, teknolojik inovasyon yapamayan veya patent silahını kullanamayan işletmeleri acımasızca eler.", "Fikri mülkiyet uygulaması giderek sertleşirken, patentler işletmelerin gelişimi ve hatta hayatta kalması için yüzleşmek zorunda oldukları daha gerçekçi bir mesele haline gelmiştir. Ancak birçok işletme için patent korumasının nasıl elde edileceği hâlâ belirsizdir; önemli bir kısmı patent madenciliğinin nasıl yapılacağını bile anlamamaktadır.", "O halde patent madenciliği nasıl yapılmalıdır? Önce patent madenciliğini doğru anlamalıyız. Burada yaygın bir yanılgıyı tartışmak gerekir: çoğu işletme patent madenciliğini, Ar-Ge sürecini veya sonucunu ayıklayıp patent başvuru belgelerine dönüştürmek olarak görür ve buluşun tescil olasılığının Ar-Ge sürecindeki zorlukla doğru orantılı olduğunu düşünür. Kısacası patent madenciliğini, emek verildiğinde otomatik olarak karşılık alınacak bir süreç sanır.", "Ancak patent madenciliği basitçe çalışkanlığın ödüllendirildiği bir iş değildir. Birçok başvuru sahibinin buluş basamağı itirazlarına cevap verirken bu buluşu ne kadar zorlukla yaptıklarını tekrar tekrar vurgulamasına rağmen reddedilmesi gibi, emek verilince doğrudan patent sonucu doğacağı fikri yalnızca temennidir. Çoğu durumda emek yalnızca patent başvuru sayısını artırır; patent tescil sayısına hiçbir etkisi olmaz, şirketi savunmak veya rakibe saldırmak için patent silahını kullanmaktan ise hiç söz edilemez.", "Patent madenciliği, yani doğru ve etkili patent madenciliği, çok sayıda mevcut teknolojinin gerçekliği temelinde, patent başvuru belgeleriyle, özellikle istemlerle mevcut teknolojinin olası değişimlerini tanımlamaktır. Başka bir deyişle, işletmelerin yaygın anlayışının tersine patent madenciliği Ar-Ge sürecinden tamamen bağımsız olarak var olabilir. Nitekim çok sayıda başarılı örnek, patent madenciliğinin şirket Ar-Ge'sinin önüne geçip yönünü belirleyebileceğini göstermiştir.", "Bu nedenle patent madenciliği yapan kişi, benim sıkça patent madenciliği mühendisi dediğim kişi, mevcut teknolojiyi kavrayıp belirli patent becerilerine sahip olduğunda verimli ve kaliteli patent madenciliği yapabilir ve kayda değer sayıda yüksek kaliteli patent elde edebilir.", "Patent madenciliğindeki patent becerilerini sonraki yazıda tartışmaya devam edeceğiz."]]],
+        sections: [["Orijinal Metin", [
+          "Resmi hesap: Topology Innovation. Yazar: uncle ma. Yayın tarihi: 2018-08-21. Orijinal bağlantı: https://mp.weixin.qq.com/s/-FBUOjLO6HsrBRrtyObhGg.",
+          "Teknolojik inovasyon insanların yaşamını çeşitli biçimlerde etkiler ve aynı zamanda işletmelerin ekonomik faaliyetlerinin en önemli parçalarından biri haline gelmiştir.",
+          "Teknolojik inovasyonun başarılı bir göstergesi olarak patentlerin toplumsal inovasyondaki rolü karmaşık ve inceliklidir. Bir yandan aktif biçimde yenilik yapan ve patent silahını iyi kullanan işletmeleri, ayrıca patent silahını özellikle iyi kullanan patent dışı uygulama kuruluşlarını (NPE) korur. Diğer yandan, teknolojik inovasyon yapamayan veya patent silahını kullanamayan işletmeleri acımasızca eler.",
+          "Fikri mülkiyet uygulaması giderek sertleşirken, patentler işletmelerin gelişimi ve hatta hayatta kalması için yüzleşmek zorunda oldukları daha gerçekçi bir mesele haline gelmiştir. Ancak birçok işletme için patent korumasının nasıl elde edileceği hâlâ belirsizdir; önemli bir kısmı patent madenciliğinin nasıl yapılacağını bile anlamamaktadır.",
+          "O halde patent madenciliği nasıl yapılmalıdır? Önce patent madenciliğini doğru anlamalıyız. Burada yaygın bir yanılgıyı tartışmak gerekir: çoğu işletme patent madenciliğini, Ar-Ge sürecini veya sonucunu ayıklayıp patent başvuru belgelerine dönüştürmek olarak görür ve buluşun tescil olasılığının Ar-Ge sürecindeki zorlukla doğru orantılı olduğunu düşünür. Kısacası patent madenciliğini, emek verildiğinde otomatik olarak karşılık alınacak bir süreç sanır.",
+          "Ancak patent madenciliği basitçe çalışkanlığın ödüllendirildiği bir iş değildir. Birçok başvuru sahibinin buluş basamağı itirazlarına cevap verirken bu buluşu ne kadar zorlukla yaptıklarını tekrar tekrar vurgulamasına rağmen reddedilmesi gibi, emek verilince doğrudan patent sonucu doğacağı fikri yalnızca temennidir. Çoğu durumda emek yalnızca patent başvuru sayısını artırır; patent tescil sayısına hiçbir etkisi olmaz, şirketi savunmak veya rakibe saldırmak için patent silahını kullanmaktan ise hiç söz edilemez.",
+          "Patent madenciliği, yani doğru ve etkili patent madenciliği, çok sayıda mevcut teknolojinin gerçekliği temelinde, patent başvuru belgeleriyle, özellikle istemlerle mevcut teknolojinin olası değişimlerini tanımlamaktır. Başka bir deyişle, işletmelerin yaygın anlayışının tersine patent madenciliği Ar-Ge sürecinden tamamen bağımsız olarak var olabilir. Nitekim çok sayıda başarılı örnek, patent madenciliğinin şirket Ar-Ge'sinin önüne geçip yönünü belirleyebileceğini göstermiştir.",
+          "Bu nedenle patent madenciliği yapan kişi, benim sıkça patent madenciliği mühendisi dediğim kişi, mevcut teknolojiyi kavrayıp belirli patent becerilerine sahip olduğunda verimli ve kaliteli patent madenciliği yapabilir ve kayda değer sayıda yüksek kaliteli patent elde edebilir.",
+          "Patent madenciliğindeki patent becerilerini sonraki yazıda tartışmaya devam edeceğiz.",
+        ]],
+        ],
       },
       "vi": {
         docTitle: "Nhận thức đúng về khai thác sáng chế | Ma Su",
@@ -1515,7 +1575,18 @@
         title: "Nhận thức đúng về khai thác sáng chế",
         deck: "Bài gốc từ Topology Innovation. Khai thác sáng chế hiệu quả không phải là đổi sự vất vả của R&D lấy xác suất được cấp bằng, mà là tìm ra biến thể kỹ thuật có thể bảo hộ trước và quanh quá trình R&D.",
         meta: ["Tác giả: uncle ma", "2018-08-21", "Bài viết WeChat Topology Innovation"],
-        sections: [["Văn bản gốc", ["Tài khoản công chúng: Topology Innovation. Tác giả: uncle ma. Ngày đăng: 2018-08-21. Liên kết gốc: https://mp.weixin.qq.com/s/-FBUOjLO6HsrBRrtyObhGg.", "Đổi mới công nghệ ảnh hưởng đến đời sống con người theo nhiều cách, đồng thời đã trở thành một trong những thành phần quan trọng nhất trong hoạt động kinh tế của doanh nghiệp.", "Là dấu hiệu thành công của đổi mới công nghệ, vai trò của sáng chế đối với đổi mới kỹ thuật trong xã hội rất phức tạp và tinh tế. Một mặt, nó bảo vệ các doanh nghiệp thực thể tích cực đổi mới và giỏi sử dụng vũ khí sáng chế, cũng như các chủ thể không thực hiện sáng chế (NPE) đặc biệt giỏi sử dụng vũ khí sáng chế. Mặt khác, nó cũng sẽ đào thải khắc nghiệt những doanh nghiệp không thể đổi mới công nghệ hoặc không biết sử dụng vũ khí sáng chế.", "Khi việc thực thi sở hữu trí tuệ ngày càng nghiêm khắc, sáng chế đã trở thành vấn đề ngày càng thực tế mà doanh nghiệp phải đối mặt để phát triển, thậm chí để tồn tại. Nhưng với nhiều doanh nghiệp, làm thế nào để có được bảo hộ sáng chế thường vẫn chưa đúng phương pháp, và một bộ phận đáng kể còn chưa hiểu cách khai thác sáng chế.", "Vậy khai thác sáng chế nên được thực hiện như thế nào? Trước hết, chúng ta cần hiểu đúng về khai thác sáng chế. Ở đây cần bàn về một ngộ nhận phổ biến: phần lớn doanh nghiệp hiểu khai thác sáng chế là tinh luyện quá trình hoặc kết quả R&D thành tài liệu nộp đơn sáng chế, rồi mặc nhiên cho rằng xác suất được cấp bằng tỷ lệ thuận với mức độ gian khổ của quá trình R&D. Nói ngắn gọn, họ hiểu khai thác sáng chế như một quá trình cứ vất vả là sẽ được đền đáp.", "Nhưng khai thác sáng chế tuyệt đối không phải là một hành vi đơn giản theo kiểu trời thưởng người chăm chỉ. Cũng như nhiều người nộp đơn khi trả lời ý kiến thẩm định về tính sáng tạo liên tục nhấn mạnh họ đã vất vả thế nào để làm ra phát minh nhưng vẫn bị bác bỏ, ý tưởng gieo gì gặt nấy chỉ là mong muốn một chiều. Trong nhiều trường hợp, sự vất vả chỉ làm tăng số lượng đơn sáng chế, không ảnh hưởng đến số lượng bằng được cấp, càng không thể nói đến việc dùng vũ khí sáng chế để bảo vệ doanh nghiệp và tấn công đối thủ.", "Khai thác sáng chế, hay khai thác sáng chế đúng và hiệu quả, nên là: trên cơ sở thực tế của một lượng lớn công nghệ hiện có, dùng tài liệu nộp đơn sáng chế, chủ yếu là yêu cầu bảo hộ, để mô tả các biến đổi có thể có của công nghệ hiện hữu. Nói cách khác, trái với nhận thức phổ biến của doanh nghiệp, khai thác sáng chế hoàn toàn có thể tồn tại độc lập với quá trình R&D. Trên thực tế, rất nhiều trường hợp thành công đã chứng minh rằng khai thác sáng chế hoàn toàn có thể đi trước R&D của doanh nghiệp để định hướng cho R&D.", "Vì vậy, người làm khai thác sáng chế, tôi thường gọi là kỹ sư khai thác sáng chế, nếu nắm được công nghệ hiện có và có kỹ năng sáng chế nhất định, có thể thực hiện khai thác sáng chế hiệu quả, chất lượng cao và thu được một số lượng đáng kể sáng chế chất lượng cao.", "Các kỹ năng sáng chế trong khai thác sáng chế sẽ tiếp tục được trao đổi với mọi người trong phần sau."]]],
+        sections: [["Văn bản gốc", [
+          "Tài khoản công chúng: Topology Innovation. Tác giả: uncle ma. Ngày đăng: 2018-08-21. Liên kết gốc: https://mp.weixin.qq.com/s/-FBUOjLO6HsrBRrtyObhGg.",
+          "Đổi mới công nghệ ảnh hưởng đến đời sống con người theo nhiều cách, đồng thời đã trở thành một trong những thành phần quan trọng nhất trong hoạt động kinh tế của doanh nghiệp.",
+          "Là dấu hiệu thành công của đổi mới công nghệ, vai trò của sáng chế đối với đổi mới kỹ thuật trong xã hội rất phức tạp và tinh tế. Một mặt, nó bảo vệ các doanh nghiệp thực thể tích cực đổi mới và giỏi sử dụng vũ khí sáng chế, cũng như các chủ thể không thực hiện sáng chế (NPE) đặc biệt giỏi sử dụng vũ khí sáng chế. Mặt khác, nó cũng sẽ đào thải khắc nghiệt những doanh nghiệp không thể đổi mới công nghệ hoặc không biết sử dụng vũ khí sáng chế.",
+          "Khi việc thực thi sở hữu trí tuệ ngày càng nghiêm khắc, sáng chế đã trở thành vấn đề ngày càng thực tế mà doanh nghiệp phải đối mặt để phát triển, thậm chí để tồn tại. Nhưng với nhiều doanh nghiệp, làm thế nào để có được bảo hộ sáng chế thường vẫn chưa đúng phương pháp, và một bộ phận đáng kể còn chưa hiểu cách khai thác sáng chế.",
+          "Vậy khai thác sáng chế nên được thực hiện như thế nào? Trước hết, chúng ta cần hiểu đúng về khai thác sáng chế. Ở đây cần bàn về một ngộ nhận phổ biến: phần lớn doanh nghiệp hiểu khai thác sáng chế là tinh luyện quá trình hoặc kết quả R&D thành tài liệu nộp đơn sáng chế, rồi mặc nhiên cho rằng xác suất được cấp bằng tỷ lệ thuận với mức độ gian khổ của quá trình R&D. Nói ngắn gọn, họ hiểu khai thác sáng chế như một quá trình cứ vất vả là sẽ được đền đáp.",
+          "Nhưng khai thác sáng chế tuyệt đối không phải là một hành vi đơn giản theo kiểu trời thưởng người chăm chỉ. Cũng như nhiều người nộp đơn khi trả lời ý kiến thẩm định về tính sáng tạo liên tục nhấn mạnh họ đã vất vả thế nào để làm ra phát minh nhưng vẫn bị bác bỏ, ý tưởng gieo gì gặt nấy chỉ là mong muốn một chiều. Trong nhiều trường hợp, sự vất vả chỉ làm tăng số lượng đơn sáng chế, không ảnh hưởng đến số lượng bằng được cấp, càng không thể nói đến việc dùng vũ khí sáng chế để bảo vệ doanh nghiệp và tấn công đối thủ.",
+          "Khai thác sáng chế, hay khai thác sáng chế đúng và hiệu quả, nên là: trên cơ sở thực tế của một lượng lớn công nghệ hiện có, dùng tài liệu nộp đơn sáng chế, chủ yếu là yêu cầu bảo hộ, để mô tả các biến đổi có thể có của công nghệ hiện hữu. Nói cách khác, trái với nhận thức phổ biến của doanh nghiệp, khai thác sáng chế hoàn toàn có thể tồn tại độc lập với quá trình R&D. Trên thực tế, rất nhiều trường hợp thành công đã chứng minh rằng khai thác sáng chế hoàn toàn có thể đi trước R&D của doanh nghiệp để định hướng cho R&D.",
+          "Vì vậy, người làm khai thác sáng chế, tôi thường gọi là kỹ sư khai thác sáng chế, nếu nắm được công nghệ hiện có và có kỹ năng sáng chế nhất định, có thể thực hiện khai thác sáng chế hiệu quả, chất lượng cao và thu được một số lượng đáng kể sáng chế chất lượng cao.",
+          "Các kỹ năng sáng chế trong khai thác sáng chế sẽ tiếp tục được trao đổi với mọi người trong phần sau.",
+        ]],
+        ],
       },
     },
     "china-prosecution-for-foreign-firms": {
@@ -1527,9 +1598,27 @@
         deck: "Why China entry should be treated as a strategic examination event, not a translation task.",
         meta: ["By Ma Su", "English edition for international readers", "Ma Su Team Knowledge Center"],
         sections: [
-          ["China Filing Is Not a Translation Task", ["Many overseas patent matters enter China after the international drafting strategy is already fixed. The Chinese filing is then treated as translation, formatting, and submission. That may be efficient administratively, but it can miss the issues that matter most in Chinese examination: technical contribution, support, feature comparison, inventive-step reasoning, and fallback claim positions.", "The better question is not whether the case can be filed in China. The better question is how the invention should enter China in a grant-oriented and commercially useful way.", "For foreign patent firms and overseas applicants entering China, this point should be treated as a working step rather than a slogan. The practical work is to connect the article's idea with pre-filing China review, examiner-style patentability screening, claim reconstruction, office-action simulation, and bilingual strategy communication. That is what turns a general insight into a repeatable professional service.", "The team should record concrete evidence: original PCT or priority claims, specification support, Chinese prior-art risks, fallback features, expected inventive-step objections, and client business goals. Without this evidence layer, the method remains only an opinion. With it, the article becomes useful for client communication, internal decision-making, patent drafting, prosecution strategy, and later portfolio review.", "A complete application of this section normally ends with a decision: how to enter China with a claim set that is not merely translated, but rebuilt for Chinese examination and commercial value. Ma Su's examiner background matters here because the decision is not based only on enthusiasm; it is tested against technical contribution, support in the disclosure, likely examination reasoning, and business value."], ["China Filing Is Not a Translation Task: practical detail"]],
-          ["Pre-Filing Review Points", ["Before filing, the China-side team should identify the true technical contribution, check whether the specification supports the desired scope, compare core features with likely prior art, simulate likely office-action reasoning, and design fallback layers.", "Sometimes the original claim set is not the best claim set for China. Claim reconstruction may be necessary to preserve value while improving grant probability.", "For foreign patent firms and overseas applicants entering China, this point should be treated as a working step rather than a slogan. The practical work is to connect the article's idea with pre-filing China review, examiner-style patentability screening, claim reconstruction, office-action simulation, and bilingual strategy communication. That is what turns a general insight into a repeatable professional service.", "The team should record concrete evidence: original PCT or priority claims, specification support, Chinese prior-art risks, fallback features, expected inventive-step objections, and client business goals. Without this evidence layer, the method remains only an opinion. With it, the article becomes useful for client communication, internal decision-making, patent drafting, prosecution strategy, and later portfolio review.", "A complete application of this section normally ends with a decision: how to enter China with a claim set that is not merely translated, but rebuilt for Chinese examination and commercial value. Ma Su's examiner background matters here because the decision is not based only on enthusiasm; it is tested against technical contribution, support in the disclosure, likely examination reasoning, and business value."], ["Pre-Filing Review Points: practical detail"]],
-          ["What Foreign Patent Firms Need from a China Partner", ["A strong China partner should understand both the inventor's technology and the examiner's logic. The partner should be able to explain risks early, propose claim amendments, prepare arguments before the office action arrives, and help foreign counsel communicate realistic strategy to clients.", "Led by Ma Su, Ma Su Team combines senior Chinese patent attorney practice with former national patent office examiner perspectives. For technically supportable inventions, the goal is to move China prosecution as close as possible to a predictable grant path while preserving meaningful claim value.", "For foreign patent firms and overseas applicants entering China, this point should be treated as a working step rather than a slogan. The practical work is to connect the article's idea with pre-filing China review, examiner-style patentability screening, claim reconstruction, office-action simulation, and bilingual strategy communication. That is what turns a general insight into a repeatable professional service.", "The team should record concrete evidence: original PCT or priority claims, specification support, Chinese prior-art risks, fallback features, expected inventive-step objections, and client business goals. Without this evidence layer, the method remains only an opinion. With it, the article becomes useful for client communication, internal decision-making, patent drafting, prosecution strategy, and later portfolio review.", "A complete application of this section normally ends with a decision: how to enter China with a claim set that is not merely translated, but rebuilt for Chinese examination and commercial value. Ma Su's examiner background matters here because the decision is not based only on enthusiasm; it is tested against technical contribution, support in the disclosure, likely examination reasoning, and business value."], ["What Foreign Patent Firms Need from a China Partner: practical detail"]],
+          ["China Filing Is Not a Translation Task", [
+            "Many overseas patent matters enter China after the international drafting strategy is already fixed. The Chinese filing is then treated as translation, formatting, and submission. That may be efficient administratively, but it can miss the issues that matter most in Chinese examination: technical contribution, support, feature comparison, inventive-step reasoning, and fallback claim positions.",
+            "The better question is not whether the case can be filed in China. The better question is how the invention should enter China in a grant-oriented and commercially useful way.",
+            "For foreign patent firms and overseas applicants entering China, this point should be treated as a working step rather than a slogan. The practical work is to connect the article's idea with pre-filing China review, examiner-style patentability screening, claim reconstruction, office-action simulation, and bilingual strategy communication. That is what turns a general insight into a repeatable professional service.",
+            "The team should record concrete evidence: original PCT or priority claims, specification support, Chinese prior-art risks, fallback features, expected inventive-step objections, and client business goals. Without this evidence layer, the method remains only an opinion. With it, the article becomes useful for client communication, internal decision-making, patent drafting, prosecution strategy, and later portfolio review.",
+            "A complete application of this section normally ends with a decision: how to enter China with a claim set that is not merely translated, but rebuilt for Chinese examination and commercial value. Ma Su's examiner background matters here because the decision is not based only on enthusiasm; it is tested against technical contribution, support in the disclosure, likely examination reasoning, and business value.",
+          ], ["China Filing Is Not a Translation Task: practical detail"]],
+          ["Pre-Filing Review Points", [
+            "Before filing, the China-side team should identify the true technical contribution, check whether the specification supports the desired scope, compare core features with likely prior art, simulate likely office-action reasoning, and design fallback layers.",
+            "Sometimes the original claim set is not the best claim set for China. Claim reconstruction may be necessary to preserve value while improving grant probability.",
+            "For foreign patent firms and overseas applicants entering China, this point should be treated as a working step rather than a slogan. The practical work is to connect the article's idea with pre-filing China review, examiner-style patentability screening, claim reconstruction, office-action simulation, and bilingual strategy communication. That is what turns a general insight into a repeatable professional service.",
+            "The team should record concrete evidence: original PCT or priority claims, specification support, Chinese prior-art risks, fallback features, expected inventive-step objections, and client business goals. Without this evidence layer, the method remains only an opinion. With it, the article becomes useful for client communication, internal decision-making, patent drafting, prosecution strategy, and later portfolio review.",
+            "A complete application of this section normally ends with a decision: how to enter China with a claim set that is not merely translated, but rebuilt for Chinese examination and commercial value. Ma Su's examiner background matters here because the decision is not based only on enthusiasm; it is tested against technical contribution, support in the disclosure, likely examination reasoning, and business value.",
+          ], ["Pre-Filing Review Points: practical detail"]],
+          ["What Foreign Patent Firms Need from a China Partner", [
+            "A strong China partner should understand both the inventor's technology and the examiner's logic. The partner should be able to explain risks early, propose claim amendments, prepare arguments before the office action arrives, and help foreign counsel communicate realistic strategy to clients.",
+            "Led by Ma Su, Ma Su Team combines senior Chinese patent attorney practice with former national patent office examiner perspectives. For technically supportable inventions, the goal is to move China prosecution as close as possible to a predictable grant path while preserving meaningful claim value.",
+            "For foreign patent firms and overseas applicants entering China, this point should be treated as a working step rather than a slogan. The practical work is to connect the article's idea with pre-filing China review, examiner-style patentability screening, claim reconstruction, office-action simulation, and bilingual strategy communication. That is what turns a general insight into a repeatable professional service.",
+            "The team should record concrete evidence: original PCT or priority claims, specification support, Chinese prior-art risks, fallback features, expected inventive-step objections, and client business goals. Without this evidence layer, the method remains only an opinion. With it, the article becomes useful for client communication, internal decision-making, patent drafting, prosecution strategy, and later portfolio review.",
+            "A complete application of this section normally ends with a decision: how to enter China with a claim set that is not merely translated, but rebuilt for Chinese examination and commercial value. Ma Su's examiner background matters here because the decision is not based only on enthusiasm; it is tested against technical contribution, support in the disclosure, likely examination reasoning, and business value.",
+          ], ["What Foreign Patent Firms Need from a China Partner: practical detail"]],
         ],
       },
       "zh-hk": {
@@ -1540,9 +1629,27 @@
         deck: "中國進入不只是翻譯、格式和提交，而是一次需要圍繞審查邏輯、授權概率和商業價值重新設計的戰略事件。",
         meta: ["作者：馬肅", "面向國際讀者的文章", "馬肅團隊知識中心"],
         sections: [
-          ["中國申請不是翻譯任務", ["許多海外專利案件進入中國時，國際撰寫策略其實已經固定。中國申請於是被當成翻譯、排版和提交。這在行政流程上可能很有效率，但容易錯過中國審查中最重要的問題：技術貢獻、說明書支持、特徵比對、創造性推理以及可退守的權利要求層級。", "更好的問題不是這個案件能不能在中國提交，而是這項發明應該如何以更有利於授權、也更有商業價值的方式進入中國。", "對外國專利機構和海外申請人而言，這一點應該被當成工作步驟，而不是一句口號。實際工作是把文章中的觀點連接到中國進入前審查、審查員式可專利性篩查、權利要求重構、審查意見模擬和雙語策略溝通。這會把一般性的洞察轉化為可重複的專業服務。", "團隊需要記錄具體證據：原始 PCT 或優先權權利要求、說明書支持、中國現有技術風險、可退守特徵、可能出現的創造性駁回理由，以及客戶的商業目標。沒有這層證據，方法只是一種意見；有了它，文章才會對客戶溝通、內部決策、專利撰寫、審查策略和後續組合評估有實際用處。", "這一部分的完整應用，通常會以一個決策作結：如何用一套不只是翻譯、而是為中國審查和商業價值重建過的權利要求進入中國。馬肅的審查員背景在這裡很重要，因為這個決策不是只靠熱情，而是要經過技術貢獻、公開支持、可能的審查推理和商業價值的檢驗。"], ["中國申請不是翻譯任務：實務細節"]],
-          ["提交前審查要點", ["提交之前，中國側團隊應當識別真正的技術貢獻，檢查說明書是否支持目標保護範圍，將核心特徵與可能的現有技術進行比較，模擬可能的審查意見推理，並設計退守層級。", "有時候，原始權利要求並不是最適合中國的權利要求。為了保留價值並提高授權可能性，可能需要重構權利要求。", "對外國專利機構和海外申請人而言，這一點應該被當成工作步驟，而不是一句口號。實際工作是把文章中的觀點連接到中國進入前審查、審查員式可專利性篩查、權利要求重構、審查意見模擬和雙語策略溝通。這會把一般性的洞察轉化為可重複的專業服務。", "團隊需要記錄具體證據：原始 PCT 或優先權權利要求、說明書支持、中國現有技術風險、可退守特徵、可能出現的創造性駁回理由，以及客戶的商業目標。沒有這層證據，方法只是一種意見；有了它，文章才會對客戶溝通、內部決策、專利撰寫、審查策略和後續組合評估有實際用處。", "這一部分的完整應用，通常會以一個決策作結：如何用一套不只是翻譯、而是為中國審查和商業價值重建過的權利要求進入中國。馬肅的審查員背景在這裡很重要，因為這個決策不是只靠熱情，而是要經過技術貢獻、公開支持、可能的審查推理和商業價值的檢驗。"], ["提交前審查要點：實務細節"]],
-          ["外國專利機構需要怎樣的中國合作夥伴", ["強有力的中國合作夥伴應當同時理解發明人的技術和審查員的邏輯。合作夥伴應能提前說明風險，提出權利要求修改方案，在審查意見到來之前準備論證，並幫助外國代理人向客戶傳達現實可行的策略。", "在馬肅帶領下，馬肅團隊把資深中國專利代理實務與前國家專利局審查員視角結合起來。對於技術上有支持的發明，目標是在保留有意義權利要求價值的同時，盡可能讓中國審查走向可預期的授權路徑。", "對外國專利機構和海外申請人而言，這一點應該被當成工作步驟，而不是一句口號。實際工作是把文章中的觀點連接到中國進入前審查、審查員式可專利性篩查、權利要求重構、審查意見模擬和雙語策略溝通。這會把一般性的洞察轉化為可重複的專業服務。", "團隊需要記錄具體證據：原始 PCT 或優先權權利要求、說明書支持、中國現有技術風險、可退守特徵、可能出現的創造性駁回理由，以及客戶的商業目標。沒有這層證據，方法只是一種意見；有了它，文章才會對客戶溝通、內部決策、專利撰寫、審查策略和後續組合評估有實際用處。", "這一部分的完整應用，通常會以一個決策作結：如何用一套不只是翻譯、而是為中國審查和商業價值重建過的權利要求進入中國。馬肅的審查員背景在這裡很重要，因為這個決策不是只靠熱情，而是要經過技術貢獻、公開支持、可能的審查推理和商業價值的檢驗。"], ["外國專利機構需要怎樣的中國合作夥伴：實務細節"]],
+          ["中國申請不是翻譯任務", [
+            "許多海外專利案件進入中國時，國際撰寫策略其實已經固定。中國申請於是被當成翻譯、排版和提交。這在行政流程上可能很有效率，但容易錯過中國審查中最重要的問題：技術貢獻、說明書支持、特徵比對、創造性推理以及可退守的權利要求層級。",
+            "更好的問題不是這個案件能不能在中國提交，而是這項發明應該如何以更有利於授權、也更有商業價值的方式進入中國。",
+            "對外國專利機構和海外申請人而言，這一點應該被當成工作步驟，而不是一句口號。實際工作是把文章中的觀點連接到中國進入前審查、審查員式可專利性篩查、權利要求重構、審查意見模擬和雙語策略溝通。這會把一般性的洞察轉化為可重複的專業服務。",
+            "團隊需要記錄具體證據：原始 PCT 或優先權權利要求、說明書支持、中國現有技術風險、可退守特徵、可能出現的創造性駁回理由，以及客戶的商業目標。沒有這層證據，方法只是一種意見；有了它，文章才會對客戶溝通、內部決策、專利撰寫、審查策略和後續組合評估有實際用處。",
+            "這一部分的完整應用，通常會以一個決策作結：如何用一套不只是翻譯、而是為中國審查和商業價值重建過的權利要求進入中國。馬肅的審查員背景在這裡很重要，因為這個決策不是只靠熱情，而是要經過技術貢獻、公開支持、可能的審查推理和商業價值的檢驗。",
+          ], ["中國申請不是翻譯任務：實務細節"]],
+          ["提交前審查要點", [
+            "提交之前，中國側團隊應當識別真正的技術貢獻，檢查說明書是否支持目標保護範圍，將核心特徵與可能的現有技術進行比較，模擬可能的審查意見推理，並設計退守層級。",
+            "有時候，原始權利要求並不是最適合中國的權利要求。為了保留價值並提高授權可能性，可能需要重構權利要求。",
+            "對外國專利機構和海外申請人而言，這一點應該被當成工作步驟，而不是一句口號。實際工作是把文章中的觀點連接到中國進入前審查、審查員式可專利性篩查、權利要求重構、審查意見模擬和雙語策略溝通。這會把一般性的洞察轉化為可重複的專業服務。",
+            "團隊需要記錄具體證據：原始 PCT 或優先權權利要求、說明書支持、中國現有技術風險、可退守特徵、可能出現的創造性駁回理由，以及客戶的商業目標。沒有這層證據，方法只是一種意見；有了它，文章才會對客戶溝通、內部決策、專利撰寫、審查策略和後續組合評估有實際用處。",
+            "這一部分的完整應用，通常會以一個決策作結：如何用一套不只是翻譯、而是為中國審查和商業價值重建過的權利要求進入中國。馬肅的審查員背景在這裡很重要，因為這個決策不是只靠熱情，而是要經過技術貢獻、公開支持、可能的審查推理和商業價值的檢驗。",
+          ], ["提交前審查要點：實務細節"]],
+          ["外國專利機構需要怎樣的中國合作夥伴", [
+            "強有力的中國合作夥伴應當同時理解發明人的技術和審查員的邏輯。合作夥伴應能提前說明風險，提出權利要求修改方案，在審查意見到來之前準備論證，並幫助外國代理人向客戶傳達現實可行的策略。",
+            "在馬肅帶領下，馬肅團隊把資深中國專利代理實務與前國家專利局審查員視角結合起來。對於技術上有支持的發明，目標是在保留有意義權利要求價值的同時，盡可能讓中國審查走向可預期的授權路徑。",
+            "對外國專利機構和海外申請人而言，這一點應該被當成工作步驟，而不是一句口號。實際工作是把文章中的觀點連接到中國進入前審查、審查員式可專利性篩查、權利要求重構、審查意見模擬和雙語策略溝通。這會把一般性的洞察轉化為可重複的專業服務。",
+            "團隊需要記錄具體證據：原始 PCT 或優先權權利要求、說明書支持、中國現有技術風險、可退守特徵、可能出現的創造性駁回理由，以及客戶的商業目標。沒有這層證據，方法只是一種意見；有了它，文章才會對客戶溝通、內部決策、專利撰寫、審查策略和後續組合評估有實際用處。",
+            "這一部分的完整應用，通常會以一個決策作結：如何用一套不只是翻譯、而是為中國審查和商業價值重建過的權利要求進入中國。馬肅的審查員背景在這裡很重要，因為這個決策不是只靠熱情，而是要經過技術貢獻、公開支持、可能的審查推理和商業價值的檢驗。",
+          ], ["外國專利機構需要怎樣的中國合作夥伴：實務細節"]],
         ],
       },
       "ja": {
@@ -1553,9 +1660,27 @@
         deck: "中国移行は、翻訳、体裁調整、提出だけの作業ではありません。審査ロジック、権利化可能性、商業価値を踏まえて再設計すべき戦略的な場面です。",
         meta: ["著者：Ma Su", "国際読者向け英語記事", "Ma Su Team ナレッジセンター"],
         sections: [
-          ["中国出願は翻訳作業ではない", ["多くの海外特許案件は、国際段階のドラフト戦略がすでに固まった後に中国へ入ってきます。そのため中国出願は、翻訳、書式調整、提出として扱われがちです。行政的には効率的でも、中国審査で最も重要な問題、つまり技術的貢献、明細書のサポート、特徴比較、進歩性判断、後退可能な請求項ポジションを見落とすおそれがあります。", "よりよい問いは、その案件を中国に出願できるかどうかではありません。その発明を、権利化に近く商業的にも有用な形でどのように中国へ入れるかです。", "外国特許事務所や海外出願人にとって、この点はスローガンではなく作業ステップとして扱うべきです。実務では、この記事の考え方を中国移行前レビュー、審査官目線の特許性スクリーニング、請求項再構成、拒絶理由通知のシミュレーション、二言語での戦略コミュニケーションに結びつけます。これにより一般的な洞察が、繰り返し提供できる専門サービスになります。", "チームは具体的な証拠を記録する必要があります。元の PCT または優先権請求項、明細書のサポート、中国での先行技術リスク、後退可能な特徴、予想される進歩性拒絶、そしてクライアントの事業目標です。この証拠層がなければ、方法は単なる意見にとどまります。証拠層があれば、クライアント説明、内部判断、特許ドラフト、審査対応戦略、後のポートフォリオレビューに役立つものになります。", "この部分を完全に適用すると、通常は一つの決定に至ります。単に翻訳された請求項ではなく、中国審査と商業価値のために再構成された請求項セットで、どのように中国へ入るかという決定です。ここで Ma Su の審査官経験が重要になります。判断は熱意だけではなく、技術的貢献、開示のサポート、想定される審査ロジック、事業価値によって検証されるからです。"], ["中国出願は翻訳作業ではない：実務上の詳細"]],
-          ["出願前レビューの要点", ["出願前に、中国側チームは真の技術的貢献を特定し、明細書が望ましい保護範囲を支えているかを確認し、主要特徴を想定される先行技術と比較し、想定される拒絶理由のロジックをシミュレーションし、後退可能な層を設計すべきです。", "元の請求項セットが中国にとって最適とは限りません。価値を保ちながら権利化可能性を高めるために、請求項の再構成が必要になることがあります。", "外国特許事務所や海外出願人にとって、この点はスローガンではなく作業ステップとして扱うべきです。実務では、この記事の考え方を中国移行前レビュー、審査官目線の特許性スクリーニング、請求項再構成、拒絶理由通知のシミュレーション、二言語での戦略コミュニケーションに結びつけます。これにより一般的な洞察が、繰り返し提供できる専門サービスになります。", "チームは具体的な証拠を記録する必要があります。元の PCT または優先権請求項、明細書のサポート、中国での先行技術リスク、後退可能な特徴、予想される進歩性拒絶、そしてクライアントの事業目標です。この証拠層がなければ、方法は単なる意見にとどまります。証拠層があれば、クライアント説明、内部判断、特許ドラフト、審査対応戦略、後のポートフォリオレビューに役立つものになります。", "この部分を完全に適用すると、通常は一つの決定に至ります。単に翻訳された請求項ではなく、中国審査と商業価値のために再構成された請求項セットで、どのように中国へ入るかという決定です。ここで Ma Su の審査官経験が重要になります。判断は熱意だけではなく、技術的貢献、開示のサポート、想定される審査ロジック、事業価値によって検証されるからです。"], ["出願前レビューの要点：実務上の詳細"]],
-          ["外国特許事務所が中国パートナーに求めるもの", ["強い中国パートナーは、発明者の技術と審査官のロジックの両方を理解しているべきです。早い段階でリスクを説明し、請求項補正案を示し、拒絶理由通知が来る前に主張を準備し、外国代理人がクライアントへ現実的な戦略を伝える支援ができる必要があります。", "Ma Su が率いる Ma Su Team は、経験豊富な中国弁理士実務と元国家特許庁審査官の視点を組み合わせています。技術的にサポート可能な発明については、意味のある請求項価値を保ちながら、中国審査をできる限り予測可能な権利化ルートへ近づけることを目指します。", "外国特許事務所や海外出願人にとって、この点はスローガンではなく作業ステップとして扱うべきです。実務では、この記事の考え方を中国移行前レビュー、審査官目線の特許性スクリーニング、請求項再構成、拒絶理由通知のシミュレーション、二言語での戦略コミュニケーションに結びつけます。これにより一般的な洞察が、繰り返し提供できる専門サービスになります。", "チームは具体的な証拠を記録する必要があります。元の PCT または優先権請求項、明細書のサポート、中国での先行技術リスク、後退可能な特徴、予想される進歩性拒絶、そしてクライアントの事業目標です。この証拠層がなければ、方法は単なる意見にとどまります。証拠層があれば、クライアント説明、内部判断、特許ドラフト、審査対応戦略、後のポートフォリオレビューに役立つものになります。", "この部分を完全に適用すると、通常は一つの決定に至ります。単に翻訳された請求項ではなく、中国審査と商業価値のために再構成された請求項セットで、どのように中国へ入るかという決定です。ここで Ma Su の審査官経験が重要になります。判断は熱意だけではなく、技術的貢献、開示のサポート、想定される審査ロジック、事業価値によって検証されるからです。"], ["外国特許事務所が中国パートナーに求めるもの：実務上の詳細"]],
+          ["中国出願は翻訳作業ではない", [
+            "多くの海外特許案件は、国際段階のドラフト戦略がすでに固まった後に中国へ入ってきます。そのため中国出願は、翻訳、書式調整、提出として扱われがです。行政的には効率的でも、中国審査で最も重要な問題、つまり技術的貢献、明細書のサポート、特徴比較、進歩性判断、後退可能な請求項ポジションを見落とすおそれがあります。",
+            "よりよい問いは、その案件を中国に出願できるかどうかではありません。その発明を、権利化に近く商業的にも有用な形でどのように中国へ入れるかです。",
+            "外国特許事務所や海外出願人にとって、この点はスローガンではなく作業ステップとして扱うべきです。実務では、この記事の考え方を中国移行前レビュー、審査官目線の特許性スクリーニング、請求項再構成、拒絶理由通知のシミュレーション、二言語での戦略コミュニケーションに結びつけます。これにより一般的な洞察が、繰り返し提供できる専門サービスになります。",
+            "チームは具体的な証拠を記録する必要があります。元の PCT または優先権請求項、明細書のサポート、中国での先行技術リスク、後退可能な特徴、予想される進歩性拒絶、そしてクライアントの事業目標です。この証拠層がなければ、方法は単なる意見にとどまります。証拠層があれば、クライアント説明、内部判断、特許ドラフト、審査対応戦略、後のポートフォリオレビューに役立つものになります。",
+            "この部分を完整に適用すると、通常は一つの決定に至ります。単に翻訳された請求項ではなく、中国審査と商業価値のために再構成された請求項セットで、どのように中国へ入るかという決定です。ここで Ma Su の審査官経験が重要になります。判断は熱意だけではなく、技術的貢献、開示のサポート、想定される審査ロジック、事業価値によって検証されるからです。",
+          ], ["中国出願は翻訳作業ではない：実務上の詳細"]],
+          ["出願前レビューの要点", [
+            "出願前に、中国側チームは真の技術的貢献を特定し、明細書が望ましい保護範囲を支えているかを確認し、主要特徴を想定される先行技術と比較し、想定される拒絶理由のロジックをシミュレーションし、後退可能な層を設計すべきです。",
+            "元の請求項セットが中国にとって最適とは限りません。価値を保ちながら権利化可能性を高めるために、請求項の再構成が必要になることがあります。",
+            "外国特許事務所や海外出願人にとって、この点はスローガンではなく作業ステップとして扱うべきです。実務では、この記事の考え方を中国移行前レビュー、審査官目線の特許性スクリーニング、請求項再構成、拒絶理由通知のシミュレーション、二言語での戦略コミュニケーションに結びつけます。これにより一般的な洞察が、繰り返し提供できる専門サービスになります。",
+            "チームは具体的な証拠を記録する必要があります。元の PCT または優先権請求項、明細書のサポート、中国での先行技術リスク、後退可能な特徴、予想される進歩性拒絶、そしてクライアントの事業目標です。この証拠層がなければ、方法は単なる意見にとどまります。証拠層があれば、クライアント説明、内部判断、特許ドラフト、審査対応戦略、後のポートフォリオレビューに役立つものになります。",
+            "この部分を完整に適用すると、通常は一つの決定に至ります。単に翻訳された請求項ではなく、中国審査と商業価値のために再構成された請求項セットで、どのように中国へ入るかという決定です。ここで Ma Su の審査官経験が重要になります。判断は熱意だけではなく、技術的貢献、開示のサポート、想定される審査ロジック、事業価値によって検証されるからです。",
+          ], ["出願前レビューの要点：実務上の詳細"]],
+          ["外国特許事務所が中国パートナーに求めるもの", [
+            "強い中国パートナーは、発明者の技術と審査官のロジックの両方を理解しているべきです。早い段階でリスクを説明し、請求項補正案を示し、拒絶理由通知が来る前に主張を準備し、外国代理人がクライアントへ現実的な戦略を伝える支援ができる必要があります。",
+            "Ma Su が率いる Ma Su Team は、経験豊富な中国弁理士実務と元国家特許庁審査官の視点を組み合わせています。技術的にサポート可能な発明については、意味のある請求項価値を保ちながら、中国審査をできる限り予測可能な権利化ルートへ近づけることを目指します。",
+            "外国特許事務所や海外出願人にとって、この点はスローガンではなく作業ステップとして扱うべきです。実務では、この記事の考え方を中国移行前レビュー、審査官目線の特許性スクリーニング、請求項再構成、拒絶理由通知のシミュレーション、二言語での戦略コミュニケーションに結びつけます。これにより一般的な洞察が、繰り返し提供できる専門サービスになります。",
+            "チームは具体的な証拠を記録する必要があります。元の PCT または優先権請求項、明細書のサポート、中国での先行技術リスク、後退可能な特徴、予想される進歩性拒絶、そしてクライアントの事業目標です。この証拠層がなければ、方法は単なる意見にとどまります。証拠層があれば、クライアント説明、内部判断、特許ドラフト、審査対応戦略、後のポートフォリオレビューに役立つものになります。",
+            "この部分を完整に適用すると、通常は一つの決定に至ります。単に翻訳された請求項ではなく、中国審査と商業価値のために再構成された請求項セットで、どのように中国へ入るかという決定です。ここで Ma Su の審査官経験が重要になります。判断は熱意だけではなく、技術的貢献、開示のサポート、想定される審査ロジック、事業価値によって検証されるからです。",
+          ], ["外国特許事務所が中国パートナーに求めるもの：実務上の詳細"]],
         ],
       },
       "tr": {
@@ -1733,14 +1858,103 @@
     }
   };
 
+  const simplifiedPhraseMap = [
+    ["智慧財產權", "知识产权"],
+    ["知識產權", "知识产权"],
+    ["權利要求", "权利要求"],
+    ["專利審查員", "专利审查员"],
+    ["專利代理師", "专利代理师"],
+    ["專利代理", "专利代理"],
+    ["專利申請", "专利申请"],
+    ["專利佈局", "专利布局"],
+    ["發明專利", "发明专利"],
+    ["發明挖掘", "发明挖掘"],
+    ["技術問題", "技术问题"],
+    ["技術特徵", "技术特征"],
+    ["創新方法論", "创新方法论"],
+    ["青少年科創", "青少年科创"],
+    ["科創教育", "科创教育"],
+    ["中國國家知識產權局", "中国国家知识产权局"],
+    ["中國企業", "中国企业"],
+    ["境外創新", "境外创新"],
+    ["跨境專利", "跨境专利"],
+    ["聯絡", "联系"],
+    ["關於", "关于"],
+    ["文章中心", "文章中心"],
+  ];
+
+  const simplifiedCharMap = {
+    "馬": "马", "肅": "肃", "專": "专", "審": "审", "員": "员", "創": "创", "實": "实", "踐": "践",
+    "發": "发", "權": "权", "書": "书", "標": "标", "準": "准", "關": "关", "於": "于", "聯": "联",
+    "絡": "络", "識": "识", "庫": "库", "資訊": "资讯", "資": "资", "訊": "讯", "讓": "让", "個": "个",
+    "國": "国", "廣": "广", "東": "东", "讀": "读", "閱": "阅", "導": "导", "題": "题", "問": "问",
+    "類": "类", "應": "应", "對": "对", "階": "阶", "過": "过", "驗": "验", "證": "证", "獲": "获",
+    "機": "机", "構": "构", "佈": "布", "局": "局", "辦": "办", "務": "务", "體": "体", "現": "现",
+    "點": "点", "帶": "带", "課": "课", "程": "程", "學": "学", "習": "习", "與": "与", "為": "为",
+    "無": "无", "論": "论", "還": "还", "從": "从", "這": "这", "種": "种", "說": "说", "明": "明",
+    "開": "开", "篩": "筛", "選": "选", "權": "权", "請": "请", "說": "说", "誰": "谁", "來": "来",
+    "內": "内", "長": "长", "經": "经", "驗": "验", "轉": "转", "換": "换", "價": "价", "值": "值",
+    "維": "维", "護": "护", "號": "号", "碼": "码", "網": "网", "站": "站", "優": "优", "劣": "劣",
+    "產": "产", "業": "业", "線": "线", "徑": "径", "徵": "征", "組": "组", "織": "织", "圖": "图",
+    "難": "难", "題": "题", "處": "处", "復": "复", "製": "制", "檢": "检", "索": "索", "據": "据",
+    "數": "数", "據": "据", "後": "后", "顯": "显", "著": "着", "獎": "奖", "項": "项", "評": "评",
+    "價": "价", "寬": "宽", "層": "层", "級": "级", "練": "练", "輔": "辅", "師": "师", "輯": "辑",
+    "辯": "辩", "綱": "纲", "錄": "录", "檔": "档", "案": "案", "樣": "样", "盤": "盘", "戶": "户",
+    "戶": "户", "頁": "页", "貢": "贡", "獻": "献", "則": "则", "側": "侧", "強": "强", "盃": "杯",
+    "賽": "赛", "劃": "划", "夢": "梦", "築": "筑", "燈": "灯", "義": "义", "獨": "独", "與": "与",
+    "並": "并", "將": "将", "麼": "么", "麼": "么", "裡": "里", "裏": "里", "靈": "灵", "屬": "属",
+    "貝": "贝", "頒": "颁", "禮": "礼", "擴": "扩", "響": "响", "細": "细", "別": "别", "單": "单",
+    "純": "纯", "學": "学", "製": "制", "實": "实", "實": "实", "測": "测", "試": "试", "問": "问",
+    "卷": "卷", "庫": "库", "聽": "听", "寫": "写", "讀": "读", "畢": "毕", "與": "与", "險": "险",
+    "報": "报", "趨": "趋", "勢": "势", "審": "审", "查": "查", "獲": "获", "授": "授", "權": "权"
+  };
+
+  function toSimplified(value) {
+    if (typeof value === "string") {
+      let text = value;
+      simplifiedPhraseMap.forEach(([from, to]) => {
+        text = text.split(from).join(to);
+      });
+      return text.replace(/[\u3400-\u9fff]/g, (char) => simplifiedCharMap[char] || char);
+    }
+    if (Array.isArray(value)) return value.map(toSimplified);
+    if (value && typeof value === "object") {
+      return Object.fromEntries(Object.entries(value).map(([key, entry]) => [key, toSimplified(entry)]));
+    }
+    return value;
+  }
+
+  function getArticleTranslation(slug, lang) {
+    const articleTranslations = articlePageTranslations[slug];
+    if (!articleTranslations) return null;
+    if (articleTranslations[lang]) return articleTranslations[lang];
+    if (lang === "zh-cn" && articleTranslations["zh-hk"]) return toSimplified(articleTranslations["zh-hk"]);
+    return null;
+  }
+
+  textMap["zh-cn"] = toSimplified(textMap["zh-hk"] || {});
+  Object.entries(articlePageTranslations).forEach(([slug, translations]) => {
+    if (!translations["zh-cn"] && translations["zh-hk"]) {
+      articlePageTranslations[slug]["zh-cn"] = toSimplified(translations["zh-hk"]);
+    }
+  });
+
+  function normalizeLangCode(code) {
+    if (!code) return "";
+    const value = String(code).toLowerCase();
+    if (value === "zh-cn" || value === "zh-hans" || value === "zh-hans-cn") return "zh-cn";
+    if (value === "zh-hk" || value === "zh-tw" || value === "zh-hant" || value === "zh-hant-hk") return "zh-hk";
+    return value;
+  }
+
   function supported(code) {
     return languages.some(([lang]) => lang === code);
   }
 
   function getLang() {
-    const query = new URLSearchParams(location.search).get("lang");
+    const query = normalizeLangCode(new URLSearchParams(location.search).get("lang"));
     if (supported(query)) return query;
-    const saved = localStorage.getItem("masuip-lang");
+    const saved = normalizeLangCode(localStorage.getItem("masuip-lang"));
     return supported(saved) ? saved : "en";
   }
 
@@ -1812,10 +2026,17 @@
 
   function applyStaticArticleTranslation(lang) {
     const slug = location.pathname.split("/").pop().replace(".html", "");
-    const translated = window.MASU_ARTICLE_TRANSLATIONS &&
+    let translated = window.MASU_ARTICLE_TRANSLATIONS &&
       window.MASU_ARTICLE_TRANSLATIONS[slug] &&
       window.MASU_ARTICLE_TRANSLATIONS[slug].langs &&
       window.MASU_ARTICLE_TRANSLATIONS[slug].langs[lang];
+    if (!translated && lang === "zh-cn") {
+      translated = window.MASU_ARTICLE_TRANSLATIONS &&
+        window.MASU_ARTICLE_TRANSLATIONS[slug] &&
+        window.MASU_ARTICLE_TRANSLATIONS[slug].langs &&
+        window.MASU_ARTICLE_TRANSLATIONS[slug].langs["zh-hk"];
+      if (translated) translated = toSimplified(translated);
+    }
     if (!translated) return false;
     const shell = document.querySelector(".article-shell");
     if (!shell) return false;
@@ -1841,7 +2062,7 @@
 
   function translateLongArticle(lang) {
     const slug = location.pathname.split("/").pop().replace(".html", "");
-    const translated = articlePageTranslations[slug] && articlePageTranslations[slug][lang];
+    const translated = getArticleTranslation(slug, lang);
     const shell = document.querySelector(".article-shell");
     if (!translated && shell) {
       const sourceText = [
@@ -1888,6 +2109,7 @@
 
   const machineTargets = {
     en: "en",
+    "zh-cn": "zh-CN",
     "zh-hk": "zh-TW",
     ja: "ja",
     tr: "tr",
@@ -2044,7 +2266,7 @@
   }
 
   function translate(lang) {
-    document.documentElement.lang = lang === "zh-hk" ? "zh-Hant-HK" : lang;
+    document.documentElement.lang = lang === "zh-hk" ? "zh-Hant-HK" : (lang === "zh-cn" ? "zh-Hans-CN" : lang);
     translateNav(lang);
     addSwitcher(lang);
     const articleShell = document.querySelector(".article-shell");
