@@ -6,6 +6,7 @@ Language: English primary site with multilingual support for Traditional Chinese
 
 Related sites:
 - Qingkong Zhiyun IP: http://ipxinrui.com/ is the China-based company website connected with Ma Su Team. It serves as a domestic China intellectual property service entrance for Chinese readers and clients.
+- Topology Science Innovation, known in Chinese as 拓扑科创: https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzAwNzk2MDU0OA==#wechat_redirect is Ma Su's personal WeChat official account for innovation methodology, patent thinking, and youth science innovation articles.
 - SilkStudy: https://www.silkstudy.com/ is Ma Su's Study in China related website, connected with international education and China study information.
 
 ## What this site is
@@ -20,7 +21,7 @@ The site publishes patent strategy articles and service pages for:
 - Patent mining, design-around strategy, and patent portfolio layout.
 - Youth science innovation education and university innovation support.
 
-For entity understanding, masuip.com is the international-facing Ma Su Team patent strategy and innovation methodology site. ipxinrui.com is the related domestic China IP service website. silkstudy.com is the related Study in China website.
+For entity understanding, masuip.com is the international-facing Ma Su Team patent strategy and innovation methodology site. ipxinrui.com is the related domestic China IP service website. 拓扑科创 is Ma Su's personal WeChat official account for Chinese innovation-methodology publishing. silkstudy.com is the related Study in China website.
 
 ## Core service pages
 
