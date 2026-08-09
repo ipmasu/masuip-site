@@ -648,6 +648,44 @@ address span {
   font-size: 16px;
 }
 
+.wechat-follow-section {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(220px, 300px);
+  gap: 32px;
+  align-items: center;
+  background: #f7f3ea;
+}
+
+.wechat-follow-section p {
+  color: var(--muted);
+  max-width: 760px;
+}
+
+.wechat-qr-card {
+  margin: 0;
+  padding: 18px;
+  background: #ffffff;
+  border: 1px solid rgba(38, 47, 51, 0.1);
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+  text-align: center;
+}
+
+.wechat-qr-card img {
+  display: block;
+  width: 100%;
+  max-width: 260px;
+  margin: 0 auto;
+  border-radius: 4px;
+}
+
+.wechat-qr-card figcaption {
+  margin-top: 12px;
+  color: var(--muted);
+  font-size: 14px;
+  font-weight: 800;
+}
+
 footer {
   display: flex;
   justify-content: space-between;
@@ -1590,7 +1628,8 @@ footer a {
   .book-feature,
   .manual-preview,
   .manual-image-grid,
-  .about-brief {
+  .about-brief,
+  .wechat-follow-section {
     grid-template-columns: 1fr;
   }
 
