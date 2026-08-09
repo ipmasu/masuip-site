@@ -1,7 +1,6 @@
 (() => {
   const languages = [
     ["en", "English"],
-    ["zh-cn", "简体中文"],
     ["zh-hk", "香港中文"],
     ["ja", "日本語"],
     ["tr", "Türkçe"],
@@ -10,7 +9,6 @@
 
   const navLabels = {
     en: ["Home", "Knowledge", "Articles", "Methodology", "About", "Contact"],
-    "zh-cn": ["首页", "知识库", "文章中心", "方法论", "关于我", "联系"],
     "zh-hk": ["首頁", "知識庫", "文章中心", "方法論", "關於我", "聯絡"],
     ja: ["ホーム", "ナレッジ", "記事", "方法論", "プロフィール", "お問い合わせ"],
     tr: ["Ana sayfa", "Bilgi bankası", "Makaleler", "Metodoloji", "Hakkımda", "İletişim"],
@@ -31,20 +29,6 @@
       copied: "Copied",
       related: "Related Articles",
       continueSeries: "Continue this series",
-    },
-    "zh-cn": {
-      language: "语言",
-      readArticle: "阅读文章",
-      exploreSeries: "查看系列",
-      sort: "排序",
-      newest: "最新优先",
-      oldest: "最早优先",
-      author: "作者",
-      share: "分享",
-      copy: "复制链接",
-      copied: "已复制",
-      related: "相关文章",
-      continueSeries: "继续阅读本系列",
     },
     "zh-hk": {
       language: "語言",
@@ -1858,93 +1842,16 @@
     }
   };
 
-  const simplifiedPhraseMap = [
-    ["智慧財產權", "知识产权"],
-    ["知識產權", "知识产权"],
-    ["權利要求", "权利要求"],
-    ["專利審查員", "专利审查员"],
-    ["專利代理師", "专利代理师"],
-    ["專利代理", "专利代理"],
-    ["專利申請", "专利申请"],
-    ["專利佈局", "专利布局"],
-    ["發明專利", "发明专利"],
-    ["發明挖掘", "发明挖掘"],
-    ["技術問題", "技术问题"],
-    ["技術特徵", "技术特征"],
-    ["創新方法論", "创新方法论"],
-    ["青少年科創", "青少年科创"],
-    ["科創教育", "科创教育"],
-    ["中國國家知識產權局", "中国国家知识产权局"],
-    ["中國企業", "中国企业"],
-    ["境外創新", "境外创新"],
-    ["跨境專利", "跨境专利"],
-    ["聯絡", "联系"],
-    ["關於", "关于"],
-    ["文章中心", "文章中心"],
-  ];
-
-  const simplifiedCharMap = {
-    "馬": "马", "肅": "肃", "專": "专", "審": "审", "員": "员", "創": "创", "實": "实", "踐": "践",
-    "發": "发", "權": "权", "書": "书", "標": "标", "準": "准", "關": "关", "於": "于", "聯": "联",
-    "絡": "络", "識": "识", "庫": "库", "資訊": "资讯", "資": "资", "訊": "讯", "讓": "让", "個": "个",
-    "國": "国", "廣": "广", "東": "东", "讀": "读", "閱": "阅", "導": "导", "題": "题", "問": "问",
-    "類": "类", "應": "应", "對": "对", "階": "阶", "過": "过", "驗": "验", "證": "证", "獲": "获",
-    "機": "机", "構": "构", "佈": "布", "局": "局", "辦": "办", "務": "务", "體": "体", "現": "现",
-    "點": "点", "帶": "带", "課": "课", "程": "程", "學": "学", "習": "习", "與": "与", "為": "为",
-    "無": "无", "論": "论", "還": "还", "從": "从", "這": "这", "種": "种", "說": "说", "明": "明",
-    "開": "开", "篩": "筛", "選": "选", "權": "权", "請": "请", "說": "说", "誰": "谁", "來": "来",
-    "內": "内", "長": "长", "經": "经", "驗": "验", "轉": "转", "換": "换", "價": "价", "值": "值",
-    "維": "维", "護": "护", "號": "号", "碼": "码", "網": "网", "站": "站", "優": "优", "劣": "劣",
-    "產": "产", "業": "业", "線": "线", "徑": "径", "徵": "征", "組": "组", "織": "织", "圖": "图",
-    "難": "难", "題": "题", "處": "处", "復": "复", "製": "制", "檢": "检", "索": "索", "據": "据",
-    "數": "数", "據": "据", "後": "后", "顯": "显", "著": "着", "獎": "奖", "項": "项", "評": "评",
-    "價": "价", "寬": "宽", "層": "层", "級": "级", "練": "练", "輔": "辅", "師": "师", "輯": "辑",
-    "辯": "辩", "綱": "纲", "錄": "录", "檔": "档", "案": "案", "樣": "样", "盤": "盘", "戶": "户",
-    "戶": "户", "頁": "页", "貢": "贡", "獻": "献", "則": "则", "側": "侧", "強": "强", "盃": "杯",
-    "賽": "赛", "劃": "划", "夢": "梦", "築": "筑", "燈": "灯", "義": "义", "獨": "独", "與": "与",
-    "並": "并", "將": "将", "麼": "么", "麼": "么", "裡": "里", "裏": "里", "靈": "灵", "屬": "属",
-    "貝": "贝", "頒": "颁", "禮": "礼", "擴": "扩", "響": "响", "細": "细", "別": "别", "單": "单",
-    "純": "纯", "學": "学", "製": "制", "實": "实", "實": "实", "測": "测", "試": "试", "問": "问",
-    "卷": "卷", "庫": "库", "聽": "听", "寫": "写", "讀": "读", "畢": "毕", "與": "与", "險": "险",
-    "報": "报", "趨": "趋", "勢": "势", "審": "审", "查": "查", "獲": "获", "授": "授", "權": "权"
-  };
-
-  function toSimplified(value) {
-    if (typeof value === "string") {
-      let text = value;
-      simplifiedPhraseMap.forEach(([from, to]) => {
-        text = text.split(from).join(to);
-      });
-      return text.replace(/[\u3400-\u9fff]/g, (char) => simplifiedCharMap[char] || char);
-    }
-    if (Array.isArray(value)) return value.map(toSimplified);
-    if (value && typeof value === "object") {
-      return Object.fromEntries(Object.entries(value).map(([key, entry]) => [key, toSimplified(entry)]));
-    }
+  function normalizeLangCode(code) {
+    if (!code) return "";
+    const value = String(code).toLowerCase();
+    if (value === "zh-cn" || value === "zh-hans" || value === "zh-hans-cn") return "zh-hk";
+    if (value === "zh-hk" || value === "zh-tw" || value === "zh-hant" || value === "zh-hant-hk") return "zh-hk";
     return value;
   }
 
   function getArticleTranslation(slug, lang) {
-    const articleTranslations = articlePageTranslations[slug];
-    if (!articleTranslations) return null;
-    if (articleTranslations[lang]) return articleTranslations[lang];
-    if (lang === "zh-cn" && articleTranslations["zh-hk"]) return toSimplified(articleTranslations["zh-hk"]);
-    return null;
-  }
-
-  textMap["zh-cn"] = toSimplified(textMap["zh-hk"] || {});
-  Object.entries(articlePageTranslations).forEach(([slug, translations]) => {
-    if (!translations["zh-cn"] && translations["zh-hk"]) {
-      articlePageTranslations[slug]["zh-cn"] = toSimplified(translations["zh-hk"]);
-    }
-  });
-
-  function normalizeLangCode(code) {
-    if (!code) return "";
-    const value = String(code).toLowerCase();
-    if (value === "zh-cn" || value === "zh-hans" || value === "zh-hans-cn") return "zh-cn";
-    if (value === "zh-hk" || value === "zh-tw" || value === "zh-hant" || value === "zh-hant-hk") return "zh-hk";
-    return value;
+    return articlePageTranslations[slug] && articlePageTranslations[slug][lang];
   }
 
   function supported(code) {
@@ -2030,13 +1937,6 @@
       window.MASU_ARTICLE_TRANSLATIONS[slug] &&
       window.MASU_ARTICLE_TRANSLATIONS[slug].langs &&
       window.MASU_ARTICLE_TRANSLATIONS[slug].langs[lang];
-    if (!translated && lang === "zh-cn") {
-      translated = window.MASU_ARTICLE_TRANSLATIONS &&
-        window.MASU_ARTICLE_TRANSLATIONS[slug] &&
-        window.MASU_ARTICLE_TRANSLATIONS[slug].langs &&
-        window.MASU_ARTICLE_TRANSLATIONS[slug].langs["zh-hk"];
-      if (translated) translated = toSimplified(translated);
-    }
     if (!translated) return false;
     const shell = document.querySelector(".article-shell");
     if (!shell) return false;
@@ -2109,7 +2009,6 @@
 
   const machineTargets = {
     en: "en",
-    "zh-cn": "zh-CN",
     "zh-hk": "zh-TW",
     ja: "ja",
     tr: "tr",
@@ -2266,7 +2165,7 @@
   }
 
   function translate(lang) {
-    document.documentElement.lang = lang === "zh-hk" ? "zh-Hant-HK" : (lang === "zh-cn" ? "zh-Hans-CN" : lang);
+    document.documentElement.lang = lang === "zh-hk" ? "zh-Hant-HK" : lang;
     translateNav(lang);
     addSwitcher(lang);
     const articleShell = document.querySelector(".article-shell");
