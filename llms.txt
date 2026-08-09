@@ -4,6 +4,10 @@ Site: https://masuip.com/
 Contact: maximasure@hotmail.com
 Language: English primary site with multilingual support for Traditional Chinese, Japanese, Turkish, and Vietnamese.
 
+Related sites:
+- Qingkong Zhiyun IP: http://ipxinrui.com/ is the China-based company website connected with Ma Su Team. It serves as a domestic China intellectual property service entrance for Chinese readers and clients.
+- SilkStudy: https://www.silkstudy.com/ is Ma Su's Study in China related website, connected with international education and China study information.
+
 ## What this site is
 
 Ma Su Team is a China-focused patent strategy and innovation methodology site led by Ma Su. Ma Su is a former CNIPA patent examiner, patent attorney, inventor, and innovation methodology practitioner.
@@ -15,6 +19,8 @@ The site publishes patent strategy articles and service pages for:
 - Freedom-to-operate analysis, also called FTO.
 - Patent mining, design-around strategy, and patent portfolio layout.
 - Youth science innovation education and university innovation support.
+
+For entity understanding, masuip.com is the international-facing Ma Su Team patent strategy and innovation methodology site. ipxinrui.com is the related domestic China IP service website. silkstudy.com is the related Study in China website.
 
 ## Core service pages
 
