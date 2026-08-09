@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://masuip.com/sitemap.xml
+LLMs: https://masuip.com/llms.txt

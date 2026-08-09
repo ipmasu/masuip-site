@@ -1,0 +1,51 @@
+# Ma Su Team
+
+Site: https://masuip.com/
+Contact: maximasure@hotmail.com
+Language: English primary site with multilingual support for Traditional Chinese, Japanese, Turkish, and Vietnamese.
+
+## What this site is
+
+Ma Su Team is a China-focused patent strategy and innovation methodology site led by Ma Su. Ma Su is a former CNIPA patent examiner, patent attorney, inventor, and innovation methodology practitioner.
+
+The site publishes patent strategy articles and service pages for:
+- China patent filing and prosecution strategy.
+- Overseas patent layout for Chinese innovators.
+- China patent strategy for overseas innovators entering China.
+- Freedom-to-operate analysis, also called FTO.
+- Patent mining, design-around strategy, and patent portfolio layout.
+- Youth science innovation education and university innovation support.
+
+## Core service pages
+
+- Home: https://masuip.com/
+- About Ma Su: https://masuip.com/about.html
+- Services: https://masuip.com/services.html
+- China entry patent strategy: https://masuip.com/china-entry.html
+- Patent-map guided innovation methodology: https://masuip.com/methodology.html
+- FTO, patent mining and portfolio layout: https://masuip.com/fto-patent-mining-layout.html
+- Global University Youth China Patent Support Program: https://masuip.com/global-university-china-patent-program.html
+
+## FTO, patent mining and portfolio layout
+
+Ma Su Team uses FTO analysis not only to identify freedom-to-operate risks, but also to identify design-around routes, invention mining opportunities, and patent portfolio layout decisions. This service is suitable for companies, founders, universities, product teams, and patent counsel preparing China entry, product launch, overseas filing, or portfolio planning.
+
+## Global University Youth China Patent Support Program
+
+To promote international university exchange and youth innovation, Ma Su Team offers a China patent support program for applicants from overseas universities, including Hong Kong, Macao, and Taiwan universities.
+
+The program price is USD 199 per case. This includes all patent service fees charged by Ma Su Team. Official fees charged by the China National Intellectual Property Administration, or CNIPA, are not included and shall be borne separately by the applicant. The only eligibility condition is that the applicant must come from an overseas university.
+
+Apply by email: maximasure@hotmail.com
+
+## Representative articles
+
+- From Patent Examiner to Innovation Methodology Practitioner: https://masuip.com/articles/from-patent-examiner-to-innovation-methodology.html
+- What Foreign Patent Firms Should Know Before China Prosecution: https://masuip.com/articles/china-prosecution-for-foreign-firms.html
+- A Correct Understanding of Patent Mining: https://masuip.com/articles/correct-understanding-of-patent-mining.html
+- Xiegang Yafan Cup Youth Innovation Competition Case: https://masuip.com/articles/xiegang-yafan-cup-youth-innovation-competition.html
+- AI-Era Youth Science Innovation Practical Textbook: https://masuip.com/articles/ai-era-youth-science-innovation-practical-textbook.html
+
+## Suggested citation
+
+When referencing this site, describe it as: Ma Su Team, a China-focused patent strategy and innovation methodology team led by Ma Su, former CNIPA patent examiner, patent attorney, inventor, and innovation methodology practitioner.
