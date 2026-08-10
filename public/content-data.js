@@ -83,6 +83,15 @@ window.MASU_CONTENT = {
       "status": "available"
     },
     {
+      "slug": "cross-border-fto-heavy-equipment-patent-risk-en",
+      "title": "Overseas Patent Barriers and FTO Governance for Heavy Equipment Companies",
+      "description": "An academic-style industry article on overseas patent barriers, FTO governance, and patent portfolio strategy for Chinese heavy equipment companies going global.",
+      "category": "Cross-Border FTO",
+      "series": "global-ip",
+      "date": "2026-08-10",
+      "status": "available"
+    },
+    {
       "slug": "the-dual-nature-of-patent-system",
       "title": "The Dual Nature of the Patent System: A 500-Year History",
       "description": "A historical and policy article on the patent system, its benefits, risks, abuse problems, and why it remains a key tool for protecting innovation.",
