@@ -83,6 +83,15 @@ window.MASU_CONTENT = {
       "status": "available"
     },
     {
+      "slug": "why-exporting-companies-need-fto-ma-su-team-en",
+      "title": "Why Exporting Companies Need FTO, and Why Ma Su Team Is Built for It",
+      "description": "Why companies going global need FTO, and why a former CNIPA examiner team is naturally suited for feature-by-feature patent comparison.",
+      "category": "FTO Strategy",
+      "series": "global-ip",
+      "date": "2026-08-10",
+      "status": "available"
+    },
+    {
       "slug": "cross-border-fto-heavy-equipment-patent-risk",
       "title": "工程装备企业出海中的海外专利壁垒与FTO治理",
       "description": "一篇关于中国工程装备企业出海、海外专利壁垒、FTO治理和专利组合布局的学术性研究文章。",
