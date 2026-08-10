@@ -8,13 +8,13 @@
 2. 上传前请完整备份旧站目录，便于必要时回滚。
 3. 请不要删除旧站后台、邮箱、统计、备案或服务器配置文件，除非确认这些文件属于旧公开页面且可以替换。
 4. 上传后请检查：
-   - https://masuip.com/
-   - https://masuip.com/about.html
-   - https://masuip.com/services.html
-   - https://masuip.com/china-entry.html
-   - https://masuip.com/contact.html
-   - https://masuip.com/robots.txt
-   - https://masuip.com/sitemap.xml
+   - https://www.masuip.com/
+   - https://www.masuip.com/about.html
+   - https://www.masuip.com/services.html
+   - https://www.masuip.com/china-entry.html
+   - https://www.masuip.com/contact.html
+   - https://www.masuip.com/robots.txt
+   - https://www.masuip.com/sitemap.xml
 5. 如果网站使用 CDN 或服务器缓存，请上线后刷新缓存。
 
 部署说明详见 `DEPLOY-INSTRUCTIONS.md`。

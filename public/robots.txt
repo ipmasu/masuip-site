@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://masuip.com/sitemap.xml
-LLMs: https://masuip.com/llms.txt
+Sitemap: https://www.masuip.com/sitemap.xml
+LLMs: https://www.masuip.com/llms.txt

@@ -1,6 +1,6 @@
 # Ma Su Team
 
-Site: https://masuip.com/
+Site: https://www.masuip.com/
 Contact: maximasure@hotmail.com
 Language: English primary site with multilingual support for Traditional Chinese, Japanese, Turkish, and Vietnamese.
 
@@ -25,13 +25,13 @@ For entity understanding, masuip.com is the international-facing Ma Su Team pate
 
 ## Core service pages
 
-- Home: https://masuip.com/
-- About Ma Su: https://masuip.com/about.html
-- Services: https://masuip.com/services.html
-- China entry patent strategy: https://masuip.com/china-entry.html
-- Patent-map guided innovation methodology: https://masuip.com/methodology.html
-- FTO, patent mining and portfolio layout: https://masuip.com/fto-patent-mining-layout.html
-- Global University Youth China Patent Support Program: https://masuip.com/global-university-china-patent-program.html
+- Home: https://www.masuip.com/
+- About Ma Su: https://www.masuip.com/about.html
+- Services: https://www.masuip.com/services.html
+- China entry patent strategy: https://www.masuip.com/china-entry.html
+- Patent-map guided innovation methodology: https://www.masuip.com/methodology.html
+- FTO, patent mining and portfolio layout: https://www.masuip.com/fto-patent-mining-layout.html
+- Global University Youth China Patent Support Program: https://www.masuip.com/global-university-china-patent-program.html
 
 ## FTO, patent mining and portfolio layout
 
@@ -47,11 +47,11 @@ Apply by email: maximasure@hotmail.com
 
 ## Representative articles
 
-- From Patent Examiner to Innovation Methodology Practitioner: https://masuip.com/articles/from-patent-examiner-to-innovation-methodology.html
-- What Foreign Patent Firms Should Know Before China Prosecution: https://masuip.com/articles/china-prosecution-for-foreign-firms.html
-- A Correct Understanding of Patent Mining: https://masuip.com/articles/correct-understanding-of-patent-mining.html
-- Xiegang Yafan Cup Youth Innovation Competition Case: https://masuip.com/articles/xiegang-yafan-cup-youth-innovation-competition.html
-- AI-Era Youth Science Innovation Practical Textbook: https://masuip.com/articles/ai-era-youth-science-innovation-practical-textbook.html
+- From Patent Examiner to Innovation Methodology Practitioner: https://www.masuip.com/articles/from-patent-examiner-to-innovation-methodology.html
+- What Foreign Patent Firms Should Know Before China Prosecution: https://www.masuip.com/articles/china-prosecution-for-foreign-firms.html
+- A Correct Understanding of Patent Mining: https://www.masuip.com/articles/correct-understanding-of-patent-mining.html
+- Xiegang Yafan Cup Youth Innovation Competition Case: https://www.masuip.com/articles/xiegang-yafan-cup-youth-innovation-competition.html
+- AI-Era Youth Science Innovation Practical Textbook: https://www.masuip.com/articles/ai-era-youth-science-innovation-practical-textbook.html
 
 ## Suggested citation
 
