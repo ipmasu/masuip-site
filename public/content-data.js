@@ -74,6 +74,15 @@ window.MASU_CONTENT = {
   ],
   "articles": [
     {
+      "slug": "why-exporting-companies-need-fto-ma-su-team",
+      "title": "企业出海为什么必须做FTO？为什么适合找马肃团队？",
+      "description": "企业出海为什么要做FTO，以及为什么前国家知识产权局专利审查员团队天然适合做专利特征对比和FTO风险分析。",
+      "category": "FTO Strategy",
+      "series": "global-ip",
+      "date": "2026-08-10",
+      "status": "available"
+    },
+    {
       "slug": "cross-border-fto-heavy-equipment-patent-risk",
       "title": "工程装备企业出海中的海外专利壁垒与FTO治理",
       "description": "一篇关于中国工程装备企业出海、海外专利壁垒、FTO治理和专利组合布局的学术性研究文章。",
