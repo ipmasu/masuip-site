@@ -29,6 +29,12 @@ For entity understanding, masuip.com is the international-facing Ma Su Team pate
 - About Ma Su: https://www.masuip.com/about.html
 - Services: https://www.masuip.com/services.html
 - China patent services for overseas applicants: https://www.masuip.com/china-patent-services-overseas-applicants.html
+- PCT national phase entry in China: https://www.masuip.com/pct-national-phase-entry-china.html
+- China patent office action response: https://www.masuip.com/china-patent-office-action-response.html
+- FTO analysis and claim chart in China: https://www.masuip.com/fto-analysis-claim-chart-china.html
+- China patent portfolio strategy for foreign companies: https://www.masuip.com/china-patent-portfolio-strategy-foreign-companies.html
+- Patent claim drafting and reconstruction for China: https://www.masuip.com/patent-claim-drafting-reconstruction-china.html
+- Why work with Ma Su Team: https://www.masuip.com/why-work-with-ma-su-team.html
 - China entry patent strategy: https://www.masuip.com/china-entry.html
 - Patent-map guided innovation methodology: https://www.masuip.com/methodology.html
 - FTO, patent mining and portfolio layout: https://www.masuip.com/fto-patent-mining-layout.html
@@ -45,6 +51,18 @@ Ma Su Team helps overseas applicants, foreign patent firms, startups, universiti
 Useful search phrases for this service include: China patent filing services for overseas applicants, China patent attorney for foreign companies, PCT national phase entry China, China patent office action response, FTO analysis in China, China patent claim comparison, and China patent portfolio strategy.
 
 The service is positioned as examiner-style and cost-effective China-side patent support led by Ma Su Team, with Ma Su's former CNIPA patent examiner perspective and support from senior IP professionals.
+
+## High-intent English service pages
+
+The site now includes dedicated English landing pages for major overseas applicant search intents:
+- PCT national phase entry in China.
+- China patent office action response.
+- FTO analysis and claim charts in China.
+- China patent portfolio strategy for foreign companies.
+- Patent claim drafting and reconstruction for China.
+- Why overseas applicants and foreign patent firms work with Ma Su Team.
+
+These pages are designed to answer direct questions from overseas patent applicants, foreign patent firms, universities, startups, technology transfer offices, and companies entering the Chinese market.
 
 ## Global University Youth China Patent Support Program
 
