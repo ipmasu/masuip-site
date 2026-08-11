@@ -1585,6 +1585,11 @@ footer a {
     gap: 12px;
   }
 
+  .content-header {
+    position: sticky;
+    top: 0;
+  }
+
   .main-nav {
     justify-content: flex-start;
     overflow-x: auto;
