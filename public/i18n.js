@@ -8,7 +8,7 @@
   ];
 
   const navLabels = {
-    en: ["Home", "Knowledge", "Articles", "前沿专利观察", "Methodology", "About", "Contact"],
+    en: ["Home", "Knowledge", "Articles", "Patent Frontier Watch", "Methodology", "About", "Contact"],
     "zh-hk": ["Home", "Knowledge", "Articles", "前沿专利观察", "Methodology", "About", "Contact"],
     ja: ["Home", "Knowledge", "Articles", "前沿专利观察", "Methodology", "About", "Contact"],
     tr: ["Home", "Knowledge", "Articles", "前沿专利观察", "Methodology", "About", "Contact"],
@@ -1866,7 +1866,31 @@
   }
 
   function translateNav(lang) {
-    return;
+    const labels = lang === "en"
+      ? {
+          "index.html": "Home",
+          "knowledge.html": "Knowledge",
+          "articles.html": "Articles",
+          "patent-biweekly.html": "Patent Frontier Watch",
+          "methodology.html": "Methodology",
+          "about.html": "About",
+          "contact.html": "Contact",
+        }
+      : {
+          "index.html": "首页",
+          "knowledge.html": "知识库",
+          "articles.html": "文章",
+          "patent-biweekly.html": "前沿专利观察",
+          "methodology.html": "方法论",
+          "about.html": "关于",
+          "contact.html": "联络",
+        };
+
+    document.querySelectorAll(".main-nav a[href]").forEach((link) => {
+      const href = link.getAttribute("href") || "";
+      const file = href.split("/").pop();
+      if (labels[file]) link.textContent = labels[file];
+    });
   }
 
   function addSwitcher(lang) {
