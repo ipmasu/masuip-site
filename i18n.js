@@ -8,11 +8,11 @@
   ];
 
   const navLabels = {
-    en: ["Home", "Knowledge", "Articles", "Methodology", "About", "Contact"],
-    "zh-hk": ["首頁", "知識庫", "文章中心", "方法論", "關於我", "聯絡"],
-    ja: ["ホーム", "ナレッジ", "記事", "方法論", "プロフィール", "お問い合わせ"],
-    tr: ["Ana sayfa", "Bilgi bankası", "Makaleler", "Metodoloji", "Hakkımda", "İletişim"],
-    vi: ["Trang chủ", "Kho tri thức", "Bài viết", "Phương pháp", "Giới thiệu", "Liên hệ"],
+    en: ["Home", "Knowledge", "Articles", "专利半月谈", "Methodology", "About", "Contact"],
+    "zh-hk": ["Home", "Knowledge", "Articles", "专利半月谈", "Methodology", "About", "Contact"],
+    ja: ["Home", "Knowledge", "Articles", "专利半月谈", "Methodology", "About", "Contact"],
+    tr: ["Home", "Knowledge", "Articles", "专利半月谈", "Methodology", "About", "Contact"],
+    vi: ["Home", "Knowledge", "Articles", "专利半月谈", "Methodology", "About", "Contact"],
   };
 
   const uiLabels = {
@@ -1866,10 +1866,7 @@
   }
 
   function translateNav(lang) {
-    const labels = navLabels[lang] || navLabels.en;
-    document.querySelectorAll(".main-nav a").forEach((link, index) => {
-      if (labels[index]) link.textContent = labels[index];
-    });
+    return;
   }
 
   function addSwitcher(lang) {
