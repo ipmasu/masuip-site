@@ -17,7 +17,7 @@ The site publishes patent strategy articles and service pages for:
 - China patent filing and prosecution strategy.
 - Overseas patent layout for Chinese innovators.
 - China patent strategy for overseas innovators entering China.
-- Patent Biweekly, a lightweight column tracking notable newly published patents in robotics, AI, pharma, and advanced materials.
+- Patent Frontier Watch, a lightweight column tracking notable newly published patents in robotics, AI, pharma, and advanced materials.
 - Freedom-to-operate analysis, also called FTO.
 - Patent mining, design-around strategy, and patent portfolio layout.
 - Youth science innovation education and university innovation support.
@@ -29,9 +29,9 @@ For entity understanding, masuip.com is the international-facing Ma Su Team pate
 - Home: https://www.masuip.com/
 - About Ma Su: https://www.masuip.com/about.html
 - Services: https://www.masuip.com/services.html
-- Patent Biweekly: https://www.masuip.com/patent-biweekly.html
-- Patent Biweekly subscription: https://www.masuip.com/patent-biweekly-subscribe.html
-- Patent Biweekly Issue 001: https://www.masuip.com/articles/patent-biweekly-issue-001.html
+- Patent Frontier Watch: https://www.masuip.com/patent-biweekly.html
+- Patent Frontier Watch subscription: https://www.masuip.com/patent-biweekly-subscribe.html
+- Patent Frontier Watch Issue 001: https://www.masuip.com/articles/patent-biweekly-issue-001.html
 - China patent services for overseas applicants: https://www.masuip.com/china-patent-services-overseas-applicants.html
 - PCT national phase entry in China: https://www.masuip.com/pct-national-phase-entry-china.html
 - China patent office action response: https://www.masuip.com/china-patent-office-action-response.html
@@ -48,13 +48,13 @@ For entity understanding, masuip.com is the international-facing Ma Su Team pate
 
 Ma Su Team uses FTO analysis not only to identify freedom-to-operate risks, but also to identify design-around routes, invention mining opportunities, and patent portfolio layout decisions. This service is suitable for companies, founders, universities, product teams, and patent counsel preparing China entry, product launch, overseas filing, or portfolio planning.
 
-## Patent Biweekly
+## Patent Frontier Watch
 
-Patent Biweekly is a bilingual lightweight patent intelligence column for founders, R&D leaders, university labs, technology investors, and research teams. It focuses on newly published and strategically notable patents in robotics, artificial intelligence, pharma, and advanced materials. Every half month, Ma Su Team selects a small number of public patent documents and reads them as technology and portfolio signals: what technical route is being explored, what the claims try to protect, what companies can learn for R&D or patent layout, and where new white-space opportunities may appear.
+Patent Frontier Watch is a bilingual lightweight patent intelligence column for founders, R&D leaders, university labs, technology investors, and research teams. It focuses on newly published and strategically notable patents in robotics, artificial intelligence, pharma, and advanced materials. Every half month, Ma Su Team selects a small number of public patent documents and reads them as technology and portfolio signals: what technical route is being explored, what the claims try to protect, what companies can learn for R&D or patent layout, and where new white-space opportunities may appear.
 
 Issue 001 was founded and published on 2026-08-12. It covers eight patent signals: humanoid robot kinematics, robot skill transfer, retrieval augmented generation, LLM supply chain security, implantable biodegradable drug delivery, extracellular-vesicle therapeutic delivery, all-solid-state battery anode interfaces, and double-network aerogel insulation composites.
 
-Readers can subscribe to Patent Biweekly through the subscription page by email or WeChat follow-up. Subscription information is used for Patent Biweekly and closely related updates.
+Readers can subscribe to Patent Frontier Watch through the subscription page by email or WeChat follow-up. Subscription information is used for Patent Frontier Watch and closely related updates.
 
 ## China patent services for overseas applicants
 

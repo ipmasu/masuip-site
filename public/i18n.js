@@ -8,11 +8,11 @@
   ];
 
   const navLabels = {
-    en: ["Home", "Knowledge", "Articles", "专利半月谈", "Methodology", "About", "Contact"],
-    "zh-hk": ["Home", "Knowledge", "Articles", "专利半月谈", "Methodology", "About", "Contact"],
-    ja: ["Home", "Knowledge", "Articles", "专利半月谈", "Methodology", "About", "Contact"],
-    tr: ["Home", "Knowledge", "Articles", "专利半月谈", "Methodology", "About", "Contact"],
-    vi: ["Home", "Knowledge", "Articles", "专利半月谈", "Methodology", "About", "Contact"],
+    en: ["Home", "Knowledge", "Articles", "前沿专利观察", "Methodology", "About", "Contact"],
+    "zh-hk": ["Home", "Knowledge", "Articles", "前沿专利观察", "Methodology", "About", "Contact"],
+    ja: ["Home", "Knowledge", "Articles", "前沿专利观察", "Methodology", "About", "Contact"],
+    tr: ["Home", "Knowledge", "Articles", "前沿专利观察", "Methodology", "About", "Contact"],
+    vi: ["Home", "Knowledge", "Articles", "前沿专利观察", "Methodology", "About", "Contact"],
   };
 
   const uiLabels = {
