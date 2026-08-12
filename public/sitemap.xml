@@ -56,6 +56,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.masuip.com/patent-biweekly.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.masuip.com/patent-biweekly-subscribe.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.masuip.com/articles/patent-biweekly-issue-001.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.masuip.com/methodology.html</loc>
     <lastmod>2026-07-29</lastmod>
     <priority>0.8</priority>

@@ -771,6 +771,12 @@ footer a {
     url("assets/hero-global-ip.png") center / cover;
 }
 
+.patent-biweekly-hero {
+  background:
+    linear-gradient(90deg, rgba(6, 20, 22, 0.95), rgba(6, 20, 22, 0.66)),
+    url("assets/hero-global-ip.png") center / cover;
+}
+
 .subpage-grid,
 .timeline-section,
 .process-section,
@@ -1263,6 +1269,154 @@ footer a {
   color: var(--gold);
 }
 
+.patent-home-feature {
+  background: #233735;
+}
+
+.patent-home-feature .section-heading p:not(.eyebrow) {
+  max-width: 900px;
+  color: rgba(255, 255, 255, 0.78);
+}
+
+.english-copy {
+  color: inherit;
+  opacity: 0.78;
+}
+
+.patent-brief {
+  background: #233735;
+}
+
+.patent-track-card {
+  min-height: 360px;
+}
+
+.patent-track-grid {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.patent-track-card ul {
+  display: grid;
+  gap: 8px;
+  margin: 4px 0 0;
+  padding-left: 18px;
+  color: var(--muted);
+}
+
+.patent-track-card li {
+  line-height: 1.55;
+}
+
+.patent-workflow {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 18px;
+}
+
+.patent-workflow article {
+  min-height: 250px;
+  padding: 26px;
+  color: var(--ink);
+  background: var(--white);
+  box-shadow: var(--shadow);
+}
+
+.patent-workflow span {
+  display: inline-block;
+  margin-bottom: 34px;
+  color: var(--gold);
+  font-size: 13px;
+  font-weight: 900;
+  letter-spacing: 0;
+}
+
+.patent-workflow p,
+.patent-issue-section .section-heading p:not(.eyebrow) {
+  color: var(--muted);
+}
+
+.patent-issue-section {
+  padding: clamp(54px, 8vw, 104px) clamp(18px, 7vw, 96px);
+  background: var(--paper);
+}
+
+.inline-actions,
+.section-action {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 24px;
+}
+
+.section-action {
+  margin-bottom: 0;
+}
+
+.subscription-options {
+  padding: clamp(54px, 8vw, 104px) clamp(18px, 7vw, 96px);
+  background: var(--paper);
+}
+
+.subscription-card {
+  min-height: 300px;
+}
+
+.patent-signal-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+  margin-top: 24px;
+}
+
+.patent-signal-grid article {
+  padding: 22px;
+  border-left: 4px solid var(--gold);
+  background: #f7f7f4;
+}
+
+.patent-signal-grid p {
+  margin: 0 0 8px;
+  color: var(--gold);
+  font-size: 13px;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.patent-signal-grid h3 {
+  margin-bottom: 8px;
+  font-size: 20px;
+}
+
+.patent-signal-grid span {
+  color: var(--muted);
+}
+
+.patent-breakdown {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+  margin-top: 22px;
+}
+
+.patent-breakdown article {
+  padding: 22px;
+  border-top: 4px solid var(--gold);
+  background: #f7f7f4;
+}
+
+.patent-breakdown h3 {
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+
+.patent-breakdown p {
+  color: var(--muted);
+}
+
+.patent-breakdown p:last-child {
+  margin-bottom: 0;
+}
+
 .content-service-grid {
   background: var(--line);
 }
@@ -1638,6 +1792,22 @@ footer a {
     grid-template-columns: 1fr;
   }
 
+  .patent-workflow {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .patent-track-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .patent-signal-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .patent-breakdown {
+    grid-template-columns: 1fr;
+  }
+
   .service-grid article {
     min-height: auto;
   }
@@ -1683,6 +1853,14 @@ footer a {
   }
 
   .article-index {
+    grid-template-columns: 1fr;
+  }
+
+  .patent-workflow {
+    grid-template-columns: 1fr;
+  }
+
+  .patent-track-grid {
     grid-template-columns: 1fr;
   }
 
