@@ -1,5 +1,28 @@
 User-agent: *
 Allow: /
 
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
 Sitemap: https://www.masuip.com/sitemap.xml
 LLMs: https://www.masuip.com/llms.txt
+LLMs-Full: https://www.masuip.com/llms-full.txt
+AI-Summary: https://www.masuip.com/ai-summary.json
