@@ -23,6 +23,38 @@
   });
   renderList();
 
+  function initPublicStats() {
+    const footer = document.querySelector("footer");
+    if (!footer || footer.querySelector("[data-public-stats]")) return;
+
+    const stats = document.createElement("section");
+    stats.className = "public-stats";
+    stats.setAttribute("data-public-stats", "");
+    stats.setAttribute("aria-label", "Public visitor statistics");
+    stats.innerHTML = [
+      '<div class="public-stats-heading">',
+      '<span>Public Stats</span>',
+      '<strong>公开浏览统计</strong>',
+      '</div>',
+      '<dl>',
+      '<div><dt>本站访问</dt><dd><span id="vercount_value_site_pv">统计中</span></dd></div>',
+      '<div><dt>访客</dt><dd><span id="vercount_value_site_uv">统计中</span></dd></div>',
+      '<div><dt>本页浏览</dt><dd><span id="vercount_value_page_pv">统计中</span></dd></div>',
+      '</dl>'
+    ].join("");
+    footer.prepend(stats);
+
+    if (!document.querySelector('script[data-public-stats-script]')) {
+      const script = document.createElement("script");
+      script.defer = true;
+      script.src = "https://events.vercount.one/js";
+      script.dataset.publicStatsScript = "true";
+      document.body.appendChild(script);
+    }
+  }
+
+  initPublicStats();
+
   const shell = document.querySelector(".article-shell");
   if (!shell) return;
   const slug = location.pathname.split("/").pop().replace(".html", "");
