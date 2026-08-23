@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>前沿专利观察第003期：机器人前沿：医疗机器人、自动驾驶与现场部署 | Ma Su Team</title>
-    <meta name="description" content="前沿专利观察第003期，精选16件机器人前沿：医疗机器人、自动驾驶与现场部署方向公开专利，说明新问题、解决手段和创新提示。" />
+    <title>前沿专利观察第003期：机器人专利逐件研读 | Ma Su Team</title>
+    <meta name="description" content="前沿专利观察第003期，逐件研读16件机器人、医疗机器人、自动驾驶和现场部署相关公开专利，拆解真实技术问题、技术方案和布局启示。" />
     <link rel="canonical" href="https://www.masuip.com/articles/patent-biweekly-issue-003.html" />
     <link rel="stylesheet" href="../styles.css" />
     <script type="application/ld+json">
@@ -13,31 +13,13 @@
         "@type": "Article",
         "@id": "https://www.masuip.com/articles/patent-biweekly-issue-003.html#article",
         "url": "https://www.masuip.com/articles/patent-biweekly-issue-003.html",
-        "headline": "前沿专利观察第003期：机器人前沿：医疗机器人、自动驾驶与现场部署",
+        "headline": "前沿专利观察第003期：机器人专利逐件研读",
         "inLanguage": ["zh-CN", "en"],
         "datePublished": "2026-08-23",
         "dateModified": "2026-08-23",
         "author": {"@id": "https://www.masuip.com/#organization"},
         "publisher": {"@id": "https://www.masuip.com/#organization"},
-        "isPartOf": {"@id": "https://www.masuip.com/patent-biweekly.html#collection"},
-        "mentions": [
-              "US-12588964-B2",
-              "WO-2025104594-A1",
-              "US-2025283726-A1",
-              "US-2025026006-A1",
-              "US-12226175-B2",
-              "EP-4509085-A1",
-              "US-12187287-B1",
-              "US-12226176-B2",
-              "US-2025318724-A1",
-              "KR-102829805-B1",
-              "US-12391281-B2",
-              "US-11504196-B2",
-              "US-12330320-B2",
-              "US-11472030-B2",
-              "CA-3060879-A1",
-              "US-2023075185-A1"
-        ]
+        "isPartOf": {"@id": "https://www.masuip.com/patent-biweekly.html#collection"}
       }
     </script>
   </head>
@@ -51,176 +33,183 @@
     <main>
       <article class="article-shell">
         <p class="eyebrow">前沿专利观察 / Patent Frontier Watch</p>
-        <h1>第003期：机器人前沿：医疗机器人、自动驾驶与现场部署</h1>
-        <p class="article-deck">本期精选16件公开专利，不做数量播报，而是逐件拆解：它发现了什么新问题，用什么技术手段解决，以及企业和科研团队可以从中得到什么创新提示。</p>
-        <p class="article-deck english-copy">Issue 003 reviews 16 public patent documents as frontier signals: problem discovered, technical means used, and innovation cues for founders and research teams.</p>
-        <div class="article-meta"><span>By Ma Su Team</span><span>2026-08-23</span><span>16 patent signals</span></div>
-        <section class="article-section"><h2>本期读法</h2><p>我们重点看三类价值：第一，专利是否把前人没有明确工程化的问题说清楚；第二，是否用了可验证、可参数化、可制造的技术组合；第三，是否给后续研发、FTO和专利布局留下新的启发。</p></section>
+        <h1>第003期：机器人专利逐件研读</h1>
+        <p class="article-deck">本期重写为逐件研读版，不再做标题归类，也不再写泛泛的“前沿信号”。每件专利都回到它本身：它到底发现了什么具体技术问题，采用了怎样的技术方案，以及对企业研发、FTO和专利布局有什么启示。</p>
+        <p class="article-deck english-copy">This revised issue reads each patent as a technical document: the concrete problem, the claimed technical architecture, and the portfolio lesson.</p>
+        <div class="article-meta"><span>By Ma Su Team</span><span>2026-08-23</span><span>16 patent readings</span></div>
+        <section class="article-section">
+          <h2>为什么选这些专利</h2>
+          <p>这些专利不是随机挑选，而是围绕机器人从实验室走向真实部署时最容易形成专利壁垒的四类问题选取：医疗机器人中的器械定位与对接、低可见度或狭小空间控制、自动驾驶中的行为记忆和风险响应，以及机器人系统的现场部署、校准和辅助设施。选择标准不是“标题看起来新”，而是它们各自暴露了一个具体工程问题，并给出了可写入权利要求的系统结构或控制流程。</p>
+        </section>
 
           <section class="article-section patent-breakdown-section">
             <h2>1. Medical instrument guidance with robotic systems</h2>
-            <p><strong>代表专利：</strong><a href="https://pubchem.ncbi.nlm.nih.gov/patent/US-12588964-B2" target="_blank" rel="noopener">US-12588964-B2, Medical instrument guidance with robotic systems</a>。来源：PubChem。方向：机器人。</p>
+            <p><strong>代表专利：</strong><a href="https://pubchem.ncbi.nlm.nih.gov/patent/US-12588964-B2" target="_blank" rel="noopener">US-12588964-B2</a>。申请人/权利人：AURIS HEALTH INC。</p>
             <div class="patent-breakdown">
-              <article><h3>发现了什么新问题？</h3><p>它发现的新问题是：机器人进入手术、牙科、内镜或医疗器械场景后，难点不再只是“机械臂能不能动”，而是狭小空间中的定位、交接、视野变化、器械更换和安全边界能否被稳定控制。</p></article>
-              <article><h3>用什么手段解决？</h3><p>它采用的方案围绕“Medical instrument guidance with robotic systems”展开，把机构、传感、控制或任务流程拆成可验证模块，再通过位置补偿、边界提示、工具耦合、低可见度控制、路径记忆或执行器结构来降低现场不确定性。</p></article>
-              <article><h3>创新提示是什么？</h3><p>创新提示：机器人团队应把“场景约束”写成技术特征，例如视野受限、工具切换、边界提示、运动补偿、维护方式和人机交接，这些比单纯描述一个机械臂更容易形成可执行的专利布局。</p><p class="english-copy">Innovation cue: protect the problem definition, the measurable technical means, and the deployment constraint, not only the headline technology name.</p></article>
+              <article><h3>它真正发现的问题</h3><p>这件专利面对的是内镜辅助经皮操作中的定位问题：医生通过自然腔道进入体内可以看到或到达某一区域，但真正要让另一件器械从体表经皮进入并准确到达靶点，难点在于两个进入路径之间缺少稳定的空间参照。传统做法容易依赖影像估计和操作者经验，靶点定义、路径转换和器械引导之间存在误差。</p></article>
+              <article><h3>它的技术方案</h3><p>方案把第一医疗器械设计成带细长轴和位置传感器的内镜/器械，经自然腔道进入解剖区域后，系统先根据该位置传感器确定第一器械在体内的位置，再基于该位置定义靶位置，随后引导第二医疗器械从体表经皮向该靶位置推进。也就是说，第一器械不是单纯观察工具，而是变成体内坐标参考；第二器械的经皮路径则由这个参考坐标来约束，并可在机器人医疗系统中执行。</p></article>
+              <article><h3>给我们的启示</h3><p>启示在于，医疗机器人专利不一定要从“机器人做手术”这种大概念切入。更有价值的保护点往往是跨路径协同：自然腔道器械负责定位和定义靶点，经皮器械负责治疗或取样，机器人系统负责把二者的空间关系转成可执行的引导控制。</p></article>
             </div>
           </section>
 
           <section class="article-section patent-breakdown-section">
-            <h2>2. Surgical robotic system and method for using secondary image data</h2>
-            <p><strong>代表专利：</strong><a href="https://pubchem.ncbi.nlm.nih.gov/patent/WO-2025104594-A1" target="_blank" rel="noopener">WO-2025104594-A1, Surgical robotic system and method for using secondary image data</a>。来源：PubChem。方向：机器人。</p>
+            <h2>2. Surgical robotic system and method for using secondary image source to generate a composite instrument image in low contrast imaging mode</h2>
+            <p><strong>代表专利：</strong><a href="https://pubchem.ncbi.nlm.nih.gov/patent/WO-2025104594-A1" target="_blank" rel="noopener">WO-2025104594-A1</a>。申请人/权利人：COVIDIEN LP。</p>
             <div class="patent-breakdown">
-              <article><h3>发现了什么新问题？</h3><p>它发现的新问题是：机器人进入手术、牙科、内镜或医疗器械场景后，难点不再只是“机械臂能不能动”，而是狭小空间中的定位、交接、视野变化、器械更换和安全边界能否被稳定控制。</p></article>
-              <article><h3>用什么手段解决？</h3><p>它采用的方案围绕“Surgical robotic system and method for using secondary image data”展开，把机构、传感、控制或任务流程拆成可验证模块，再通过位置补偿、边界提示、工具耦合、低可见度控制、路径记忆或执行器结构来降低现场不确定性。</p></article>
-              <article><h3>创新提示是什么？</h3><p>创新提示：机器人团队应把“场景约束”写成技术特征，例如视野受限、工具切换、边界提示、运动补偿、维护方式和人机交接，这些比单纯描述一个机械臂更容易形成可执行的专利布局。</p><p class="english-copy">Innovation cue: protect the problem definition, the measurable technical means, and the deployment constraint, not only the headline technology name.</p></article>
+              <article><h3>它真正发现的问题</h3><p>这件专利发现的不是普通“图像融合”问题，而是手术机器人在近红外等低对比度成像模式下的器械可见性问题。近红外图像有助于显示组织、灌注或荧光信息，但画面可能是单色或低对比，手术器械边界、颜色和姿态不容易被医生稳定识别。</p></article>
+              <article><h3>它的技术方案</h3><p>方案设置主成像源和次成像源：主成像源输出手术部位及器械的近红外低对比视频，次成像源以白光/彩色模式拍摄器械。系统从次成像源的视频中提取器械的白光彩色叠加层，再通过图像处理把该叠加层与近红外视频对准，生成复合图像。它不是把两路视频简单并排显示，而是有选择地提取“器械可见性”信息补到低对比图像上。</p></article>
+              <article><h3>给我们的启示</h3><p>启示是，多模态手术影像的专利布局不能只写“融合NIR和白光图像”。更好的切口是明确低对比模式下谁不可见、从哪一路图像提取什么对象、如何配准、叠加后的图像服务于什么控制或观察任务。</p></article>
             </div>
           </section>
 
           <section class="article-section patent-breakdown-section">
             <h2>3. Autonomous vehicle application</h2>
-            <p><strong>代表专利：</strong><a href="https://pubchem.ncbi.nlm.nih.gov/patent/US-2025283726-A1" target="_blank" rel="noopener">US-2025283726-A1, Autonomous vehicle application</a>。来源：PubChem。方向：机器人。</p>
+            <p><strong>代表专利：</strong><a href="https://pubchem.ncbi.nlm.nih.gov/patent/US-2025283726-A1" target="_blank" rel="noopener">US-2025283726-A1</a>。申请人/权利人：STATE FARM MUTUAL AUTOMOBILE INSURANCE CO。</p>
             <div class="patent-breakdown">
-              <article><h3>发现了什么新问题？</h3><p>它发现的新问题是：自主移动设备面对开放环境时，真正卡住商业化的不是单点感知，而是路径、互动对象、可见性、记忆和异常行为之间的连续决策。</p></article>
-              <article><h3>用什么手段解决？</h3><p>它采用的方案围绕“Autonomous vehicle application”展开，把机构、传感、控制或任务流程拆成可验证模块，再通过位置补偿、边界提示、工具耦合、低可见度控制、路径记忆或执行器结构来降低现场不确定性。</p></article>
-              <article><h3>创新提示是什么？</h3><p>创新提示：机器人团队应把“场景约束”写成技术特征，例如视野受限、工具切换、边界提示、运动补偿、维护方式和人机交接，这些比单纯描述一个机械臂更容易形成可执行的专利布局。</p><p class="english-copy">Innovation cue: protect the problem definition, the measurable technical means, and the deployment constraint, not only the headline technology name.</p></article>
+              <article><h3>它真正发现的问题</h3><p>这件专利的核心问题是自动驾驶车辆对道路状态的认知过于局部。单车传感器只能看到当前车辆附近的情况，而前方同一路段的湿滑、障碍、拥堵、事故或异常条件，往往已经被其他自动驾驶车辆观察到，却没有被组织成可供后来车辆使用的道路级信息。</p></article>
+              <article><h3>它的技术方案</h3><p>方案由计算设备接收多个自动驾驶车辆针对同一路段上传的数据，包括路段内的位置以及该位置的道路条件；系统把这些分散数据合成为该路段的整体条件指示，并可生成面向接近车辆的建议。接近该路段的车辆或车内计算设备请求显示车辆/道路数据时，系统把整体路况或建议显示在用户界面上。</p></article>
+              <article><h3>给我们的启示</h3><p>启示是，自动驾驶专利不只在车端感知算法。道路状态的群体采集、路段级聚合、风险建议生成和车端展示，也可以形成数据链路型专利。对企业做布局时，应把“谁采集、如何合并、怎样转成建议、给谁使用”写成完整流程。</p></article>
             </div>
           </section>
 
           <section class="article-section patent-breakdown-section">
-            <h2>4. Drone mechanism including foldable arm and compressible components</h2>
-            <p><strong>代表专利：</strong><a href="https://pubchem.ncbi.nlm.nih.gov/patent/US-2025026006-A1" target="_blank" rel="noopener">US-2025026006-A1, Drone mechanism including foldable arm and compressible components</a>。来源：PubChem。方向：机器人。</p>
+            <h2>4. Drone mechanism including foldable arm and compressible gripper</h2>
+            <p><strong>代表专利：</strong><a href="https://pubchem.ncbi.nlm.nih.gov/patent/US-2025026006-A1" target="_blank" rel="noopener">US-2025026006-A1</a>。申请人/权利人：IDAHO STATE UNIV。</p>
             <div class="patent-breakdown">
-              <article><h3>发现了什么新问题？</h3><p>它发现的新问题是：自主移动设备面对开放环境时，真正卡住商业化的不是单点感知，而是路径、互动对象、可见性、记忆和异常行为之间的连续决策。</p></article>
-              <article><h3>用什么手段解决？</h3><p>它采用的方案围绕“Drone mechanism including foldable arm and compressible components”展开，把机构、传感、控制或任务流程拆成可验证模块，再通过位置补偿、边界提示、工具耦合、低可见度控制、路径记忆或执行器结构来降低现场不确定性。</p></article>
-              <article><h3>创新提示是什么？</h3><p>创新提示：机器人团队应把“场景约束”写成技术特征，例如视野受限、工具切换、边界提示、运动补偿、维护方式和人机交接，这些比单纯描述一个机械臂更容易形成可执行的专利布局。</p><p class="english-copy">Innovation cue: protect the problem definition, the measurable technical means, and the deployment constraint, not only the headline technology name.</p></article>
+              <article><h3>它真正发现的问题</h3><p>无人机抓取物体的难点不只是安装一个机械爪。飞行平台对重量、重心、收纳体积、起降稳定性和抓取冲击都敏感；机械臂伸出会改变重心，抓取刚性物体或不规则物体时又容易滑脱或损伤。</p></article>
+              <article><h3>它的技术方案</h3><p>方案把机构安装在机体下侧，包含起落架、储存系统、机械臂外壳、配重外壳、机械臂、执行器和末端执行器。机械臂可在收回位置与伸出位置之间切换，末端夹爪采用一对相对的可压缩元件来夹持物体。收纳、配重、起落架和柔顺夹爪共同解决飞行和抓取之间的冲突。</p></article>
+              <article><h3>给我们的启示</h3><p>启示是，无人机作业类专利不要只写“无人机+机械臂”。真正可保护的常在系统工程细节：臂如何收纳、伸出后如何平衡、夹爪如何柔顺接触、起落架和载物结构如何互不干扰。</p></article>
             </div>
           </section>
 
           <section class="article-section patent-breakdown-section">
             <h2>5. Systems and methods for docking medical instruments</h2>
-            <p><strong>代表专利：</strong><a href="https://pubchem.ncbi.nlm.nih.gov/patent/US-12226175-B2" target="_blank" rel="noopener">US-12226175-B2, Systems and methods for docking medical instruments</a>。来源：PubChem。方向：机器人。</p>
+            <p><strong>代表专利：</strong><a href="https://pubchem.ncbi.nlm.nih.gov/patent/US-12226175-B2" target="_blank" rel="noopener">US-12226175-B2</a>。申请人/权利人：AURIS HEALTH INC。</p>
             <div class="patent-breakdown">
-              <article><h3>发现了什么新问题？</h3><p>它发现的新问题是：机器人进入手术、牙科、内镜或医疗器械场景后，难点不再只是“机械臂能不能动”，而是狭小空间中的定位、交接、视野变化、器械更换和安全边界能否被稳定控制。</p></article>
-              <article><h3>用什么手段解决？</h3><p>它采用的方案围绕“Systems and methods for docking medical instruments”展开，把机构、传感、控制或任务流程拆成可验证模块，再通过位置补偿、边界提示、工具耦合、低可见度控制、路径记忆或执行器结构来降低现场不确定性。</p></article>
-              <article><h3>创新提示是什么？</h3><p>创新提示：机器人团队应把“场景约束”写成技术特征，例如视野受限、工具切换、边界提示、运动补偿、维护方式和人机交接，这些比单纯描述一个机械臂更容易形成可执行的专利布局。</p><p class="english-copy">Innovation cue: protect the problem definition, the measurable technical means, and the deployment constraint, not only the headline technology name.</p></article>
+              <article><h3>它真正发现的问题</h3><p>机器人医疗器械的对接难点在于驱动端和器械端并不总能天然对准。尤其是带预张紧拉线的器械，驱动输入受到内部张力影响，若驱动输出强行接合，可能出现啮合不顺、初始角度错误或控制误差。</p></article>
+              <article><h3>它的技术方案</h3><p>方案在器械驱动机构中设置可旋转的驱动输出、电机和扭矩传感器。机器人器械侧有对应的驱动输入，并由该输入驱动预张紧拉线。系统根据扭矩传感器的扭矩信号启动电机旋转驱动输出，让驱动输出在接触和扭矩反馈中自动调整到与驱动输入对准的位置。</p></article>
+              <article><h3>给我们的启示</h3><p>启示是，对接动作本身可以成为闭环控制对象。很多设备企业只保护“可拆卸连接结构”，但这里保护的是对接过程中的扭矩检测、旋转寻位和拉线预张力适配，这类过程特征更贴近真实故障点。</p></article>
             </div>
           </section>
 
           <section class="article-section patent-breakdown-section">
             <h2>6. Surgical robotic system with automated low visibility control</h2>
-            <p><strong>代表专利：</strong><a href="https://pubchem.ncbi.nlm.nih.gov/patent/EP-4509085-A1" target="_blank" rel="noopener">EP-4509085-A1, Surgical robotic system with automated low visibility control</a>。来源：PubChem。方向：机器人。</p>
+            <p><strong>代表专利：</strong><a href="https://pubchem.ncbi.nlm.nih.gov/patent/EP-4509085-A1" target="_blank" rel="noopener">EP-4509085-A1</a>。申请人/权利人：COVIDIEN LP。</p>
             <div class="patent-breakdown">
-              <article><h3>发现了什么新问题？</h3><p>它发现的新问题是：机器人进入手术、牙科、内镜或医疗器械场景后，难点不再只是“机械臂能不能动”，而是狭小空间中的定位、交接、视野变化、器械更换和安全边界能否被稳定控制。</p></article>
-              <article><h3>用什么手段解决？</h3><p>它采用的方案围绕“Surgical robotic system with automated low visibility control”展开，把机构、传感、控制或任务流程拆成可验证模块，再通过位置补偿、边界提示、工具耦合、低可见度控制、路径记忆或执行器结构来降低现场不确定性。</p></article>
-              <article><h3>创新提示是什么？</h3><p>创新提示：机器人团队应把“场景约束”写成技术特征，例如视野受限、工具切换、边界提示、运动补偿、维护方式和人机交接，这些比单纯描述一个机械臂更容易形成可执行的专利布局。</p><p class="english-copy">Innovation cue: protect the problem definition, the measurable technical means, and the deployment constraint, not only the headline technology name.</p></article>
+              <article><h3>它真正发现的问题</h3><p>手术机器人在低可见度成像模式下继续按普通模式响应医生手柄输入，会放大风险。低可见度可能来自特殊成像模式、烟雾、出血、照明不足或画面对比度下降，此时器械运动的速度、幅度或控制策略应当受到约束。</p></article>
+              <article><h3>它的技术方案</h3><p>方案把腹腔镜相机、图像处理装置、外科医生控制台和器械驱动单元联动起来。图像处理装置具有多个成像模式，其中包括低可见度模式；控制器根据低可见度模式是否激活，让手术器械在第一操作模式和第二操作模式之间切换。换言之，成像状态直接参与机器人运动控制策略的选择。</p></article>
+              <article><h3>给我们的启示</h3><p>启示是，医疗机器人安全专利可以从“视觉状态触发控制模式”切入。不是单独改图像，也不是单独改机械臂，而是把低可见度识别、手柄输入和器械运动权限/响应联系起来。</p></article>
             </div>
           </section>
 
           <section class="article-section patent-breakdown-section">
             <h2>7. Autonomous vehicle interaction memory</h2>
-            <p><strong>代表专利：</strong><a href="https://pubchem.ncbi.nlm.nih.gov/patent/US-12187287-B1" target="_blank" rel="noopener">US-12187287-B1, Autonomous vehicle interaction memory</a>。来源：PubChem。方向：机器人。</p>
+            <p><strong>代表专利：</strong><a href="https://pubchem.ncbi.nlm.nih.gov/patent/US-12187287-B1" target="_blank" rel="noopener">US-12187287-B1</a>。申请人/权利人：ZOOX INC。</p>
             <div class="patent-breakdown">
-              <article><h3>发现了什么新问题？</h3><p>它发现的新问题是：自主移动设备面对开放环境时，真正卡住商业化的不是单点感知，而是路径、互动对象、可见性、记忆和异常行为之间的连续决策。</p></article>
-              <article><h3>用什么手段解决？</h3><p>它采用的方案围绕“Autonomous vehicle interaction memory”展开，把机构、传感、控制或任务流程拆成可验证模块，再通过位置补偿、边界提示、工具耦合、低可见度控制、路径记忆或执行器结构来降低现场不确定性。</p></article>
-              <article><h3>创新提示是什么？</h3><p>创新提示：机器人团队应把“场景约束”写成技术特征，例如视野受限、工具切换、边界提示、运动补偿、维护方式和人机交接，这些比单纯描述一个机械臂更容易形成可执行的专利布局。</p><p class="english-copy">Innovation cue: protect the problem definition, the measurable technical means, and the deployment constraint, not only the headline technology name.</p></article>
+              <article><h3>它真正发现的问题</h3><p>自动驾驶车辆如果只按当前帧识别行人、骑行者和车辆，就会丢失对象的行为历史。同一个对象可能反复出现、动作摇摆、突然变道或表现出风险倾向；没有短期记忆，车辆难以及时把这些行为变成风险判断。</p></article>
+              <article><h3>它的技术方案</h3><p>方案为环境中观察到的对象确定行为档案和唯一身份，并把这些行为档案短期存储在本地。当车辆再次观察到对象时，可以快速读取其行为特征，判断是否存在危险或异常行为，并据此调整车辆导航和安全策略。</p></article>
+              <article><h3>给我们的启示</h3><p>启示是，自动驾驶的“记忆层”值得布局。感知不是识别完就结束，风险来自对象在时间上的连续行为。专利可以围绕身份保持、短期行为档案、异常行为评分和控制策略调用来写。</p></article>
             </div>
           </section>
 
           <section class="article-section patent-breakdown-section">
             <h2>8. Automatic instrument position adjustment</h2>
-            <p><strong>代表专利：</strong><a href="https://pubchem.ncbi.nlm.nih.gov/patent/US-12226176-B2" target="_blank" rel="noopener">US-12226176-B2, Automatic instrument position adjustment</a>。来源：PubChem。方向：机器人。</p>
+            <p><strong>代表专利：</strong><a href="https://pubchem.ncbi.nlm.nih.gov/patent/US-12226176-B2" target="_blank" rel="noopener">US-12226176-B2</a>。申请人/权利人：AURIS HEALTH INC。</p>
             <div class="patent-breakdown">
-              <article><h3>发现了什么新问题？</h3><p>它发现的新问题是：机器人进入手术、牙科、内镜或医疗器械场景后，难点不再只是“机械臂能不能动”，而是狭小空间中的定位、交接、视野变化、器械更换和安全边界能否被稳定控制。</p></article>
-              <article><h3>用什么手段解决？</h3><p>它采用的方案围绕“Automatic instrument position adjustment”展开，把机构、传感、控制或任务流程拆成可验证模块，再通过位置补偿、边界提示、工具耦合、低可见度控制、路径记忆或执行器结构来降低现场不确定性。</p></article>
-              <article><h3>创新提示是什么？</h3><p>创新提示：机器人团队应把“场景约束”写成技术特征，例如视野受限、工具切换、边界提示、运动补偿、维护方式和人机交接，这些比单纯描述一个机械臂更容易形成可执行的专利布局。</p><p class="english-copy">Innovation cue: protect the problem definition, the measurable technical means, and the deployment constraint, not only the headline technology name.</p></article>
+              <article><h3>它真正发现的问题</h3><p>柔性医疗器械中再插入另一件器械时，插入力和摩擦会改变外层柔性器械远端的位置。这个问题很具体：不是机器人无法定位，而是工作通道内的器械插入会扰动已经定位好的远端端部。</p></article>
+              <article><h3>它的技术方案</h3><p>方案先检测可插入器械进入柔性器械的工作通道，再根据至少一个传感器的数据检测柔性器械远端相对于初始位置的变化。系统基于位置变化生成控制信号，并调整拉线张力，使远端部分回到初始位置或补偿偏移。</p></article>
+              <article><h3>给我们的启示</h3><p>启示是，医疗器械控制中的“二次扰动”非常适合专利化。外层器械、内层器械、传感器、位置变化、拉线张力补偿构成了清晰链条，比泛泛写“提高稳定性”更有价值。</p></article>
             </div>
           </section>
 
           <section class="article-section patent-breakdown-section">
             <h2>9. Medical robotic system</h2>
-            <p><strong>代表专利：</strong><a href="https://pubchem.ncbi.nlm.nih.gov/patent/US-2025318724-A1" target="_blank" rel="noopener">US-2025318724-A1, Medical robotic system</a>。来源：PubChem。方向：机器人。</p>
+            <p><strong>代表专利：</strong><a href="https://pubchem.ncbi.nlm.nih.gov/patent/US-2025318724-A1" target="_blank" rel="noopener">US-2025318724-A1</a>。申请人/权利人：MEDITRINA INC。</p>
             <div class="patent-breakdown">
-              <article><h3>发现了什么新问题？</h3><p>它发现的新问题是：机器人进入手术、牙科、内镜或医疗器械场景后，难点不再只是“机械臂能不能动”，而是狭小空间中的定位、交接、视野变化、器械更换和安全边界能否被稳定控制。</p></article>
-              <article><h3>用什么手段解决？</h3><p>它采用的方案围绕“Medical robotic system”展开，把机构、传感、控制或任务流程拆成可验证模块，再通过位置补偿、边界提示、工具耦合、低可见度控制、路径记忆或执行器结构来降低现场不确定性。</p></article>
-              <article><h3>创新提示是什么？</h3><p>创新提示：机器人团队应把“场景约束”写成技术特征，例如视野受限、工具切换、边界提示、运动补偿、维护方式和人机交接，这些比单纯描述一个机械臂更容易形成可执行的专利布局。</p><p class="english-copy">Innovation cue: protect the problem definition, the measurable technical means, and the deployment constraint, not only the headline technology name.</p></article>
+              <article><h3>它真正发现的问题</h3><p>这件专利关注单机械臂手术系统的工具控制问题。多机械臂系统占用空间大、成本高、布置复杂；但单机械臂若只携带单一工具，又难以完成需要多工具配合的微创操作。</p></article>
+              <article><h3>它的技术方案</h3><p>公开摘要显示，该系统配置为控制单个机器人臂的运动和致动，并控制该机器人臂远端携带的多个工具的运动和致动。也就是说，系统把“机械臂定位”和“远端多工具动作”分层处理，让多个工具集中在单臂远端完成操作。</p></article>
+              <article><h3>给我们的启示</h3><p>启示是，手术机器人可以从“减少外部机械臂数量、增加远端工具集成度”寻找布局机会。此类方案的后续研读重点应放在远端工具如何排列、如何独立致动、如何避免工具间干涉。</p></article>
             </div>
           </section>
 
           <section class="article-section patent-breakdown-section">
             <h2>10. Entertainment apparatus and method for self-driving vehicle</h2>
-            <p><strong>代表专利：</strong><a href="https://pubchem.ncbi.nlm.nih.gov/patent/KR-102829805-B1" target="_blank" rel="noopener">KR-102829805-B1, Entertainment apparatus and method for self-driving vehicle</a>。来源：PubChem。方向：机器人。</p>
+            <p><strong>代表专利：</strong><a href="https://pubchem.ncbi.nlm.nih.gov/patent/KR-102829805-B1" target="_blank" rel="noopener">KR-102829805-B1</a>。申请人/权利人：Not listed in PubChem JSON。</p>
             <div class="patent-breakdown">
-              <article><h3>发现了什么新问题？</h3><p>它发现的新问题是：自主移动设备面对开放环境时，真正卡住商业化的不是单点感知，而是路径、互动对象、可见性、记忆和异常行为之间的连续决策。</p></article>
-              <article><h3>用什么手段解决？</h3><p>它采用的方案围绕“Entertainment apparatus and method for self-driving vehicle”展开，把机构、传感、控制或任务流程拆成可验证模块，再通过位置补偿、边界提示、工具耦合、低可见度控制、路径记忆或执行器结构来降低现场不确定性。</p></article>
-              <article><h3>创新提示是什么？</h3><p>创新提示：机器人团队应把“场景约束”写成技术特征，例如视野受限、工具切换、边界提示、运动补偿、维护方式和人机交接，这些比单纯描述一个机械臂更容易形成可执行的专利布局。</p><p class="english-copy">Innovation cue: protect the problem definition, the measurable technical means, and the deployment constraint, not only the headline technology name.</p></article>
+              <article><h3>它真正发现的问题</h3><p>这件专利不是自动驾驶控制本身，而是自动驾驶座舱内的乘客交互问题。当车辆不再需要乘客持续驾驶，车内娱乐可以脱离方向盘和传统按钮，但乘客在座椅上如何自然输入、如何在移动中参与游戏，是新的座舱场景问题。</p></article>
+              <article><h3>它的技术方案</h3><p>方案在自动驾驶车辆座椅周围设置显示器，让乘客观看游戏画面；座椅上设置身体压力传感器，另设触摸压力检测的触摸板。游戏执行和进程基于身体压力分布信号及触摸压力信号推进，使乘客通过身体移动、坐姿压力和触摸压力参与游戏。</p></article>
+              <article><h3>给我们的启示</h3><p>启示是，自动驾驶相关专利不只属于感知和控制，也包括新座舱场景。保护点可以来自“乘客状态传感+内容交互”的组合，例如座椅压力、触摸压力、显示内容和游戏逻辑之间的映射。</p></article>
             </div>
           </section>
 
           <section class="article-section patent-breakdown-section">
             <h2>11. Responses to vulnerable road user&#39;s adversarial behavior</h2>
-            <p><strong>代表专利：</strong><a href="https://pubchem.ncbi.nlm.nih.gov/patent/US-12391281-B2" target="_blank" rel="noopener">US-12391281-B2, Responses to vulnerable road user&#39;s adversarial behavior</a>。来源：PubChem。方向：机器人。</p>
+            <p><strong>代表专利：</strong><a href="https://pubchem.ncbi.nlm.nih.gov/patent/US-12391281-B2" target="_blank" rel="noopener">US-12391281-B2</a>。申请人/权利人：GM GLOBAL TECH OPERATIONS LLC。</p>
             <div class="patent-breakdown">
-              <article><h3>发现了什么新问题？</h3><p>它发现的新问题是：机器人系统在真实部署中经常被维护、校准、末端工具适配和多传感器协同拖慢，单个动作演示不能直接变成可交付产品。</p></article>
-              <article><h3>用什么手段解决？</h3><p>它采用的方案围绕“Responses to vulnerable road user&#39;s adversarial behavior”展开，把机构、传感、控制或任务流程拆成可验证模块，再通过位置补偿、边界提示、工具耦合、低可见度控制、路径记忆或执行器结构来降低现场不确定性。</p></article>
-              <article><h3>创新提示是什么？</h3><p>创新提示：机器人团队应把“场景约束”写成技术特征，例如视野受限、工具切换、边界提示、运动补偿、维护方式和人机交接，这些比单纯描述一个机械臂更容易形成可执行的专利布局。</p><p class="english-copy">Innovation cue: protect the problem definition, the measurable technical means, and the deployment constraint, not only the headline technology name.</p></article>
+              <article><h3>它真正发现的问题</h3><p>普通自动驾驶避障默认行人是被动风险源，但现实中可能出现脆弱道路使用者主动挑衅、试探或阻挡自动驾驶车辆的情况。难点在于车辆不能只检测“有人”，还要判断行为是否具有对抗性以及风险等级。</p></article>
+              <article><h3>它的技术方案</h3><p>方案设置与车辆控制器通信的行人检测系统，并设置对抗意图算法，用于根据车辆附近至少一个行人的行为确定对抗行为风险等级。车辆控制器再基于该风险等级，为自动驾驶车辆提供主动或反应式动作。</p></article>
+              <article><h3>给我们的启示</h3><p>启示是，自动驾驶安全专利可以从“行为意图分类”深入到“风险等级到动作策略”的映射。真正有价值的不是检测行人，而是识别对抗性、量化风险、选择 proactive/reactive 动作。</p></article>
             </div>
           </section>
 
           <section class="article-section patent-breakdown-section">
-            <h2>12. Single-arm robotic device with compact joint design</h2>
-            <p><strong>代表专利：</strong><a href="https://pubchem.ncbi.nlm.nih.gov/patent/US-11504196-B2" target="_blank" rel="noopener">US-11504196-B2, Single-arm robotic device with compact joint design</a>。来源：PubChem。方向：机器人。</p>
+            <h2>12. Single-arm robotic device with compact joint design and related systems and methods</h2>
+            <p><strong>代表专利：</strong><a href="https://pubchem.ncbi.nlm.nih.gov/patent/US-11504196-B2" target="_blank" rel="noopener">US-11504196-B2</a>。申请人/权利人：UNIV NEBRASKA。</p>
             <div class="patent-breakdown">
-              <article><h3>发现了什么新问题？</h3><p>它发现的新问题是：机器人系统在真实部署中经常被维护、校准、末端工具适配和多传感器协同拖慢，单个动作演示不能直接变成可交付产品。</p></article>
-              <article><h3>用什么手段解决？</h3><p>它采用的方案围绕“Single-arm robotic device with compact joint design”展开，把机构、传感、控制或任务流程拆成可验证模块，再通过位置补偿、边界提示、工具耦合、低可见度控制、路径记忆或执行器结构来降低现场不确定性。</p></article>
-              <article><h3>创新提示是什么？</h3><p>创新提示：机器人团队应把“场景约束”写成技术特征，例如视野受限、工具切换、边界提示、运动补偿、维护方式和人机交接，这些比单纯描述一个机械臂更容易形成可执行的专利布局。</p><p class="english-copy">Innovation cue: protect the problem definition, the measurable technical means, and the deployment constraint, not only the headline technology name.</p></article>
+              <article><h3>它真正发现的问题</h3><p>微创/手术机器人需要在狭小空间内实现多个自由度，但传统关节结构会增加体积、外露传动部件或运动干涉。单臂系统尤其需要把肩部关节做得紧凑，同时仍能把驱动力可靠传到远端。</p></article>
+              <article><h3>它的技术方案</h3><p>方案包括第一、第二细长体，穿过第二细长体的第一、第二驱动轴，以及与机器人臂连接的同轴肩关节。该同轴肩关节包含差动轭和布置在轭腔内的双轴结构，用内部双轴和差动结构实现紧凑传动。</p></article>
+              <article><h3>给我们的启示</h3><p>启示是，机器人机构专利应抓住传动拓扑，而不是只画外形。这里的亮点是同轴肩关节、差动轭、双驱动轴和细长体内部空间利用，这些结构词才是可检索、可对比、可布局的特征。</p></article>
             </div>
           </section>
 
           <section class="article-section patent-breakdown-section">
             <h2>13. Robotic device</h2>
-            <p><strong>代表专利：</strong><a href="https://pubchem.ncbi.nlm.nih.gov/patent/US-12330320-B2" target="_blank" rel="noopener">US-12330320-B2, Robotic device</a>。来源：PubChem。方向：机器人。</p>
+            <p><strong>代表专利：</strong><a href="https://pubchem.ncbi.nlm.nih.gov/patent/US-12330320-B2" target="_blank" rel="noopener">US-12330320-B2</a>。申请人/权利人：LUCOMM TECH INC。</p>
             <div class="patent-breakdown">
-              <article><h3>发现了什么新问题？</h3><p>它发现的新问题是：机器人系统在真实部署中经常被维护、校准、末端工具适配和多传感器协同拖慢，单个动作演示不能直接变成可交付产品。</p></article>
-              <article><h3>用什么手段解决？</h3><p>它采用的方案围绕“Robotic device”展开，把机构、传感、控制或任务流程拆成可验证模块，再通过位置补偿、边界提示、工具耦合、低可见度控制、路径记忆或执行器结构来降低现场不确定性。</p></article>
-              <article><h3>创新提示是什么？</h3><p>创新提示：机器人团队应把“场景约束”写成技术特征，例如视野受限、工具切换、边界提示、运动补偿、维护方式和人机交接，这些比单纯描述一个机械臂更容易形成可执行的专利布局。</p><p class="english-copy">Innovation cue: protect the problem definition, the measurable technical means, and the deployment constraint, not only the headline technology name.</p></article>
+              <article><h3>它真正发现的问题</h3><p>很多现有设备并没有为机器人或AI系统开放标准接口，但现实仍需要自动控制这些设备。问题变成：机器人如何像人一样通过物理界面操控电脑接口或其他可控设备，并根据环境/设备状态作出推断。</p></article>
+              <article><h3>它的技术方案</h3><p>方案的机器人装置带有内部和外部传感器，并物理耦合到或承载一个可控设备，例如计算机接口设备。机器人根据推断结果，通过至少一个被驱动连杆控制该可控设备的用户界面；多个机器人装置还可以组合起来操控多个受控设备。</p></article>
+              <article><h3>给我们的启示</h3><p>启示是，“机器人作为物理用户界面操作者”是一个独立方向。对旧设备自动化、实验室自动化、桌面自动化而言，不必改造被控设备内部系统，也可以围绕传感、推断、执行连杆和多机器人组合进行布局。</p></article>
             </div>
           </section>
 
           <section class="article-section patent-breakdown-section">
             <h2>14. Robotic system with indication of boundary for robotic arm</h2>
-            <p><strong>代表专利：</strong><a href="https://pubchem.ncbi.nlm.nih.gov/patent/US-11472030-B2" target="_blank" rel="noopener">US-11472030-B2, Robotic system with indication of boundary for robotic arm</a>。来源：PubChem。方向：机器人。</p>
+            <p><strong>代表专利：</strong><a href="https://pubchem.ncbi.nlm.nih.gov/patent/US-11472030-B2" target="_blank" rel="noopener">US-11472030-B2</a>。申请人/权利人：AURIS HEALTH INC。</p>
             <div class="patent-breakdown">
-              <article><h3>发现了什么新问题？</h3><p>它发现的新问题是：机器人系统在真实部署中经常被维护、校准、末端工具适配和多传感器协同拖慢，单个动作演示不能直接变成可交付产品。</p></article>
-              <article><h3>用什么手段解决？</h3><p>它采用的方案围绕“Robotic system with indication of boundary for robotic arm”展开，把机构、传感、控制或任务流程拆成可验证模块，再通过位置补偿、边界提示、工具耦合、低可见度控制、路径记忆或执行器结构来降低现场不确定性。</p></article>
-              <article><h3>创新提示是什么？</h3><p>创新提示：机器人团队应把“场景约束”写成技术特征，例如视野受限、工具切换、边界提示、运动补偿、维护方式和人机交接，这些比单纯描述一个机械臂更容易形成可执行的专利布局。</p><p class="english-copy">Innovation cue: protect the problem definition, the measurable technical means, and the deployment constraint, not only the headline technology name.</p></article>
+              <article><h3>它真正发现的问题</h3><p>手术机器人在术前摆位阶段，如果机械臂初始姿态不合适，正式操作时可能行程不足，导致器械无法从入口点沿路径到达目标区域。这个问题发生在手术开始前，但会影响后续能否完成操作。</p></article>
+              <article><h3>它的技术方案</h3><p>方案根据入口点、路径和目标区域，确定机械臂推进医疗器械所需的最小行程长度；再根据该最小行程长度和存储映射确定机械臂初始姿态的边界。在术前机械臂设置阶段，系统在机械臂移动过程中向操作者提示该边界。</p></article>
+              <article><h3>给我们的启示</h3><p>启示是，机器人专利可以保护“准备阶段”的约束计算。很多团队只写术中控制，其实术前摆位、边界提示、行程裕量计算也直接影响安全性和可达性，适合做外围但很实用的专利。</p></article>
             </div>
           </section>
 
           <section class="article-section patent-breakdown-section">
-            <h2>15. Cart for robotic arms and method and apparatus for cartridge or magazine loading</h2>
-            <p><strong>代表专利：</strong><a href="https://pubchem.ncbi.nlm.nih.gov/patent/CA-3060879-A1" target="_blank" rel="noopener">CA-3060879-A1, Cart for robotic arms and method and apparatus for cartridge or magazine loading</a>。来源：PubChem。方向：机器人。</p>
+            <h2>15. Cart for robotic arms and method and apparatus for cartridge or magazine loading of arms</h2>
+            <p><strong>代表专利：</strong><a href="https://pubchem.ncbi.nlm.nih.gov/patent/CA-3060879-A1" target="_blank" rel="noopener">CA-3060879-A1</a>。申请人/权利人：VERB SURGICAL INC。</p>
             <div class="patent-breakdown">
-              <article><h3>发现了什么新问题？</h3><p>它发现的新问题是：机器人系统在真实部署中经常被维护、校准、末端工具适配和多传感器协同拖慢，单个动作演示不能直接变成可交付产品。</p></article>
-              <article><h3>用什么手段解决？</h3><p>它采用的方案围绕“Cart for robotic arms and method and apparatus for cartridge or magazine loading”展开，把机构、传感、控制或任务流程拆成可验证模块，再通过位置补偿、边界提示、工具耦合、低可见度控制、路径记忆或执行器结构来降低现场不确定性。</p></article>
-              <article><h3>创新提示是什么？</h3><p>创新提示：机器人团队应把“场景约束”写成技术特征，例如视野受限、工具切换、边界提示、运动补偿、维护方式和人机交接，这些比单纯描述一个机械臂更容易形成可执行的专利布局。</p><p class="english-copy">Innovation cue: protect the problem definition, the measurable technical means, and the deployment constraint, not only the headline technology name.</p></article>
+              <article><h3>它真正发现的问题</h3><p>手术机器人商业化部署中，机械臂不只是工作时怎么运动，还涉及如何运输、存储、交付到手术台、与手术台固定以及术后脱离。多机械臂系统若没有专门装载和部署机构，会增加手术室布置复杂度。</p></article>
+              <article><h3>它的技术方案</h3><p>方案提供一种机械臂推车，可容纳多个机器人臂。选定的机器人臂可从推车内的储存位置移动到部署位置，使至少一部分机械臂从推车中伸出；处于部署位置的机械臂可以与手术台耦合，也可以从推车脱离。</p></article>
+              <article><h3>给我们的启示</h3><p>启示是，机器人产品的专利布局不能只盯核心执行器。运输推车、机械臂弹匣/仓储、选择性部署、手术台耦合和脱离流程，都是产品真正进入医院时绕不开的工程问题。</p></article>
             </div>
           </section>
 
           <section class="article-section patent-breakdown-section">
             <h2>16. Method and system for positioning a moveable robotic system</h2>
-            <p><strong>代表专利：</strong><a href="https://pubchem.ncbi.nlm.nih.gov/patent/US-2023075185-A1" target="_blank" rel="noopener">US-2023075185-A1, Method and system for positioning a moveable robotic system</a>。来源：PubChem。方向：机器人。</p>
+            <p><strong>代表专利：</strong><a href="https://pubchem.ncbi.nlm.nih.gov/patent/US-2023075185-A1" target="_blank" rel="noopener">US-2023075185-A1</a>。申请人/权利人：FORD GLOBAL TECH LLC。</p>
             <div class="patent-breakdown">
-              <article><h3>发现了什么新问题？</h3><p>它发现的新问题是：机器人系统在真实部署中经常被维护、校准、末端工具适配和多传感器协同拖慢，单个动作演示不能直接变成可交付产品。</p></article>
-              <article><h3>用什么手段解决？</h3><p>它采用的方案围绕“Method and system for positioning a moveable robotic system”展开，把机构、传感、控制或任务流程拆成可验证模块，再通过位置补偿、边界提示、工具耦合、低可见度控制、路径记忆或执行器结构来降低现场不确定性。</p></article>
-              <article><h3>创新提示是什么？</h3><p>创新提示：机器人团队应把“场景约束”写成技术特征，例如视野受限、工具切换、边界提示、运动补偿、维护方式和人机交接，这些比单纯描述一个机械臂更容易形成可执行的专利布局。</p><p class="english-copy">Innovation cue: protect the problem definition, the measurable technical means, and the deployment constraint, not only the headline technology name.</p></article>
+              <article><h3>它真正发现的问题</h3><p>制造现场中的可移动机器人到达工位后，名义位置和真实位置之间会有偏差。若直接按离线程序执行装配、焊接或检测，偏差会传递到末端作业精度中。</p></article>
+              <article><h3>它的技术方案</h3><p>方案让与机器人臂相关的定位特征沿预定路径移动，直到满足力反馈条件，此时记录检测位置。系统将该检测位置与名义位置比较，计算机器人臂的位置偏移，并在制造工位执行后续操作时使用该偏移进行补偿。</p></article>
+              <article><h3>给我们的启示</h3><p>启示是，工业机器人定位专利可以从“接触式校准”切入。视觉定位不是唯一选择，沿路径移动、触发力反馈、计算偏移、再带入工位操作，是一条很清晰的制造场景技术链。</p></article>
             </div>
           </section>
-        <section class="article-section"><h2>资料来源 / Sources</h2><p>本期基于 PubChem patent pages 与 Google Patents 公开页面整理。公开页面中的法律状态、同族和文本摘要可能随数据库更新变化；商业决策应进一步核验官方登记簿、审查历史和权利要求。</p><ul>
+        <section class="article-section">
+          <h2>本期结论</h2>
+          <p>读完这16件可以看到，机器人专利的真实价值往往不在“机器人”这个名词，而在具体约束：低可见度、器械插入扰动、驱动对接、术前摆位、短期行为记忆、对抗性行人、机械臂收纳和工位偏差补偿。企业做专利布局时，应当把这些约束拆成传感、判断、控制和执行的闭环，而不是只写一个宽泛应用场景。</p>
+        </section>
+        <section class="article-section"><h2>资料来源 / Sources</h2><p>本期依据 PubChem patent JSON 公开摘要、题录信息和公开全文链接研读整理。正式FTO或授权稳定性判断仍需进一步核对官方登记簿、审查历史、同族和权利要求全文。</p><ul>
           <li><a href="https://pubchem.ncbi.nlm.nih.gov/patent/US-12588964-B2" target="_blank" rel="noopener">US-12588964-B2 - Medical instrument guidance with robotic systems</a></li>
-          <li><a href="https://pubchem.ncbi.nlm.nih.gov/patent/WO-2025104594-A1" target="_blank" rel="noopener">WO-2025104594-A1 - Surgical robotic system and method for using secondary image data</a></li>
+          <li><a href="https://pubchem.ncbi.nlm.nih.gov/patent/WO-2025104594-A1" target="_blank" rel="noopener">WO-2025104594-A1 - Surgical robotic system and method for using secondary image source to generate a composite instrument image in low contrast imaging mode</a></li>
           <li><a href="https://pubchem.ncbi.nlm.nih.gov/patent/US-2025283726-A1" target="_blank" rel="noopener">US-2025283726-A1 - Autonomous vehicle application</a></li>
-          <li><a href="https://pubchem.ncbi.nlm.nih.gov/patent/US-2025026006-A1" target="_blank" rel="noopener">US-2025026006-A1 - Drone mechanism including foldable arm and compressible components</a></li>
+          <li><a href="https://pubchem.ncbi.nlm.nih.gov/patent/US-2025026006-A1" target="_blank" rel="noopener">US-2025026006-A1 - Drone mechanism including foldable arm and compressible gripper</a></li>
           <li><a href="https://pubchem.ncbi.nlm.nih.gov/patent/US-12226175-B2" target="_blank" rel="noopener">US-12226175-B2 - Systems and methods for docking medical instruments</a></li>
           <li><a href="https://pubchem.ncbi.nlm.nih.gov/patent/EP-4509085-A1" target="_blank" rel="noopener">EP-4509085-A1 - Surgical robotic system with automated low visibility control</a></li>
           <li><a href="https://pubchem.ncbi.nlm.nih.gov/patent/US-12187287-B1" target="_blank" rel="noopener">US-12187287-B1 - Autonomous vehicle interaction memory</a></li>
@@ -228,10 +217,10 @@
           <li><a href="https://pubchem.ncbi.nlm.nih.gov/patent/US-2025318724-A1" target="_blank" rel="noopener">US-2025318724-A1 - Medical robotic system</a></li>
           <li><a href="https://pubchem.ncbi.nlm.nih.gov/patent/KR-102829805-B1" target="_blank" rel="noopener">KR-102829805-B1 - Entertainment apparatus and method for self-driving vehicle</a></li>
           <li><a href="https://pubchem.ncbi.nlm.nih.gov/patent/US-12391281-B2" target="_blank" rel="noopener">US-12391281-B2 - Responses to vulnerable road user&#39;s adversarial behavior</a></li>
-          <li><a href="https://pubchem.ncbi.nlm.nih.gov/patent/US-11504196-B2" target="_blank" rel="noopener">US-11504196-B2 - Single-arm robotic device with compact joint design</a></li>
+          <li><a href="https://pubchem.ncbi.nlm.nih.gov/patent/US-11504196-B2" target="_blank" rel="noopener">US-11504196-B2 - Single-arm robotic device with compact joint design and related systems and methods</a></li>
           <li><a href="https://pubchem.ncbi.nlm.nih.gov/patent/US-12330320-B2" target="_blank" rel="noopener">US-12330320-B2 - Robotic device</a></li>
           <li><a href="https://pubchem.ncbi.nlm.nih.gov/patent/US-11472030-B2" target="_blank" rel="noopener">US-11472030-B2 - Robotic system with indication of boundary for robotic arm</a></li>
-          <li><a href="https://pubchem.ncbi.nlm.nih.gov/patent/CA-3060879-A1" target="_blank" rel="noopener">CA-3060879-A1 - Cart for robotic arms and method and apparatus for cartridge or magazine loading</a></li>
+          <li><a href="https://pubchem.ncbi.nlm.nih.gov/patent/CA-3060879-A1" target="_blank" rel="noopener">CA-3060879-A1 - Cart for robotic arms and method and apparatus for cartridge or magazine loading of arms</a></li>
           <li><a href="https://pubchem.ncbi.nlm.nih.gov/patent/US-2023075185-A1" target="_blank" rel="noopener">US-2023075185-A1 - Method and system for positioning a moveable robotic system</a></li>
         </ul></section>
       </article>
