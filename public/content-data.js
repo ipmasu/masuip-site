@@ -74,6 +74,186 @@ window.MASU_CONTENT = {
   ],
   "articles": [
     {
+          "slug": "samsung-swatch-digital-watch-face-trademark",
+          "title": "三星被判赔 Swatch：数字表盘也会构成商标侵权吗？",
+          "description": "从三星智能手表表盘商标案看数字商品、平台责任和品牌保护边界。",
+          "category": "Trademark & Platform Liability",
+          "series": "global-ip",
+          "date": "2026-08-28",
+          "status": "available"
+    },
+    {
+          "slug": "samsung-swatch-digital-watch-face-trademark-en",
+          "title": "Samsung and Swatch: Can a Digital Watch Face Infringe a Trademark?",
+          "description": "A short IP essay on digital watch faces, platform liability, and trademark protection after Samsung's Swatch damages ruling.",
+          "category": "Trademark & Platform Liability",
+          "series": "global-ip",
+          "date": "2026-08-28",
+          "status": "available"
+    },
+    {
+          "slug": "ai-chip-smuggling-export-control-ip",
+          "title": "AI芯片走私案：出口管制背后，其实也是技术控制权之争",
+          "description": "从台湾AI服务器走私指控看芯片技术、商业秘密、供应链合规和实施能力控制。",
+          "category": "Export Control & Technology Control",
+          "series": "global-ip",
+          "date": "2026-08-28",
+          "status": "available"
+    },
+    {
+          "slug": "ai-chip-smuggling-export-control-ip-en",
+          "title": "AI Chip Smuggling: Export Controls Are Also About Control of Technology",
+          "description": "A short essay on AI chip smuggling allegations, export controls, trade secrets, and supply-chain compliance.",
+          "category": "Export Control & Technology Control",
+          "series": "global-ip",
+          "date": "2026-08-28",
+          "status": "available"
+    },
+    {
+          "slug": "cxmt-ai-memory-patent-war",
+          "title": "长鑫存储业绩暴涨：AI时代，存储芯片专利会不会成为下一个主战场？",
+          "description": "从AI带动存储芯片需求看DRAM/HBM、先进封装、制程专利和FTO风险。",
+          "category": "AI Chips & Patent Strategy",
+          "series": "patent-biweekly",
+          "date": "2026-08-28",
+          "status": "available"
+    },
+    {
+          "slug": "cxmt-ai-memory-patent-war-en",
+          "title": "CXMT's AI-Driven Surge: Will Memory Patents Become the Next Battlefield?",
+          "description": "A short IP essay on AI-driven memory demand, DRAM/HBM, advanced packaging, process patents, and FTO risk.",
+          "category": "AI Chips & Patent Strategy",
+          "series": "patent-biweekly",
+          "date": "2026-08-28",
+          "status": "available"
+    },
+    {
+          "slug": "xpeng-humanoid-robot-patent-layout",
+          "title": "小鹏押注人形机器人：车企进入机器人赛道，专利布局该怎么变？",
+          "description": "从小鹏人形机器人量产计划看车企感知、控制、电池和软件专利向机器人迁移。",
+          "category": "Robotics & Patent Layout",
+          "series": "patent-biweekly",
+          "date": "2026-08-28",
+          "status": "available"
+    },
+    {
+          "slug": "xpeng-humanoid-robot-patent-layout-en",
+          "title": "XPeng's Humanoid Robot Bet: How Should Automakers Change Their Patent Strategy?",
+          "description": "A short IP essay on automakers moving into humanoid robots and transferring autonomy, control, battery, and software patents.",
+          "category": "Robotics & Patent Layout",
+          "series": "patent-biweekly",
+          "date": "2026-08-28",
+          "status": "available"
+    },
+    {
+          "slug": "us-robotics-china-supply-chain-ip",
+          "title": "美国机器人产业的“中国制造”依赖：专利强不等于供应链强",
+          "description": "从机器人供应链新闻看专利、制造能力、零部件控制和跨境FTO。",
+          "category": "Robotics Supply Chain",
+          "series": "global-ip",
+          "date": "2026-08-28",
+          "status": "available"
+    },
+    {
+          "slug": "us-robotics-china-supply-chain-ip-en",
+          "title": "US Robotics and China Manufacturing: Strong Patents Do Not Equal a Strong Supply Chain",
+          "description": "A short IP essay on robotics supply chains, patents, manufacturing capability, component control, and cross-border FTO.",
+          "category": "Robotics Supply Chain",
+          "series": "global-ip",
+          "date": "2026-08-28",
+          "status": "available"
+    },
+    {
+          "slug": "ai-copyright-shareholder-lawsuits",
+          "title": "AI版权诉讼进入股东诉讼阶段：训练数据风险会变成公司治理风险",
+          "description": "从大科技公司AI版权股东诉讼看训练数据、信息披露和董事高管责任。",
+          "category": "AI Copyright & Governance",
+          "series": "global-ip",
+          "date": "2026-08-28",
+          "status": "available"
+    },
+    {
+          "slug": "ai-copyright-shareholder-lawsuits-en",
+          "title": "AI Copyright Disputes Enter Shareholder Litigation: Training Data Becomes Governance Risk",
+          "description": "A short IP essay on AI copyright, training data, disclosure, and director/officer accountability.",
+          "category": "AI Copyright & Governance",
+          "series": "global-ip",
+          "date": "2026-08-28",
+          "status": "available"
+    },
+    {
+          "slug": "anthropic-pentagon-ai-license-boundaries",
+          "title": "Anthropic与美国国防部纠纷：AI模型的使用边界能不能成为竞争优势？",
+          "description": "从Anthropic与美国国防部纠纷看AI模型许可、用途限制、国家安全和商业信誉。",
+          "category": "AI Licensing & National Security",
+          "series": "global-ip",
+          "date": "2026-08-28",
+          "status": "available"
+    },
+    {
+          "slug": "anthropic-pentagon-ai-license-boundaries-en",
+          "title": "Anthropic and the Pentagon: Can AI Use Boundaries Become a Competitive Advantage?",
+          "description": "A short IP essay on AI model licenses, use restrictions, national security, and commercial trust.",
+          "category": "AI Licensing & National Security",
+          "series": "global-ip",
+          "date": "2026-08-28",
+          "status": "available"
+    },
+    {
+          "slug": "nvidia-ai-cloud-revenue-sharing-ip-ecosystem",
+          "title": "Nvidia暂停AI云收入分成协议：算力平台的商业模式也需要知识产权护城河",
+          "description": "从Nvidia AI云收入分成计划调整看芯片、软件生态、平台控制和反垄断风险。",
+          "category": "AI Infrastructure & IP Ecosystem",
+          "series": "global-ip",
+          "date": "2026-08-28",
+          "status": "available"
+    },
+    {
+          "slug": "nvidia-ai-cloud-revenue-sharing-ip-ecosystem-en",
+          "title": "Nvidia's AI Cloud Deals: Compute Platforms Need IP Moats Too",
+          "description": "A short IP essay on Nvidia's AI cloud financing model, chips, software ecosystems, platform control, and antitrust risk.",
+          "category": "AI Infrastructure & IP Ecosystem",
+          "series": "global-ip",
+          "date": "2026-08-28",
+          "status": "available"
+    },
+    {
+          "slug": "datacenter-chemicals-semiconductor-material-patents",
+          "title": "数据中心化学品争议：半导体材料专利不能回避环境合规",
+          "description": "从EPA数据中心/半导体化学品诉讼看光刻材料、PFAS替代、绿色专利和合规。",
+          "category": "Semiconductor Materials & Compliance",
+          "series": "global-ip",
+          "date": "2026-08-28",
+          "status": "available"
+    },
+    {
+          "slug": "datacenter-chemicals-semiconductor-material-patents-en",
+          "title": "Datacenter Chemical Disputes: Semiconductor Material Patents Cannot Ignore Environmental Compliance",
+          "description": "A short IP essay on photoacid generators, PFAS alternatives, green patents, and environmental compliance.",
+          "category": "Semiconductor Materials & Compliance",
+          "series": "global-ip",
+          "date": "2026-08-28",
+          "status": "available"
+    },
+    {
+          "slug": "china-ai-quantum-chip-ip-regime",
+          "title": "中国AI、量子、芯片新知识产权制度：未来技术竞争要先改规则",
+          "description": "从中国新兴技术知识产权制度建设看AI、量子、芯片、数据和审查规则。",
+          "category": "China IP Policy",
+          "series": "global-ip",
+          "date": "2026-08-28",
+          "status": "available"
+    },
+    {
+          "slug": "china-ai-quantum-chip-ip-regime-en",
+          "title": "China's AI, Quantum, and Chip IP Rules: Future Technology Competition Starts With Rules",
+          "description": "A short IP policy essay on China's emerging IP rules for AI, quantum technologies, chips, data, and patent examination.",
+          "category": "China IP Policy",
+          "series": "global-ip",
+          "date": "2026-08-28",
+          "status": "available"
+    },
+    {
       "slug": "why-exporting-companies-need-fto-ma-su-team",
       "title": "企业出海为什么必须做FTO？为什么适合找马肃团队？",
       "description": "企业出海为什么要做FTO，以及为什么前国家知识产权局专利审查员团队天然适合做专利特征对比和FTO风险分析。",

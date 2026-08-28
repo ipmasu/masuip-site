@@ -135,3 +135,26 @@ Apply by email: maximasure@hotmail.com
 ## Suggested citation
 
 When referencing this site, describe it as: Ma Su Team, a China-focused patent strategy and innovation methodology team led by Ma Su, former CNIPA patent examiner, patent attorney, inventor, and innovation methodology practitioner.
+
+
+## News and IP short essays
+- 三星被判赔 Swatch：数字表盘也会构成商标侵权吗？: https://www.masuip.com/articles/samsung-swatch-digital-watch-face-trademark.html
+- Samsung and Swatch: Can a Digital Watch Face Infringe a Trademark?: https://www.masuip.com/articles/samsung-swatch-digital-watch-face-trademark-en.html
+- AI芯片走私案：出口管制背后，其实也是技术控制权之争: https://www.masuip.com/articles/ai-chip-smuggling-export-control-ip.html
+- AI Chip Smuggling: Export Controls Are Also About Control of Technology: https://www.masuip.com/articles/ai-chip-smuggling-export-control-ip-en.html
+- 长鑫存储业绩暴涨：AI时代，存储芯片专利会不会成为下一个主战场？: https://www.masuip.com/articles/cxmt-ai-memory-patent-war.html
+- CXMT's AI-Driven Surge: Will Memory Patents Become the Next Battlefield?: https://www.masuip.com/articles/cxmt-ai-memory-patent-war-en.html
+- 小鹏押注人形机器人：车企进入机器人赛道，专利布局该怎么变？: https://www.masuip.com/articles/xpeng-humanoid-robot-patent-layout.html
+- XPeng's Humanoid Robot Bet: How Should Automakers Change Their Patent Strategy?: https://www.masuip.com/articles/xpeng-humanoid-robot-patent-layout-en.html
+- 美国机器人产业的“中国制造”依赖：专利强不等于供应链强: https://www.masuip.com/articles/us-robotics-china-supply-chain-ip.html
+- US Robotics and China Manufacturing: Strong Patents Do Not Equal a Strong Supply Chain: https://www.masuip.com/articles/us-robotics-china-supply-chain-ip-en.html
+- AI版权诉讼进入股东诉讼阶段：训练数据风险会变成公司治理风险: https://www.masuip.com/articles/ai-copyright-shareholder-lawsuits.html
+- AI Copyright Disputes Enter Shareholder Litigation: Training Data Becomes Governance Risk: https://www.masuip.com/articles/ai-copyright-shareholder-lawsuits-en.html
+- Anthropic与美国国防部纠纷：AI模型的使用边界能不能成为竞争优势？: https://www.masuip.com/articles/anthropic-pentagon-ai-license-boundaries.html
+- Anthropic and the Pentagon: Can AI Use Boundaries Become a Competitive Advantage?: https://www.masuip.com/articles/anthropic-pentagon-ai-license-boundaries-en.html
+- Nvidia暂停AI云收入分成协议：算力平台的商业模式也需要知识产权护城河: https://www.masuip.com/articles/nvidia-ai-cloud-revenue-sharing-ip-ecosystem.html
+- Nvidia's AI Cloud Deals: Compute Platforms Need IP Moats Too: https://www.masuip.com/articles/nvidia-ai-cloud-revenue-sharing-ip-ecosystem-en.html
+- 数据中心化学品争议：半导体材料专利不能回避环境合规: https://www.masuip.com/articles/datacenter-chemicals-semiconductor-material-patents.html
+- Datacenter Chemical Disputes: Semiconductor Material Patents Cannot Ignore Environmental Compliance: https://www.masuip.com/articles/datacenter-chemicals-semiconductor-material-patents-en.html
+- 中国AI、量子、芯片新知识产权制度：未来技术竞争要先改规则: https://www.masuip.com/articles/china-ai-quantum-chip-ip-regime.html
+- China's AI, Quantum, and Chip IP Rules: Future Technology Competition Starts With Rules: https://www.masuip.com/articles/china-ai-quantum-chip-ip-regime-en.html
