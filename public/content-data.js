@@ -66,6 +66,12 @@ window.MASU_CONTENT = {
       "description": "Cross-border patent strategy for Chinese companies and individual inventors going overseas, and for overseas innovators entering China."
     },
     {
+      "id": "patent-biweekly",
+      "title": "Patent Frontier Watch",
+      "kicker": "Frontier patent signals",
+      "description": "A bilingual patent intelligence column tracking notable public patent and technology signals in robotics, AI, pharma, and advanced materials."
+    },
+    {
       "id": "youth-innovation",
       "title": "Youth Innovation",
       "kicker": "Science innovation education",
@@ -73,6 +79,24 @@ window.MASU_CONTENT = {
     }
   ],
   "articles": [
+    {
+          "slug": "patent-biweekly-issue-012",
+          "title": "前沿专利观察第012期：车企进入人形机器人赛道",
+          "description": "从小鹏人形机器人量产计划看汽车感知、控制、电池和软件专利向机器人迁移。",
+          "category": "Patent Frontier Watch",
+          "series": "patent-biweekly",
+          "date": "2026-08-28",
+          "status": "available"
+    },
+    {
+          "slug": "patent-biweekly-issue-011",
+          "title": "前沿专利观察第011期：AI内存需求与存储芯片专利战",
+          "description": "从长鑫存储业绩增长看DRAM、HBM、先进封装、制程专利和FTO风险。",
+          "category": "Patent Frontier Watch",
+          "series": "patent-biweekly",
+          "date": "2026-08-28",
+          "status": "available"
+    },
     {
           "slug": "samsung-swatch-digital-watch-face-trademark",
           "title": "三星被判赔 Swatch：数字表盘也会构成商标侵权吗？",
